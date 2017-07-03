@@ -4,7 +4,6 @@ class MatchStats:
     qb = []
     rb = []
     wr = []
-    flex = []
     te = []
     dst = []
     team = ""
@@ -16,19 +15,22 @@ class MatchStats:
         self.team = team
         self.year = year
         self.week = week
+        self.rb = []
+        self.qb = []
+        self.wr = []
+        self.te = []
+        self.dst = []
 
     #add data to the object, based off of position
-    def addData(self,position, points, playerName)
+    def addData(self,position, points, playerName):
         temp = [playerName, points]
-        if position = "qb":
-            qb.append(temp)
-        elif position = "rb":
-            rb.append(temp)
-        elif position = "wr":
-            wr.append(temp)
-        elif position = "te":
-            te.append(temp)
-        elif position ="flex":
-            flex.append(temp)
+        if position == "QB":
+            self.qb = temp
+        elif position == "RB":
+            self.rb.append(temp)
+        elif position == "WR":
+            self.wr.append(temp)
+        elif position == "TE":
+            self.te = temp
         else:
-            dst.append(temp)
+            self.dst = temp

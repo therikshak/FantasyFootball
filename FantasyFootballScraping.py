@@ -26,7 +26,7 @@ while year < 2017:
     for row in table.find_all('tr')[2:]:
         match = []
         #if not in between table data
-        if currentIndex < headerStartIndex :
+        if currentIndex < headerStartIndex:
             #get all matchup dat
             line = row.find_all('td')
             #add team 1

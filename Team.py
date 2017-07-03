@@ -1,5 +1,12 @@
 class Team:
-    teamName =""
-    Years = [] #first index of years will be the season year
-               #the second will be a list of matches for this team
+    teamName = ""
     Matches = []#will contain match objects for every game in one season
+
+    # constructor
+    def __init__(self, name):
+        self.teamName = name
+        self.Matches = []
+
+    #add Match
+    def addMatch(self, match):
+        self.Matches.append(match)
