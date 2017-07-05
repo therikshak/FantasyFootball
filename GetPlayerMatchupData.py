@@ -5,6 +5,8 @@ import requests
 import copy
 from MatchStats import MatchStats
 from Team import Team
+import csv
+import os
 
 #teamId by index for other years
 teamIDs = ['Erik Stryshak', 'Charlie Frank', "Brendan Hart",
@@ -12,6 +14,7 @@ teamIDs = ['Erik Stryshak', 'Charlie Frank', "Brendan Hart",
             'Geoffrey Raclin', 'Trey Shmo', 'Richard Graney',
             'Tommy Stupp', 'Peter Condie', 'James Carman',
             'Chandler Dalton', 'Ozair Ferozuddin']
+
 # 0 is teamId, add 1 for url
 # 1 is week, 2013 had 13 weeks, every other season had 12
 # 2 is year 2013-2016 for now
@@ -21,6 +24,7 @@ years = [2013, 2014, 2015, 2016]
 weeks = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]
 teamId = 1
 teamData = []
+#for team in teamIDs:
 for team in teamIDs:
     tempTeam = Team(team)
     for year in years:
@@ -68,3 +72,97 @@ for team in teamIDs:
                 tempTeam.addMatch(tempMatch)
     teamId += 1
     teamData.append(tempTeam)
+
+#df.to_csv('results.csv', index=False)
+#output data to csv
+#one csv per team
+#YEAR WEEK TEAMNAME QBNAME QBSCORE RBNAME RBSCORE ...TOTAL POINTS
+rHeader = ['YEAR', 'WEEK', 'TEAM_NAME', 'QB_NAME', 'QB_SCORE',
+            'RB_NAME', 'RB_SCORE','RB_NAME', 'RB_SCORE','WR_NAME',
+            'WR_SCORE', 'WR_NAME', 'WR_SCORE', 'TE_NAME', 'TE_SCORE',
+            'DST_NAME', 'DST_SCORE','FLEX_NAME','FLEX_POS', 'FLEX_SCORE']
+
+
+for team in teamData:
+    outName = team.teamName + '.csv'
+    with open(outName, 'w', newline='') as out:
+        csv_out=csv.writer(out)
+        csv_out.writerow(rHeader)
+        for match in team.Matches:
+            line = [match.year, match.week, match.team]
+
+            #add qb
+            try:
+                line.append(match.qb[0])
+                line.append(match.qb[1])
+            except IndexError:
+                line.append('n/a')
+                line.append(0)
+
+            #add rb1
+            try:
+                line.append(match.rb[0][0])
+                line.append(match.rb[0][1])
+            except IndexError:
+                line.append('n/a')
+                line.append(0)
+            #add rb2
+            try:
+                line.append(match.rb[1][0])
+                line.append(match.rb[1][1])
+            except IndexError:
+                line.append('n/a')
+                line.append(0)
+
+            #add wr1
+            try:
+                line.append(match.wr[0][0])
+                line.append(match.wr[0][1])
+            except IndexError:
+                line.append('n/a')
+                line.append(0)
+            #add wr2
+            try:
+                line.append(match.wr[1][0])
+                line.append(match.wr[1][1])
+            except IndexError:
+                line.append('n/a')
+                line.append(0)
+
+            #add tight end
+            try:
+                line.append(match.te[0][0])
+                line.append(match.te[0][1])
+            except IndexError:
+                line.append('n/a')
+                line.append(0)
+
+            #add defense
+            try:
+                line.append(match.dst[0])
+                line.append(match.dst[1])
+            except IndexError:
+                line.append('n/a')
+                line.append(0)
+
+            #add the flex
+            try: #try the rb first
+                line.append(match.rb[2][0])
+                line.append('rb')
+                line.append(match.rb[2][1])
+            except IndexError:
+                try: #if error, try the wr
+                    line.append(match.wr[2][0])
+                    line.append('wr')
+                    line.append(match.wr[2][1])
+                except IndexError:
+                    try: #if error try te
+                        line.append(match.te[1][0])
+                        line.append('te')
+                        line.append(match.te[1][1])
+                    except IndexError: #if error, null
+                        line.append('n/a')
+                        line.append('n/a')
+                        line.append(0)
+            #write the line to the csv file
+            csv_out.writerow(line)

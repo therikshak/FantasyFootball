@@ -62,4 +62,4 @@ while year < 2017:
 df = pd.DataFrame(results, columns = resultHeader)
 df['Team 1 Name'] = df['Team 1 Name'].replace('','Joe Buelter')
 df['Team 2 Name'] = df['Team 2 Name'].replace('','Joe Buelter')
-df.to_csv('results.csv', index=False)
+df.to_csv('Matchup_Results.csv', index=False)

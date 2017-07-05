@@ -31,6 +31,6 @@ class MatchStats:
         elif position == "WR":
             self.wr.append(temp)
         elif position == "TE":
-            self.te = temp
+            self.te.append(temp)
         else:
             self.dst = temp

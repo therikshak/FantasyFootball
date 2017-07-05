@@ -1,0 +1,50 @@
+YEAR,WEEK,TEAM_NAME,QB_NAME,QB_SCORE,RB_NAME,RB_SCORE,RB_NAME,RB_SCORE,WR_NAME,WR_SCORE,WR_NAME,WR_SCORE,TE_NAME,TE_SCORE,DST_NAME,DST_SCORE,FLEX_NAME,FLEX_POS,FLEX_SCORE
+2013,1,Richard Graney,Colin Kaepernick,32,Matt Forte,17,Chris Ivory,1,Randall Cobb,19.5,Antonio Brown,9.5,Brandon Myers,15.5,Bengals D/ST,2,LeSean McCoy,rb,24.5
+2013,2,Richard Graney,Colin Kaepernick,5,Matt Forte,18,LeSean McCoy,18.5,Randall Cobb,22.5,Antonio Brown,8,Dwayne Allen,0,Bengals D/ST,12,Brandon Myers,te,10
+2013,3,Richard Graney,Colin Kaepernick,4,Matt Forte,18,LeSean McCoy,21,Randall Cobb,7.5,Antonio Brown,35.5,Brandon Myers,4.5,Buccaneers D/ST,4,Tavon Austin,wr,6
+2013,4,Richard Graney,Colin Kaepernick,13,Matt Forte,19.5,LeSean McCoy,9.5,Antonio Brown,15,Tavon Austin,1,Brandon Myers,0,Chiefs D/ST,21,Santonio Holmes,wr,2.5
+2013,5,Richard Graney,Colin Kaepernick,9,Matt Forte,13,Chris Ivory,2,Randall Cobb,12,Tavon Austin,4.5,Brandon Myers,4,Chiefs D/ST,17,LeSean McCoy,rb,17
+2013,6,Richard Graney,Jay Cutler,20,Matt Forte,13,LeSean McCoy,15,Randall Cobb,7,Antonio Brown,12.5,Sean McGrath,0,Chiefs D/ST,26,Marlon Brown,wr,8.5
+2013,7,Richard Graney,Jay Cutler,-1,Matt Forte,29,LeSean McCoy,10,Antonio Brown,8,Tavon Austin,3.5,n/a,0,Chiefs D/ST,12,Doug Baldwin,wr,1.5
+2013,8,Richard Graney,Colin Kaepernick,27,Roy Helu,2.5,LeSean McCoy,7,Riley Cooper,2,Antonio Brown,12.5,Jeff Cumberland,0.5,Chiefs D/ST,4,Doug Baldwin,wr,1.5
+2013,9,Richard Graney,Ben Roethlisberger,28,Matt Forte,25.5,LeSean McCoy,15,Antonio Brown,15.5,Marlon Brown,21.5,Delanie Walker,2,Chiefs D/ST,20,Chris Givens,wr,7
+2013,10,Richard Graney,Ben Roethlisberger,10,Matt Forte,6,LeSean McCoy,15.5,Antonio Brown,13,Doug Baldwin,9.5,Garrett Graham,2,Bengals D/ST,15,Marlon Brown,wr,1.5
+2013,11,Richard Graney,Colin Kaepernick,13,Matt Forte,20.5,LeSean McCoy,28,Antonio Brown,29.5,Doug Baldwin,13,Garrett Graham,20.5,Bengals D/ST,28,Santonio Holmes,wr,8
+2013,12,Richard Graney,Ben Roethlisberger,16,Matt Forte,12.5,Roy Helu,2.5,Antonio Brown,18,Santonio Holmes,1.5,Garrett Graham,5.5,Chiefs D/ST,-2,Chris Givens,wr,0
+2013,13,Richard Graney,Colin Kaepernick,17,Matt Forte,16,LeSean McCoy,12.5,Antonio Brown,7.5,Santonio Holmes,0,Garrett Graham,4.5,Redskins D/ST,8,Delanie Walker,te,0.5
+2014,1,Richard Graney,Peyton Manning,22.5,Rashad Jennings,17.6,Maurice Jones-Drew,3.3,Randall Cobb,14.8,Rueben Randle,1.1,Jordan Cameron,5.7,Saints D/ST,-7,Alfred Morris,rb,9.1
+2014,2,Richard Graney,Peyton Manning,21.6,Rashad Jennings,10.9,Alfred Morris,20.5,Randall Cobb,21,Kelvin Benjamin,5.6,Coby Fleener,1.8,Saints D/ST,1,Julian Edelman,wr,18
+2014,3,Richard Graney,Peyton Manning,20,Rashad Jennings,23.6,Alfred Morris,7.7,Randall Cobb,4.4,Julian Edelman,13.9,Jordan Cameron,2.8,Saints D/ST,7,Larry Donnell,te,5.5
+2014,4,Richard Graney,Eli Manning,32.1,Rashad Jennings,5.7,Alfred Morris,16.5,Randall Cobb,26.8,Kelvin Benjamin,16.1,Coby Fleener,9.6,Saints D/ST,-5,Julian Edelman,wr,4.3
+2014,5,Richard Graney,Peyton Manning,31,Rashad Jennings,8.2,Alfred Morris,3.2,Randall Cobb,10.9,Kelvin Benjamin,3.3,Jordan Cameron,4.8,Cowboys D/ST,3,Julian Edelman,wr,6
+2014,6,Richard Graney,Peyton Manning,21.5,Branden Oliver,20.4,Alfred Morris,6,Randall Cobb,14.4,Rueben Randle,8.3,Jordan Cameron,17.7,Colts D/ST,8,Julian Edelman,wr,14.6
+2014,7,Richard Graney,Peyton Manning,28.6,Branden Oliver,8.8,Alfred Morris,5.4,Randall Cobb,21.3,Kelvin Benjamin,13.6,Jordan Cameron,1,Colts D/ST,12,Julian Edelman,wr,7.2
+2014,8,Richard Graney,Peyton Manning,23.4,Branden Oliver,9.8,Alfred Morris,15,Randall Cobb,21.1,Kelvin Benjamin,11.4,Jordan Cameron,5.5,Colts D/ST,-6,Julian Edelman,wr,1.9
+2014,9,Richard Graney,Peyton Manning,21.8,Branden Oliver,3.1,Alfred Morris,23.9,Kelvin Benjamin,2.8,Rueben Randle,6.9,Coby Fleener,15.7,Colts D/ST,2,Julian Edelman,wr,25.4
+2014,10,Richard Graney,Peyton Manning,29.6,Chris Polk,1.1,Tre Mason,10.1,Randall Cobb,13.2,Kelvin Benjamin,20.5,Clay Harbor,4.3,Colts D/ST,0,Rueben Randle,wr,6.4
+2014,11,Richard Graney,Peyton Manning,15.5,Rashad Jennings,8.7,Alfred Morris,14.2,Randall Cobb,17.9,Kelvin Benjamin,21.4,Coby Fleener,17.9,Colts D/ST,-5,Julian Edelman,wr,10.6
+2014,12,Richard Graney,Peyton Manning,28.1,Rashad Jennings,16,Alfred Morris,19.5,Randall Cobb,7.8,Julian Edelman,14.4,Scott Chandler,10.3,Colts D/ST,15,Eddie Lacy,rb,26.8
+2015,1,Richard Graney,Matthew Stafford,13.7,Mark Ingram,16.2,Eddie Lacy,16.9,Marques Colston,4.4,Kenny Stills,1.7,Greg Olsen,1.6,Panthers D/ST,22,Julian Edelman,wr,16.1
+2015,2,Richard Graney,Matthew Stafford,19.4,Mark Ingram,11.3,Eddie Lacy,0.9,Marques Colston,8.9,Cole Beasley,3.4,Greg Olsen,10,Panthers D/ST,4,Julian Edelman,wr,28.4
+2015,3,Richard Graney,Matthew Stafford,9.1,Dexter McCluster,4.7,Mark Ingram,18.4,Marques Colston,6.7,Julian Edelman,12.5,Greg Olsen,29.4,Panthers D/ST,4,Eddie Lacy,rb,10.2
+2015,4,Richard Graney,Matthew Stafford,8.1,Mark Ingram,15.8,Arian Foster,3,Marques Colston,3.9,Ted Ginn Jr.,14.8,Greg Olsen,3.8,Panthers D/ST,15,Eddie Lacy,rb,9.8
+2015,5,Richard Graney,Matthew Stafford,5.7,Mark Ingram,8.4,Arian Foster,16.3,Marques Colston,5.1,Julian Edelman,20,Anthony Fasano,0,Jaguars D/ST,-2,Eddie Lacy,rb,4
+2015,6,Richard Graney,Matthew Stafford,33.9,Mark Ingram,19.1,Arian Foster,19.7,Martavis Bryant,29.5,Julian Edelman,14.2,Greg Olsen,22.6,Panthers D/ST,4,Eddie Lacy,rb,3
+2015,7,Richard Graney,Matthew Stafford,18.7,Mark Ingram,21.8,Arian Foster,27,Ted Ginn Jr.,12.7,Martavis Bryant,13.3,Greg Olsen,8,Panthers D/ST,8,Julian Edelman,wr,7.9
+2015,8,Richard Graney,Matthew Stafford,9.2,Mark Ingram,13.9,Eddie Lacy,11.2,Ted Ginn Jr.,7,Martavis Bryant,6.9,Greg Olsen,16.9,Panthers D/ST,9,Julian Edelman,wr,23.6
+2015,9,Richard Graney,Derek Carr,26.3,Mark Ingram,11.6,Eddie Lacy,-1,Ted Ginn Jr.,2.5,Martavis Bryant,10.6,Greg Olsen,14.6,Cowboys D/ST,-5,Julian Edelman,wr,12
+2015,10,Richard Graney,Derek Carr,17.3,Chris Thompson,8.2,Mark Ingram,11.3,Ted Ginn Jr.,6.5,Martavis Bryant,24.8,Greg Olsen,12,Panthers D/ST,10,Julian Edelman,wr,7.3
+2015,11,Richard Graney,Derek Carr,7.6,Jay Ajayi,4.6,Eddie Lacy,11.1,Lance Moore,2.6,Ted Ginn Jr.,13.4,Greg Olsen,12.9,Panthers D/ST,19,Eric Ebron,te,0
+2015,12,Richard Graney,Matthew Stafford,34.8,Mark Ingram,12.7,Eddie Lacy,19.9,Ted Ginn Jr.,0,Martavis Bryant,16.5,Greg Olsen,9.5,Panthers D/ST,23,Eric Ebron,te,3.8
+2016,1,Richard Graney,Philip Rivers,14.6,Jeremy Langford,13.3,LeGarrette Blount,11,A.J. Green,30,Randall Cobb,9.8,Greg Olsen,10.8,Colts D/ST,-5,n/a,n/a,0
+2016,2,Richard Graney,Philip Rivers,23.8,Jeremy Langford,7.9,LeGarrette Blount,18.3,A.J. Green,4.8,Randall Cobb,6.8,Greg Olsen,20.7,Bears D/ST,9,n/a,n/a,0
+2016,3,Richard Graney,Philip Rivers,11.2,Jeremy Langford,5.6,LeGarrette Blount,22.5,A.J. Green,11.7,Kelvin Benjamin,0,Greg Olsen,9.4,Giants D/ST,0,n/a,n/a,0
+2016,4,Richard Graney,Philip Rivers,18.8,LeGarrette Blount,7.3,Orleans Darkwa,10.8,A.J. Green,28.3,Kelvin Benjamin,11.4,Greg Olsen,18.6,Giants D/ST,-1,n/a,n/a,0
+2016,5,Richard Graney,Philip Rivers,26.4,LeGarrette Blount,9.7,Darren Sproles,8.8,A.J. Green,7,Kelvin Benjamin,9.5,Greg Olsen,22.6,Ravens D/ST,6,n/a,n/a,0
+2016,6,Richard Graney,Philip Rivers,11.1,LeGarrette Blount,14,Darren Sproles,2.9,A.J. Green,11.8,Kelvin Benjamin,12.6,Greg Olsen,12.4,Ravens D/ST,4,n/a,n/a,0
+2016,7,Richard Graney,Philip Rivers,14.6,LeGarrette Blount,25.9,Darren Sproles,5.9,A.J. Green,26.9,Michael Thomas,18,C.J. Fiedorowicz,6,Ravens D/ST,17,n/a,n/a,0
+2016,8,Richard Graney,Philip Rivers,12.7,LeGarrette Blount,10.3,Chris Thompson,6.6,A.J. Green,16.6,Kelvin Benjamin,8.3,Greg Olsen,1.6,Bears D/ST,10,n/a,n/a,0
+2016,9,Richard Graney,Philip Rivers,18.7,Darren Sproles,8.6,Terron Ward,3,Randall Cobb,8.4,Kelvin Benjamin,10.1,Greg Olsen,13.7,Ravens D/ST,15,n/a,n/a,0
+2016,10,Richard Graney,Philip Rivers,17,LeGarrette Blount,24.9,Devontae Booker,9.8,A.J. Green,16.3,Kelvin Benjamin,9.9,Greg Olsen,6.4,Ravens D/ST,16,n/a,n/a,0
+2016,11,Richard Graney,Joe Flacco,15.4,LeGarrette Blount,12.4,Darren Sproles,2.6,A.J. Green,0,Kelvin Benjamin,7.1,Greg Olsen,5.3,Ravens D/ST,-2,n/a,n/a,0
+2016,12,Richard Graney,Philip Rivers,19.7,LeGarrette Blount,6.7,Devontae Booker,10.6,Kelvin Benjamin,12.3,Rishard Matthews,13.9,Greg Olsen,6.5,Ravens D/ST,8,n/a,n/a,0

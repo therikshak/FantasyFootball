@@ -1,0 +1,50 @@
+YEAR,WEEK,TEAM_NAME,QB_NAME,QB_SCORE,RB_NAME,RB_SCORE,RB_NAME,RB_SCORE,WR_NAME,WR_SCORE,WR_NAME,WR_SCORE,TE_NAME,TE_SCORE,DST_NAME,DST_SCORE,FLEX_NAME,FLEX_POS,FLEX_SCORE
+2013,1,Andrew McDowell,Drew Brees,20,Reggie Bush,27,DeAngelo Williams,8.5,Mike Williams,13,Brandon Marshall,20,Jason Witten,23,49ers D/ST,5,T.Y. Hilton,wr,3.5
+2013,2,Andrew McDowell,Drew Brees,12,Knowshon Moreno,23.5,Reggie Bush,7.5,Mike Williams,1,Brandon Marshall,20.5,Jason Witten,2.5,49ers D/ST,9,T.Y. Hilton,wr,15
+2013,3,Andrew McDowell,Drew Brees,31,Knowshon Moreno,3.5,DeAngelo Williams,12.5,Mike Williams,8.5,Eddie Royal,4,Jason Witten,8.5,49ers D/ST,1,Brandon Marshall,wr,7.5
+2013,4,Andrew McDowell,Drew Brees,34,Knowshon Moreno,14.5,Reggie Bush,24,Rod Streater,2,Eddie Royal,5.5,Jason Witten,6.5,Colts D/ST,22,Brandon Marshall,wr,12.5
+2013,5,Andrew McDowell,Drew Brees,19,Rashad Jennings,4,Reggie Bush,8,Eddie Royal,1.5,Brandon Marshall,11,Jason Witten,21.5,Saints D/ST,4,DeAngelo Williams,rb,7
+2013,6,Andrew McDowell,Drew Brees,16,Reggie Bush,20.5,DeAngelo Williams,13.5,Leonard Hankerson,4,Brandon Marshall,24.5,Jason Witten,3.5,49ers D/ST,11,T.Y. Hilton,wr,6.5
+2013,7,Andrew McDowell,Nick Foles,5,Reggie Bush,10.5,DeAngelo Williams,5.5,Terrance Williams,16,Brandon Marshall,10,Jason Witten,6,49ers D/ST,13,T.Y. Hilton,wr,3
+2013,8,Andrew McDowell,Drew Brees,33,Reggie Bush,20,DeAngelo Williams,10.5,Jarrett Boykin,10.5,Leonard Hankerson,6.5,Jason Witten,2,49ers D/ST,12,Terrance Williams,wr,13
+2013,9,Andrew McDowell,Drew Brees,19,James Starks,10,DeAngelo Williams,6,Jarrett Boykin,1.5,Terrance Williams,4,Jason Witten,20,Saints D/ST,2,Brandon Marshall,wr,19.5
+2013,10,Andrew McDowell,Drew Brees,31,James Starks,0.5,DeAngelo Williams,10,Jarrett Boykin,15,Terrance Williams,8.5,Jason Witten,3,Saints D/ST,7,Brandon Marshall,wr,28.5
+2013,11,Andrew McDowell,Drew Brees,14,Chris Ogbonnaya,10,Reggie Bush,4,Rishard Matthews,7,Brandon Marshall,6,Rob Housler,10,Saints D/ST,9,T.Y. Hilton,wr,6.5
+2013,12,Andrew McDowell,Drew Brees,19,Chris Ogbonnaya,2,Reggie Bush,11,Brandon Marshall,22,T.Y. Hilton,5.5,Jason Witten,17,49ers D/ST,16,DeAngelo Williams,rb,5
+2013,13,Andrew McDowell,Drew Brees,7,Chris Ogbonnaya,4,Reggie Bush,23.5,Brandon Marshall,6,T.Y. Hilton,6.5,Jason Witten,6.5,49ers D/ST,8,DeAngelo Williams,rb,0
+2014,1,Andrew McDowell,Drew Brees,15.5,Shane Vereen,15.6,Mike Tolbert,2.7,Kendall Wright,13.6,Julio Jones,13.1,Rob Gronkowski,12,Seahawks D/ST,10,DeAngelo Williams,rb,7.2
+2014,2,Andrew McDowell,Drew Brees,15.8,Shane Vereen,4,DeAngelo Williams,0,Kendall Wright,4.6,Julio Jones,18.3,Rob Gronkowski,5.2,Seahawks D/ST,-1,Dwayne Bowe,wr,5.5
+2014,3,Andrew McDowell,Drew Brees,19.5,Shane Vereen,5.7,DeAngelo Williams,0,Kendall Wright,6.9,Julio Jones,32.6,Rob Gronkowski,11.9,Seahawks D/ST,5,Dwayne Bowe,wr,4.7
+2014,4,Andrew McDowell,Drew Brees,20.2,Shane Vereen,9.2,Donald Brown,7.4,Kendall Wright,6,Julio Jones,11.2,Rob Gronkowski,10.1,Seahawks D/ST,0,DeAngelo Williams,rb,3.4
+2014,5,Andrew McDowell,Drew Brees,16.7,Isaiah Crowell,1.9,Darrin Reaves,5.6,Julio Jones,16,Dwayne Bowe,5.7,Rob Gronkowski,19,Seahawks D/ST,2,Eric Ebron,te,1.8
+2014,6,Andrew McDowell,Logan Thomas,0,Isaiah Crowell,11.7,Shane Vereen,1.2,Kendall Wright,1.1,Julio Jones,8.9,Rob Gronkowski,12.9,Giants D/ST,2,Eric Ebron,te,3.3
+2014,7,Andrew McDowell,Drew Brees,21,Isaiah Crowell,2.8,Shane Vereen,25.9,Miles Austin,6.8,Kendall Wright,15.8,Rob Gronkowski,9.3,Giants D/ST,0,Julio Jones,wr,8.1
+2014,8,Andrew McDowell,Kyle Orton,26.1,Isaiah Crowell,1.4,Shane Vereen,6,Kendall Wright,6.8,Julio Jones,7.8,Rob Gronkowski,37.4,Texans D/ST,7,Dwayne Bowe,wr,9.4
+2014,9,Andrew McDowell,Drew Brees,18.1,Shane Vereen,15.2,Charles Sims,0,Miles Austin,6.9,Kenny Britt,10.2,Rob Gronkowski,21,Texans D/ST,12,Dwayne Bowe,wr,8.5
+2014,10,Andrew McDowell,Drew Brees,18.4,Antone Smith,0.3,Charles Sims,3,Kendall Wright,7.4,Julio Jones,15.9,Richard Rodgers,1.6,Packers D/ST,17,Dwayne Bowe,wr,13.3
+2014,11,Andrew McDowell,Drew Brees,14.5,Shane Vereen,9.7,Roy Helu,12.7,Kendall Wright,9,Julio Jones,8.9,Rob Gronkowski,15.1,Packers D/ST,26,Kenny Britt,wr,20.8
+2014,12,Andrew McDowell,Drew Brees,28.3,Isaiah Crowell,20.8,Shane Vereen,10,Kendall Wright,3.3,Julio Jones,15.3,Rob Gronkowski,10.3,Packers D/ST,4,Kenny Britt,wr,4.7
+2015,1,Andrew McDowell,Drew Brees,16.5,Giovani Bernard,11.8,Adrian Peterson,6.7,Anquan Boldin,5.6,Rueben Randle,3.8,Travis Kelce,25.6,Seahawks D/ST,18,Dion Lewis,rb,14
+2015,2,Andrew McDowell,Drew Brees,12.1,Giovani Bernard,15.4,Adrian Peterson,18.2,Mike Evans,0,Anquan Boldin,15,Travis Kelce,7.8,Seahawks D/ST,3,Dion Lewis,rb,20.8
+2015,3,Andrew McDowell,Colin Kaepernick,5.3,Adrian Peterson,24.6,Dion Lewis,15.2,Mike Evans,13.6,Kendall Wright,20.3,Travis Kelce,13,Seahawks D/ST,16,Tyler Eifert,te,0
+2015,4,Andrew McDowell,Drew Brees,22.4,Giovani Bernard,12.2,Adrian Peterson,17.4,Mike Evans,4.7,Anquan Boldin,2.7,Travis Kelce,5.4,Seahawks D/ST,5,Tyler Eifert,te,8.4
+2015,5,Andrew McDowell,Drew Brees,15.3,Giovani Bernard,12.6,Dion Lewis,19.3,Mike Evans,5.6,Kendall Wright,4.5,Travis Kelce,5,Seahawks D/ST,11,Rueben Randle,wr,6.7
+2015,6,Andrew McDowell,Drew Brees,16.7,Giovani Bernard,13.8,Dion Lewis,5.4,Antonio Brown,3.9,Anquan Boldin,12.7,Tyler Eifert,11,Seahawks D/ST,6,Kendall Wright,wr,5.4
+2015,7,Andrew McDowell,Drew Brees,11.8,Matt Jones,6.6,Dion Lewis,0,Mike Evans,26.4,Antonio Brown,16,Travis Kelce,9.8,Seahawks D/ST,13,Anquan Boldin,wr,5.4
+2015,8,Andrew McDowell,Drew Brees,44.3,Giovani Bernard,4.4,Dion Lewis,20.2,Mike Evans,6.3,Antonio Brown,13.7,Tyler Eifert,5.9,Seahawks D/ST,6,Kendall Wright,wr,4.8
+2015,9,Andrew McDowell,Drew Brees,31.4,Giovani Bernard,9.1,Dion Lewis,7.3,Willie Snead,12.5,Mike Evans,17,Tyler Eifert,25.8,Eagles D/ST,9,Antonio Brown,wr,37.1
+2015,10,Andrew McDowell,Drew Brees,12.4,Matt Jones,26.2,Giovani Bernard,10.4,Willie Snead,0,Mike Evans,16.6,Tyler Eifert,4.1,Eagles D/ST,8,Antonio Brown,wr,32.9
+2015,11,Andrew McDowell,Matt Hasselbeck,13.3,Matt Jones,0.2,Giovani Bernard,18.6,Mike Evans,14.3,Anquan Boldin,11.8,Travis Kelce,7.1,Seahawks D/ST,5,Tyler Eifert,te,15.7
+2015,12,Andrew McDowell,Drew Brees,7.1,Matt Jones,6.9,Giovani Bernard,7.7,Mike Evans,8.9,Antonio Brown,8.1,Travis Kelce,14.9,Eagles D/ST,-4,Tyler Eifert,te,11.5
+2016,1,Andrew McDowell,Drew Brees,31.4,Adrian Peterson,3.1,Danny Woodhead,20.5,Jarvis Landry,9.4,Will Fuller V,19.2,Delanie Walker,5.7,Bengals D/ST,5,n/a,n/a,0
+2016,2,Andrew McDowell,Drew Brees,14.5,Adrian Peterson,3.6,Danny Woodhead,3.6,Jarvis Landry,16.5,Will Fuller V,12.4,Delanie Walker,17.3,Jets D/ST,0,n/a,n/a,0
+2016,3,Andrew McDowell,Drew Brees,25.9,Shane Vereen,14.5,Kenyan Drake,5.8,Jarvis Landry,23.1,Will Fuller V,4.6,Jason Witten,3.5,Bengals D/ST,4,n/a,n/a,0
+2016,4,Andrew McDowell,Drew Brees,11.9,Kenyan Drake,1.5,Fozzy Whittaker,13.7,Jarvis Landry,9.6,Will Fuller V,23.6,Jason Witten,8.2,Bengals D/ST,14,n/a,n/a,0
+2016,5,Andrew McDowell,Andy Dalton,22.2,Kenyan Drake,3,Fozzy Whittaker,5.9,Jarvis Landry,4.5,Will Fuller V,0.9,Jason Witten,5.8,Bengals D/ST,-1,n/a,n/a,0
+2016,6,Andrew McDowell,Drew Brees,32.6,Fozzy Whittaker,0.8,,0,Jarvis Landry,12.6,Will Fuller V,0,Delanie Walker,2.6,Jets D/ST,-2,n/a,n/a,0
+2016,7,Andrew McDowell,Drew Brees,24.7,DeAndre Washington,2.7,Isaiah Crowell,15.4,Will Fuller V,4.2,Anquan Boldin,10.3,Delanie Walker,17.9,Jets D/ST,11,n/a,n/a,0
+2016,8,Andrew McDowell,Drew Brees,20.7,DeAndre Washington,3.2,Isaiah Crowell,13.3,Will Fuller V,2.8,Anquan Boldin,0.9,Delanie Walker,9.8,Jets D/ST,1,n/a,n/a,0
+2016,9,Andrew McDowell,Drew Brees,24.7,DeAndre Washington,4,Isaiah Crowell,8.7,Will Fuller V,--,Anquan Boldin,8,Delanie Walker,12.7,Jets D/ST,3,n/a,n/a,0
+2016,10,Andrew McDowell,Drew Brees,21,DeAndre Washington,--,Isaiah Crowell,6.8,Will Fuller V,0,Anquan Boldin,--,Delanie Walker,22.9,Jets D/ST,8,n/a,n/a,0
+2016,11,Andrew McDowell,Drew Brees,15.4,DeAndre Washington,0,Isaiah Crowell,4.8,Anquan Boldin,6.7,Jamison Crowder,17.7,Delanie Walker,5.6,Bengals D/ST,5,n/a,n/a,0
+2016,12,Andrew McDowell,Drew Brees,32.5,DeAndre Washington,0,Isaiah Crowell,10.1,Anquan Boldin,16.4,Jamison Crowder,12.8,Delanie Walker,12.5,Bengals D/ST,6,n/a,n/a,0
