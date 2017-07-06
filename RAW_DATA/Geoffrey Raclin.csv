@@ -36,15 +36,15 @@ YEAR,WEEK,TEAM_NAME,QB_NAME,QB_SCORE,RB_NAME,RB_SCORE,RB_NAME,RB_SCORE,WR_NAME,W
 2015,10,Geoffrey Raclin,Tom Brady,18.3,Latavius Murray,10.2,C.J. Anderson,0.9,Michael Crabtree,7.5,Michael Floyd,26.8,Jordan Reed,16.4,Patriots D/ST,2,Allen Hurns,wr,14.7
 2015,11,Geoffrey Raclin,Tom Brady,13.1,Devonta Freeman,4.3,Latavius Murray,8.8,Michael Crabtree,8,Allen Hurns,3.4,Jordan Reed,5.6,Patriots D/ST,7,T.Y. Hilton,wr,3.1
 2015,12,Geoffrey Raclin,Tom Brady,23.2,Isaiah Crowell,0.7,Latavius Murray,8.7,Michael Crabtree,9.9,Allen Hurns,6.2,Jordan Reed,13.8,Patriots D/ST,1,T.Y. Hilton,wr,24.5
-2016,1,Geoffrey Raclin,Robert Griffin III,9.3,Duke Johnson Jr.,6.5,Devonta Freeman,6,Mike Evans,18.4,Brandin Cooks,30.4,Charles Clay,5,Raiders D/ST,-4,n/a,n/a,0
-2016,2,Geoffrey Raclin,Carson Wentz,12.6,Devonta Freeman,9.3,Terrance West,6.2,Mike Evans,16,Brandin Cooks,10.3,Charles Clay,5.2,Raiders D/ST,-6,n/a,n/a,0
-2016,3,Geoffrey Raclin,Carson Wentz,21,Devonta Freeman,29.2,Matt Asiata,2.4,Mike Evans,24.2,Brandin Cooks,2.9,Charles Clay,0,Raiders D/ST,9,n/a,n/a,0
-2016,4,Geoffrey Raclin,Trevor Siemian,6.7,Le'Veon Bell,20.3,Devonta Freeman,13.4,Mike Evans,8.4,Brandin Cooks,4.6,Cameron Brate,9.2,Chiefs D/ST,-4,n/a,n/a,0
-2016,5,Geoffrey Raclin,Carson Wentz,16.9,Le'Veon Bell,19.9,Devonta Freeman,19.8,Mike Evans,17.9,John Brown,1.6,Cameron Brate,4.3,Dolphins D/ST,6,n/a,n/a,0
-2016,6,Geoffrey Raclin,Carson Wentz,7.4,Le'Veon Bell,15.8,Devonta Freeman,6.5,Brandin Cooks,27,John Brown,7.9,Charles Clay,7.7,Chiefs D/ST,11,n/a,n/a,0
-2016,7,Geoffrey Raclin,Carson Wentz,6.1,Le'Veon Bell,19.9,Devonta Freeman,12.5,Mike Evans,25.6,Brandin Cooks,15.3,Cameron Brate,4.4,Packers D/ST,11,n/a,n/a,0
-2016,8,Geoffrey Raclin,Carson Wentz,11.8,Devonta Freeman,19.8,Matt Asiata,8.8,Mike Evans,9,Brandin Cooks,12.4,Cameron Brate,9.7,Packers D/ST,0,n/a,n/a,0
-2016,9,Geoffrey Raclin,Carson Wentz,10.2,Le'Veon Bell,10,Devonta Freeman,11.5,Mike Evans,32.5,Brandin Cooks,9.1,Cameron Brate,12.8,Packers D/ST,4,n/a,n/a,0
-2016,10,Geoffrey Raclin,Carson Wentz,8.2,Le'Veon Bell,29.9,Devonta Freeman,9.6,Mike Evans,8.6,Brandin Cooks,17.3,Cameron Brate,17.9,Packers D/ST,-7,n/a,n/a,0
-2016,11,Geoffrey Raclin,Ryan Tannehill,14.8,Le'Veon Bell,30.1,Matt Asiata,9.2,Mike Evans,13.5,Brandin Cooks,8.4,Cameron Brate,2.8,Packers D/ST,-7,n/a,n/a,0
-2016,12,Geoffrey Raclin,Ryan Tannehill,26.8,Le'Veon Bell,22.2,Devonta Freeman,20.7,Mike Evans,26.4,Brandin Cooks,0,Cameron Brate,6.9,Packers D/ST,11,n/a,n/a,0
+2016,1,Geoffrey Raclin,Robert Griffin III,9.3,Duke Johnson Jr.,6.5,Devonta Freeman,6,Mike Evans,18.4,Brandin Cooks,30.4,Charles Clay,5,Raiders D/ST,-4,Golden Tate,wr,7.8
+2016,2,Geoffrey Raclin,Carson Wentz,12.6,Devonta Freeman,9.3,Terrance West,6.2,Mike Evans,16,Brandin Cooks,10.3,Charles Clay,5.2,Raiders D/ST,-6,Golden Tate,wr,2.3
+2016,3,Geoffrey Raclin,Carson Wentz,21,Devonta Freeman,29.2,Matt Asiata,2.4,Mike Evans,24.2,Brandin Cooks,2.9,Charles Clay,0,Raiders D/ST,9,Sterling Shepard,wr,15.8
+2016,4,Geoffrey Raclin,Trevor Siemian,6.7,Le'Veon Bell,20.3,Devonta Freeman,13.4,Mike Evans,8.4,Brandin Cooks,4.6,Cameron Brate,9.2,Chiefs D/ST,-4,Sterling Shepard,wr,5
+2016,5,Geoffrey Raclin,Carson Wentz,16.9,Le'Veon Bell,19.9,Devonta Freeman,19.8,Mike Evans,17.9,John Brown,1.6,Cameron Brate,4.3,Dolphins D/ST,6,Sterling Shepard,wr,2.4
+2016,6,Geoffrey Raclin,Carson Wentz,7.4,Le'Veon Bell,15.8,Devonta Freeman,6.5,Brandin Cooks,27,John Brown,7.9,Charles Clay,7.7,Chiefs D/ST,11,Sterling Shepard,wr,4.5
+2016,7,Geoffrey Raclin,Carson Wentz,6.1,Le'Veon Bell,19.9,Devonta Freeman,12.5,Mike Evans,25.6,Brandin Cooks,15.3,Cameron Brate,4.4,Packers D/ST,11,Golden Tate,wr,12.3
+2016,8,Geoffrey Raclin,Carson Wentz,11.8,Devonta Freeman,19.8,Matt Asiata,8.8,Mike Evans,9,Brandin Cooks,12.4,Cameron Brate,9.7,Packers D/ST,0,Golden Tate,wr,7.7
+2016,9,Geoffrey Raclin,Carson Wentz,10.2,Le'Veon Bell,10,Devonta Freeman,11.5,Mike Evans,32.5,Torrey Smith,2.8,Cameron Brate,12.8,Packers D/ST,4,n/a,n/a,0
+2016,10,Geoffrey Raclin,Carson Wentz,8.2,Le'Veon Bell,29.9,Devonta Freeman,9.6,Mike Evans,8.6,Brandin Cooks,17.3,Cameron Brate,17.9,Packers D/ST,-7,John Brown,wr,5
+2016,11,Geoffrey Raclin,Ryan Tannehill,14.8,Le'Veon Bell,30.1,Matt Asiata,9.2,Mike Evans,13.5,Brandin Cooks,8.4,Cameron Brate,2.8,Packers D/ST,-7,Golden Tate,wr,1.6
+2016,12,Geoffrey Raclin,Ryan Tannehill,26.8,Le'Veon Bell,22.2,Devonta Freeman,20.7,Mike Evans,26.4,Brandin Cooks,0,Cameron Brate,6.9,Packers D/ST,11,Sterling Shepard,wr,2.2

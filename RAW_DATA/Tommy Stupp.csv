@@ -36,15 +36,15 @@ YEAR,WEEK,TEAM_NAME,QB_NAME,QB_SCORE,RB_NAME,RB_SCORE,RB_NAME,RB_SCORE,WR_NAME,W
 2015,10,Tommy Stupp,Carson Palmer,20.3,Theo Riddick,4.1,Todd Gurley,16.4,Calvin Johnson,11.1,Brandon LaFell,7.6,Vernon Davis,2.9,Vikings D/ST,12,Eric Decker,wr,17.5
 2015,11,Tommy Stupp,Carson Palmer,24.6,Theo Riddick,11.1,Todd Gurley,10.6,Calvin Johnson,11.3,Brandon LaFell,8.6,Coby Fleener,6,Vikings D/ST,1,Eric Decker,wr,10.1
 2015,12,Tommy Stupp,Carson Palmer,17.4,Matt Forte,5.8,Todd Gurley,3.5,Calvin Johnson,31.3,Brandon LaFell,5.6,Coby Fleener,4.2,Vikings D/ST,11,Eric Decker,wr,14.7
-2016,1,Tommy Stupp,Aaron Rodgers,23.6,Thomas Rawls,7.3,Todd Gurley,4.7,T.Y. Hilton,10.9,Kenny Britt,8.7,Zach Miller,2.9,Panthers D/ST,8,n/a,n/a,0
-2016,2,Tommy Stupp,Aaron Rodgers,17.4,Thomas Rawls,2.3,Todd Gurley,7.5,T.Y. Hilton,6.1,Tyler Lockett,11.9,Zach Miller,5.3,Panthers D/ST,14,n/a,n/a,0
-2016,3,Tommy Stupp,Matt Ryan,19.9,Todd Gurley,20.5,Jordan Howard,11.2,T.Y. Hilton,27.4,Tyler Lockett,0,Jesse James,2,Panthers D/ST,4,n/a,n/a,0
-2016,4,Tommy Stupp,Matt Ryan,35.5,Todd Gurley,10.7,Jordan Howard,14.7,T.Y. Hilton,13.7,DeSean Jackson,1,Zach Miller,10.6,Panthers D/ST,-1,n/a,n/a,0
-2016,5,Tommy Stupp,Aaron Rodgers,15.9,Todd Gurley,16.3,Jordan Howard,23.8,T.Y. Hilton,28.1,DeSean Jackson,5,Zach Miller,10.8,Panthers D/ST,3,n/a,n/a,0
-2016,6,Tommy Stupp,Aaron Rodgers,12.5,Todd Gurley,11.7,Jordan Howard,11,T.Y. Hilton,6.4,Tyler Lockett,4,Zach Miller,6.6,,0,n/a,n/a,0
-2016,7,Tommy Stupp,Matt Ryan,13.7,Todd Gurley,12.2,Jordan Howard,2.2,T.Y. Hilton,22.8,Kenny Britt,5.8,Hunter Henry,2.1,Chiefs D/ST,6,n/a,n/a,0
-2016,8,Tommy Stupp,Aaron Rodgers,33.8,Jordan Howard,28.2,Dwayne Washington,0,T.Y. Hilton,2.5,DeSean Jackson,6.3,Hunter Henry,2.4,Chiefs D/ST,13,n/a,n/a,0
-2016,9,Tommy Stupp,Aaron Rodgers,26.2,Todd Gurley,9.4,Antone Smith,4.7,T.Y. Hilton,11.2,Kenny Britt,12.9,Hunter Henry,0,Chiefs D/ST,8,n/a,n/a,0
-2016,10,Tommy Stupp,Aaron Rodgers,27.5,Todd Gurley,7.7,Jordan Howard,8,Kenny Britt,14.4,Davante Adams,18.6,Tyler Eifert,11.1,Chiefs D/ST,13,n/a,n/a,0
-2016,11,Tommy Stupp,Aaron Rodgers,29.3,Todd Gurley,13.6,Jordan Howard,10.4,T.Y. Hilton,18.2,Davante Adams,5.7,Tyler Eifert,5.2,Chiefs D/ST,0,n/a,n/a,0
-2016,12,Tommy Stupp,Aaron Rodgers,23.1,Jordan Howard,14.2,Frank Gore,3.6,T.Y. Hilton,6.9,Davante Adams,25.8,Tyler Eifert,15.3,Chiefs D/ST,10,n/a,n/a,0
+2016,1,Tommy Stupp,Aaron Rodgers,23.6,Thomas Rawls,7.3,Todd Gurley,4.7,T.Y. Hilton,10.9,Kenny Britt,8.7,Zach Miller,2.9,Panthers D/ST,8,DeSean Jackson,wr,13.2
+2016,2,Tommy Stupp,Aaron Rodgers,17.4,Thomas Rawls,2.3,Todd Gurley,7.5,T.Y. Hilton,6.1,Tyler Lockett,11.9,Zach Miller,5.3,Panthers D/ST,14,DeSean Jackson,wr,5.5
+2016,3,Tommy Stupp,Matt Ryan,19.9,Todd Gurley,20.5,Jordan Howard,11.2,T.Y. Hilton,27.4,Tyler Lockett,0,Jesse James,2,Panthers D/ST,4,DeSean Jackson,wr,18.1
+2016,4,Tommy Stupp,Matt Ryan,35.5,Todd Gurley,10.7,Jordan Howard,14.7,T.Y. Hilton,13.7,DeSean Jackson,1,Zach Miller,10.6,Panthers D/ST,-1,Hunter Henry,te,14.1
+2016,5,Tommy Stupp,Aaron Rodgers,15.9,Todd Gurley,16.3,Jordan Howard,23.8,T.Y. Hilton,28.1,DeSean Jackson,5,Zach Miller,10.8,Panthers D/ST,3,Hunter Henry,te,14.9
+2016,6,Tommy Stupp,Aaron Rodgers,12.5,Todd Gurley,11.7,Jordan Howard,11,T.Y. Hilton,6.4,Tyler Lockett,4,Zach Miller,6.6,n/a,0,Kenny Britt,wr,29.1
+2016,7,Tommy Stupp,Matt Ryan,13.7,Todd Gurley,12.2,Jordan Howard,2.2,T.Y. Hilton,22.8,Kenny Britt,5.8,Hunter Henry,2.1,Chiefs D/ST,6,Zach Miller,te,5
+2016,8,Tommy Stupp,Aaron Rodgers,33.8,Jordan Howard,28.2,Dwayne Washington,0,T.Y. Hilton,2.5,DeSean Jackson,6.3,Hunter Henry,2.4,Chiefs D/ST,13,Davante Adams,wr,13.4
+2016,9,Tommy Stupp,Aaron Rodgers,26.2,Todd Gurley,9.4,Antone Smith,4.7,T.Y. Hilton,11.2,Kenny Britt,12.9,Hunter Henry,0,Chiefs D/ST,8,Davante Adams,wr,12.1
+2016,10,Tommy Stupp,Aaron Rodgers,27.5,Todd Gurley,7.7,Jordan Howard,8,Kenny Britt,14.4,Davante Adams,18.6,Tyler Eifert,11.1,Chiefs D/ST,13,Zach Miller,te,5.2
+2016,11,Tommy Stupp,Aaron Rodgers,29.3,Todd Gurley,13.6,Jordan Howard,10.4,T.Y. Hilton,18.2,Davante Adams,5.7,Tyler Eifert,5.2,Chiefs D/ST,0,Kenny Britt,wr,6.8
+2016,12,Tommy Stupp,Aaron Rodgers,23.1,Jordan Howard,14.2,Frank Gore,3.6,T.Y. Hilton,6.9,Davante Adams,25.8,Tyler Eifert,15.3,Chiefs D/ST,10,Thomas Rawls,rb,3.8

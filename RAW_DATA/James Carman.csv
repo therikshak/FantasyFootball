@@ -36,15 +36,15 @@ YEAR,WEEK,TEAM_NAME,QB_NAME,QB_SCORE,RB_NAME,RB_SCORE,RB_NAME,RB_SCORE,WR_NAME,W
 2015,10,James Carman,Russell Wilson,16.8,Shane Vereen,3.6,DeAngelo Williams,7.4,Tyler Lockett,1.2,Pierre Garcon,2,Jimmy Graham,5.6,Steelers D/ST,15,Golden Tate,wr,8.3
 2015,11,James Carman,Marcus Mariota,18.1,Joique Bell,4.5,Dexter McCluster,2.8,Danny Amendola,16.2,Golden Tate,11.1,Jacob Tamme,2.1,Ravens D/ST,16,Jimmy Graham,te,5.4
 2015,12,James Carman,Russell Wilson,35.2,Shane Vereen,5.6,DeAngelo Williams,21.2,Doug Baldwin,35.5,Pierre Garcon,5,Jimmy Graham,9.5,Ravens D/ST,16,Golden Tate,wr,14.5
-2016,1,James Carman,Russell Wilson,11.9,C.J. Anderson,27.9,Derrick Henry,5.4,Doug Baldwin,19.7,Pierre Garcon,8.1,Travis Kelce,10.4,Broncos D/ST,5,n/a,n/a,0
-2016,2,James Carman,Russell Wilson,11.6,C.J. Anderson,16.8,Derrick Henry,5.4,Doug Baldwin,3.5,Pierre Garcon,3.5,Travis Kelce,5.9,Broncos D/ST,23,n/a,n/a,0
-2016,3,James Carman,Russell Wilson,14,C.J. Anderson,4.6,Derrick Henry,4.5,Doug Baldwin,26,Pierre Garcon,8.4,Travis Kelce,17.9,Broncos D/ST,9,n/a,n/a,0
-2016,4,James Carman,Russell Wilson,23.9,C.J. Anderson,11.7,Derrick Henry,0.9,Doug Baldwin,7.4,Pierre Garcon,5.9,Travis Kelce,10.8,Broncos D/ST,16,n/a,n/a,0
-2016,5,James Carman,Paxton Lynch,12.7,C.J. Anderson,7.7,Bilal Powell,8.1,Pierre Garcon,14.1,Dorial Green-Beckham,5.8,Jesse James,13.3,Broncos D/ST,3,n/a,n/a,0
-2016,6,James Carman,Russell Wilson,11.5,C.J. Anderson,9.1,Zach Zenner,8.7,Doug Baldwin,5.1,Tavon Austin,4.1,Travis Kelce,4.7,Broncos D/ST,8,n/a,n/a,0
-2016,7,James Carman,Alex Smith,17.3,C.J. Anderson,16.7,Mike Gillislee,2,Doug Baldwin,9.9,Ty Montgomery,17.6,Travis Kelce,3.4,Broncos D/ST,10,n/a,n/a,0
-2016,8,James Carman,Russell Wilson,9.2,Mike Gillislee,16.9,Don Jackson,1,Doug Baldwin,7.1,Pierre Garcon,9.7,Travis Kelce,19.6,Broncos D/ST,17,n/a,n/a,0
-2016,9,James Carman,Ryan Tannehill,9.7,Mike Gillislee,10.6,Tim Hightower,16.7,Ty Montgomery,10.6,Percy Harvin,0,Travis Kelce,8.3,Broncos D/ST,0,n/a,n/a,0
-2016,10,James Carman,Russell Wilson,26.5,DuJuan Harris,1.4,Peyton Barber,3.8,Doug Baldwin,26.9,Ty Montgomery,3,Travis Kelce,6.6,Dolphins D/ST,16,n/a,n/a,0
-2016,11,James Carman,Russell Wilson,24.8,Mike Gillislee,7.2,Peyton Barber,2.2,Doug Baldwin,17,Ty Montgomery,5.9,Travis Kelce,13.8,Dolphins D/ST,8,n/a,n/a,0
-2016,12,James Carman,Russell Wilson,10,Tim Hightower,17.5,Wendell Smallwood,5.2,Doug Baldwin,6.9,Terrelle Pryor Sr.,16.1,Austin Hooper,1.8,Dolphins D/ST,1,n/a,n/a,0
+2016,1,James Carman,Russell Wilson,11.9,C.J. Anderson,27.9,Derrick Henry,5.4,Doug Baldwin,19.7,Pierre Garcon,8.1,Travis Kelce,10.4,Broncos D/ST,5,Tavon Austin,wr,3.5
+2016,2,James Carman,Russell Wilson,11.6,C.J. Anderson,16.8,Derrick Henry,5.4,Doug Baldwin,3.5,Pierre Garcon,3.5,Travis Kelce,5.9,Broncos D/ST,23,Tavon Austin,wr,8.1
+2016,3,James Carman,Russell Wilson,14,C.J. Anderson,4.6,Derrick Henry,4.5,Doug Baldwin,26,Pierre Garcon,8.4,Travis Kelce,17.9,Broncos D/ST,9,Tavon Austin,wr,18.9
+2016,4,James Carman,Russell Wilson,23.9,C.J. Anderson,11.7,Derrick Henry,0.9,Doug Baldwin,7.4,Pierre Garcon,5.9,Travis Kelce,10.8,Broncos D/ST,16,Tavon Austin,wr,1.8
+2016,5,James Carman,Paxton Lynch,12.7,C.J. Anderson,7.7,Bilal Powell,8.1,Pierre Garcon,14.1,Dorial Green-Beckham,5.8,Jesse James,13.3,Broncos D/ST,3,Tavon Austin,wr,12
+2016,6,James Carman,Russell Wilson,11.5,C.J. Anderson,9.1,Zach Zenner,8.7,Doug Baldwin,5.1,Tavon Austin,4.1,Travis Kelce,4.7,Broncos D/ST,8,Jesse James,te,2.3
+2016,7,James Carman,Alex Smith,17.3,C.J. Anderson,16.7,Mike Gillislee,2,Doug Baldwin,9.9,Ty Montgomery,17.6,Travis Kelce,3.4,Broncos D/ST,10,Mike Davis,rb,8.1
+2016,8,James Carman,Russell Wilson,9.2,Mike Gillislee,16.9,Don Jackson,1,Doug Baldwin,7.1,Brandon LaFell,1.1,Travis Kelce,19.6,Broncos D/ST,17,n/a,n/a,0
+2016,9,James Carman,Ryan Tannehill,9.7,Mike Gillislee,10.6,Tim Hightower,16.7,Ty Montgomery,10.6,Percy Harvin,0,Travis Kelce,8.3,Broncos D/ST,0,DuJuan Harris,rb,20.7
+2016,10,James Carman,Russell Wilson,26.5,DuJuan Harris,1.4,Peyton Barber,3.8,Doug Baldwin,26.9,Ty Montgomery,3,Travis Kelce,6.6,Dolphins D/ST,16,Tim Hightower,rb,6.5
+2016,11,James Carman,Russell Wilson,24.8,Mike Gillislee,7.2,Peyton Barber,2.2,Doug Baldwin,17,Ty Montgomery,5.9,Travis Kelce,13.8,Dolphins D/ST,8,Tim Hightower,rb,16.6
+2016,12,James Carman,Russell Wilson,10,Tim Hightower,17.5,Wendell Smallwood,5.2,Doug Baldwin,6.9,Terrelle Pryor Sr.,16.1,Austin Hooper,1.8,Dolphins D/ST,1,Tavon Austin,wr,13.5

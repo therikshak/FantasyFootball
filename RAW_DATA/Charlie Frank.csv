@@ -36,15 +36,15 @@ YEAR,WEEK,TEAM_NAME,QB_NAME,QB_SCORE,RB_NAME,RB_SCORE,RB_NAME,RB_SCORE,WR_NAME,W
 2015,10,Charlie Frank,Brian Hoyer,4.4,Antonio Andrews,0.8,Ronnie Hillman,12.1,DeAndre Hopkins,14.2,Randall Cobb,7.5,Jared Cook,4.5,Bengals D/ST,10,Sammy Watkins,wr,2.9
 2015,11,Charlie Frank,Jay Cutler,9.5,Antonio Andrews,10.4,Ronnie Hillman,10.9,DeAndre Hopkins,26.3,Randall Cobb,9.4,Jared Cook,5.1,Bengals D/ST,4,Sammy Watkins,wr,5.4
 2015,12,Charlie Frank,Jay Cutler,12.9,Alfred Blue,14.6,Antonio Andrews,5.1,DeAndre Hopkins,6.1,Randall Cobb,10.4,Jared Cook,7.8,Bengals D/ST,16,Sammy Watkins,wr,30.8
-2016,1,Charlie Frank,Matthew Stafford,26.1,Latavius Murray,13.7,DeAngelo Williams,32.1,Dez Bryant,1.3,Brandon Marshall,4.7,Martellus Bennett,2.9,Bills D/ST,9,n/a,n/a,0
-2016,2,Charlie Frank,Matthew Stafford,15.5,Latavius Murray,19.1,DeAngelo Williams,21.2,Dez Bryant,13.7,Brandon Marshall,13.1,Martellus Bennett,19.9,Bills D/ST,1,n/a,n/a,0
-2016,3,Charlie Frank,Matthew Stafford,26.5,Latavius Murray,10.3,DeAngelo Williams,6.4,Dez Bryant,11.5,Brandon Marshall,4.2,Martellus Bennett,2.6,Bills D/ST,21,n/a,n/a,0
-2016,4,Charlie Frank,Matthew Stafford,8.2,Latavius Murray,3.4,DeAngelo Williams,7.4,Brandon Marshall,16.9,Travis Benjamin,4.8,Martellus Bennett,13.4,Bills D/ST,12,n/a,n/a,0
-2016,5,Charlie Frank,Matthew Stafford,18.8,DeAngelo Williams,0,James White,10.9,Brandon Marshall,21.4,Travis Benjamin,15.2,Martellus Bennett,27.7,Bills D/ST,16,n/a,n/a,0
-2016,6,Charlie Frank,Matthew Stafford,28.2,Chris Ivory,10.5,James White,22.6,Brandon Marshall,8.5,Travis Benjamin,1.2,Martellus Bennett,7.3,Bills D/ST,6,n/a,n/a,0
-2016,7,Charlie Frank,Matthew Stafford,17.8,Chris Ivory,6.1,James White,10.2,Brandon Marshall,5.4,Travis Benjamin,7.4,Martellus Bennett,1,Bills D/ST,-5,n/a,n/a,0
-2016,8,Charlie Frank,Matthew Stafford,13.6,Chris Ivory,1.7,James White,3.9,Brandon Marshall,8.8,DeAndre Hopkins,6.4,Martellus Bennett,5.5,Bills D/ST,1,n/a,n/a,0
-2016,9,Charlie Frank,Matthew Stafford,14.8,Latavius Murray,31.2,Chris Ivory,9.2,Dez Bryant,2.4,Brandon Marshall,7.1,Martellus Bennett,--,Bills D/ST,7,n/a,n/a,0
-2016,10,Charlie Frank,Trevor Siemian,14.8,Chris Ivory,5.1,James White,5.7,Dez Bryant,20.6,Brandon Marshall,3.5,Martellus Bennett,13.7,Giants D/ST,7,n/a,n/a,0
-2016,11,Charlie Frank,Matthew Stafford,11.1,Chris Ivory,12.4,James White,15.3,Dez Bryant,23,DeAndre Hopkins,8.3,Martellus Bennett,1.9,Giants D/ST,7,n/a,n/a,0
-2016,12,Charlie Frank,Matthew Stafford,16.3,Latavius Murray,16.3,Chris Ivory,12,Dez Bryant,9.7,DeAndre Hopkins,9.5,Martellus Bennett,4.1,Giants D/ST,22,n/a,n/a,0
+2016,1,Charlie Frank,Matthew Stafford,26.1,Latavius Murray,13.7,DeAngelo Williams,32.1,Dez Bryant,1.3,Brandon Marshall,4.7,Martellus Bennett,2.9,Bills D/ST,9,DeAndre Hopkins,wr,13.9
+2016,2,Charlie Frank,Matthew Stafford,15.5,Latavius Murray,19.1,DeAngelo Williams,21.2,Dez Bryant,13.7,Brandon Marshall,13.1,Martellus Bennett,19.9,Bills D/ST,1,DeAndre Hopkins,wr,20.8
+2016,3,Charlie Frank,Matthew Stafford,26.5,Latavius Murray,10.3,DeAngelo Williams,6.4,Dez Bryant,11.5,Brandon Marshall,4.2,Martellus Bennett,2.6,Bills D/ST,21,DeAndre Hopkins,wr,7.6
+2016,4,Charlie Frank,Matthew Stafford,8.2,Latavius Murray,3.4,DeAngelo Williams,7.4,Brandon Marshall,16.9,Travis Benjamin,4.8,n/a,0,Bills D/ST,12,DeAndre Hopkins,wr,0.9
+2016,5,Charlie Frank,Matthew Stafford,18.8,DeAngelo Williams,0,James White,10.9,Brandon Marshall,21.4,Travis Benjamin,15.2,Martellus Bennett,27.7,Bills D/ST,16,DeAndre Hopkins,wr,14.1
+2016,6,Charlie Frank,Matthew Stafford,28.2,Chris Ivory,10.5,James White,22.6,Brandon Marshall,8.5,Travis Benjamin,1.2,Martellus Bennett,7.3,Bills D/ST,6,DeAndre Hopkins,wr,11.6
+2016,7,Charlie Frank,Matthew Stafford,17.8,Chris Ivory,6.1,James White,10.2,Brandon Marshall,5.4,Travis Benjamin,7.4,Martellus Bennett,1,Bills D/ST,-5,DeAndre Hopkins,wr,6.1
+2016,8,Charlie Frank,Matthew Stafford,13.6,Chris Ivory,1.7,James White,3.9,DeAndre Hopkins,6.4,n/a,0,Martellus Bennett,5.5,Bills D/ST,1,Latavius Murray,rb,9.6
+2016,9,Charlie Frank,Matthew Stafford,14.8,Latavius Murray,31.2,Chris Ivory,9.2,Dez Bryant,2.4,Brandon Marshall,7.1,Martellus Bennett,--,Bills D/ST,7,Kenny Stills,wr,1.6
+2016,10,Charlie Frank,Trevor Siemian,14.8,Chris Ivory,5.1,James White,5.7,Dez Bryant,20.6,Brandon Marshall,3.5,Martellus Bennett,13.7,Giants D/ST,7,DeAndre Hopkins,wr,7.3
+2016,11,Charlie Frank,Matthew Stafford,11.1,Chris Ivory,12.4,James White,15.3,Dez Bryant,23,DeAndre Hopkins,8.3,Martellus Bennett,1.9,Giants D/ST,7,Latavius Murray,rb,11.7
+2016,12,Charlie Frank,Matthew Stafford,16.3,Latavius Murray,16.3,Chris Ivory,12,Dez Bryant,9.7,DeAndre Hopkins,9.5,Martellus Bennett,4.1,Giants D/ST,22,Brandon Marshall,wr,15.7

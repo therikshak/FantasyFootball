@@ -36,15 +36,15 @@ YEAR,WEEK,TEAM_NAME,QB_NAME,QB_SCORE,RB_NAME,RB_SCORE,RB_NAME,RB_SCORE,WR_NAME,W
 2015,10,Chandler Dalton,Aaron Rodgers,22.1,Jonathan Stewart,15.1,Darren McFadden,7.3,James Jones,0,Larry Fitzgerald,18,Jason Witten,6.7,Packers D/ST,4,Odell Beckham Jr.,wr,18.4
 2015,11,Chandler Dalton,Aaron Rodgers,19.1,Jonathan Stewart,17.9,Darren McFadden,16.4,James Jones,21.9,Larry Fitzgerald,13,Jason Witten,3.7,Packers D/ST,11,Frank Gore,rb,8.5
 2015,12,Chandler Dalton,Aaron Rodgers,13.4,Jonathan Stewart,9.2,Darren McFadden,9.6,Larry Fitzgerald,11.6,Odell Beckham Jr.,24.7,Jason Witten,5.6,Packers D/ST,4,Frank Gore,rb,4.7
-2016,1,Chandler Dalton,Ben Roethlisberger,21.8,DeMarco Murray,20.2,Theo Riddick,25.3,Odell Beckham Jr.,9.3,Michael Crabtree,14.2,Gary Barnidge,0,Packers D/ST,5,n/a,n/a,0
-2016,2,Chandler Dalton,Joe Flacco,16.2,DeMarco Murray,18,Theo Riddick,8.5,Odell Beckham Jr.,12.6,Julian Edelman,11.1,Gary Barnidge,5.7,Packers D/ST,9,n/a,n/a,0
-2016,3,Chandler Dalton,Ben Roethlisberger,7,DeMarco Murray,24,Theo Riddick,8.3,Odell Beckham Jr.,15.6,Michael Crabtree,14.2,Dennis Pitta,7.2,Packers D/ST,2,n/a,n/a,0
-2016,4,Chandler Dalton,Ben Roethlisberger,33.9,DeMarco Murray,24.9,Theo Riddick,7.8,Odell Beckham Jr.,3.8,Julian Edelman,2.2,Dennis Pitta,3.2,Colts D/ST,2,n/a,n/a,0
-2016,5,Chandler Dalton,Ben Roethlisberger,29.2,DeMarco Murray,16.2,Theo Riddick,23.2,Odell Beckham Jr.,14.1,Julian Edelman,6,Dennis Pitta,9.4,Eagles D/ST,8,n/a,n/a,0
-2016,6,Chandler Dalton,Ben Roethlisberger,9.6,Jamaal Charles,11.7,DeMarco Murray,12.5,Odell Beckham Jr.,36.2,Julian Edelman,5.8,Dennis Pitta,6.6,Eagles D/ST,9,n/a,n/a,0
-2016,7,Chandler Dalton,Joe Flacco,6,Jamaal Charles,0,DeMarco Murray,20.2,Odell Beckham Jr.,7.4,Julian Edelman,8.5,Dennis Pitta,6,Giants D/ST,20,n/a,n/a,0
-2016,8,Chandler Dalton,Ryan Fitzpatrick,14.4,DeMarco Murray,19.3,Theo Riddick,23.3,Julian Edelman,11.7,Michael Crabtree,14.8,Gary Barnidge,5.7,,0,n/a,n/a,0
-2016,9,Chandler Dalton,Ben Roethlisberger,18.9,DeMarco Murray,17.5,Theo Riddick,8.1,Odell Beckham Jr.,18.6,Steve Smith Sr.,8.7,Dennis Pitta,2.4,Eagles D/ST,4,n/a,n/a,0
-2016,10,Chandler Dalton,Ben Roethlisberger,28.4,DeMarco Murray,27,Bilal Powell,18.4,Odell Beckham Jr.,20.7,Julian Edelman,11.4,Dennis Pitta,5.6,Eagles D/ST,5,n/a,n/a,0
-2016,11,Chandler Dalton,Ben Roethlisberger,8.7,DeMarco Murray,15.4,Theo Riddick,12.3,Odell Beckham Jr.,7.1,Julian Edelman,18.9,C.J. Fiedorowicz,11.2,Eagles D/ST,0,n/a,n/a,0
-2016,12,Chandler Dalton,Ben Roethlisberger,20.8,DeMarco Murray,10.9,Theo Riddick,8.3,Odell Beckham Jr.,24.6,Julian Edelman,12.3,C.J. Fiedorowicz,6.2,Patriots D/ST,8,n/a,n/a,0
+2016,1,Chandler Dalton,Ben Roethlisberger,21.8,DeMarco Murray,20.2,Theo Riddick,25.3,Odell Beckham Jr.,9.3,Michael Crabtree,14.2,Gary Barnidge,0,Packers D/ST,5,Julian Edelman,wr,11.7
+2016,2,Chandler Dalton,Joe Flacco,16.2,DeMarco Murray,18,Theo Riddick,8.5,Odell Beckham Jr.,12.6,Julian Edelman,11.1,Gary Barnidge,5.7,Packers D/ST,9,Michael Crabtree,wr,11.1
+2016,3,Chandler Dalton,Ben Roethlisberger,7,DeMarco Murray,24,Theo Riddick,8.3,Odell Beckham Jr.,15.6,Michael Crabtree,14.2,Dennis Pitta,7.2,Packers D/ST,2,Julian Edelman,wr,7.2
+2016,4,Chandler Dalton,Ben Roethlisberger,33.9,DeMarco Murray,24.9,Theo Riddick,7.8,Odell Beckham Jr.,3.8,Julian Edelman,2.2,Dennis Pitta,3.2,Colts D/ST,2,Michael Crabtree,wr,30.3
+2016,5,Chandler Dalton,Ben Roethlisberger,29.2,DeMarco Murray,16.2,Theo Riddick,23.2,Odell Beckham Jr.,14.1,Julian Edelman,6,Dennis Pitta,9.4,Eagles D/ST,8,Michael Crabtree,wr,12.2
+2016,6,Chandler Dalton,Ben Roethlisberger,9.6,Jamaal Charles,11.7,DeMarco Murray,12.5,Odell Beckham Jr.,36.2,Julian Edelman,5.8,Dennis Pitta,6.6,Eagles D/ST,9,Michael Crabtree,wr,2
+2016,7,Chandler Dalton,Joe Flacco,6,Jamaal Charles,0,DeMarco Murray,20.2,Odell Beckham Jr.,7.4,Julian Edelman,8.5,Dennis Pitta,6,Giants D/ST,20,Michael Crabtree,wr,19.6
+2016,8,Chandler Dalton,Ryan Fitzpatrick,14.4,DeMarco Murray,19.3,Theo Riddick,23.3,Julian Edelman,11.7,Michael Crabtree,14.8,Gary Barnidge,5.7,n/a,0,Quincy Enunwa,wr,17.3
+2016,9,Chandler Dalton,Ben Roethlisberger,18.9,DeMarco Murray,17.5,Theo Riddick,8.1,Odell Beckham Jr.,18.6,Steve Smith Sr.,8.7,Dennis Pitta,2.4,Eagles D/ST,4,Michael Crabtree,wr,3.7
+2016,10,Chandler Dalton,Ben Roethlisberger,28.4,DeMarco Murray,27,Bilal Powell,18.4,Odell Beckham Jr.,20.7,Julian Edelman,11.4,Dennis Pitta,5.6,Eagles D/ST,5,Steve Smith Sr.,wr,14.5
+2016,11,Chandler Dalton,Ben Roethlisberger,8.7,DeMarco Murray,15.4,Theo Riddick,12.3,Odell Beckham Jr.,7.1,Julian Edelman,18.9,C.J. Fiedorowicz,11.2,Eagles D/ST,0,Michael Crabtree,wr,2
+2016,12,Chandler Dalton,Ben Roethlisberger,20.8,DeMarco Murray,10.9,Theo Riddick,8.3,Odell Beckham Jr.,24.6,Julian Edelman,12.3,C.J. Fiedorowicz,6.2,Patriots D/ST,8,Michael Crabtree,wr,15

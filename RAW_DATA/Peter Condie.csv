@@ -36,15 +36,15 @@ YEAR,WEEK,TEAM_NAME,QB_NAME,QB_SCORE,RB_NAME,RB_SCORE,RB_NAME,RB_SCORE,WR_NAME,W
 2015,10,Peter Condie,Cam Newton,21,Marshawn Lynch,11.5,Chris Ivory,12.5,Marvin Jones,5.6,Brandin Cooks,25.4,Richard Rodgers,11.7,Bears D/ST,10,Brandon Marshall,wr,9.8
 2015,11,Peter Condie,Cam Newton,31.4,Fred Jackson,3.2,Karlos Williams,1.1,Marvin Jones,8,Brandon Marshall,13.2,Richard Rodgers,2.2,Chiefs D/ST,19,Chris Ivory,rb,5
 2015,12,Peter Condie,Cam Newton,17.8,Chris Ivory,17.2,Charles Sims,5.4,Marvin Jones,7,Brandin Cooks,6,Richard Rodgers,5,Chiefs D/ST,2,Brandon Marshall,wr,29.6
-2016,1,Peter Condie,Cam Newton,21.2,Frank Gore,9.8,Eddie Lacy,8.3,Sammy Watkins,6.3,Jordan Matthews,20.9,Jordan Reed,9.9,Seahawks D/ST,12,n/a,n/a,0
-2016,2,Peter Condie,Cam Newton,29.8,Frank Gore,13.8,Eddie Lacy,5,Sammy Watkins,3,Jordan Matthews,10.1,Jordan Reed,9.5,Seahawks D/ST,8,n/a,n/a,0
-2016,3,Peter Condie,Cam Newton,13.1,Frank Gore,14.8,Eddie Lacy,11,Jordan Matthews,8.9,Mike Wallace,5.4,Jordan Reed,7.6,Seahawks D/ST,4,n/a,n/a,0
-2016,4,Peter Condie,Cam Newton,15.6,Frank Gore,18,Jerick McKinnon,17,Michael Floyd,11.1,Mike Wallace,8.7,Jordan Reed,23.8,Seahawks D/ST,11,n/a,n/a,0
+2016,1,Peter Condie,Cam Newton,21.2,Frank Gore,9.8,Eddie Lacy,8.3,Sammy Watkins,6.3,Jordan Matthews,20.9,Jordan Reed,9.9,Seahawks D/ST,12,Michael Floyd,wr,7.6
+2016,2,Peter Condie,Cam Newton,29.8,Frank Gore,13.8,Eddie Lacy,5,Sammy Watkins,3,Jordan Matthews,10.1,Jordan Reed,9.5,Seahawks D/ST,8,Michael Floyd,wr,7.8
+2016,3,Peter Condie,Cam Newton,13.1,Frank Gore,14.8,Eddie Lacy,11,Jordan Matthews,8.9,Mike Wallace,5.4,Jordan Reed,7.6,Seahawks D/ST,4,Jerick McKinnon,rb,7.2
+2016,4,Peter Condie,Cam Newton,15.6,Frank Gore,18,Jerick McKinnon,17,Michael Floyd,11.1,Mike Wallace,8.7,Jordan Reed,23.8,Seahawks D/ST,11,Robert Woods,wr,12.4
 2016,5,Peter Condie,Kirk Cousins,12.3,Frank Gore,8.4,Jerick McKinnon,5.1,Jordan Matthews,8.5,Robert Woods,3.6,Jordan Reed,9.3,Titans D/ST,13,n/a,n/a,0
-2016,6,Peter Condie,Cam Newton,27,Frank Gore,11.3,Eddie Lacy,7.6,Jordan Matthews,9,Mike Wallace,11.7,Vernon Davis,12,Titans D/ST,6,n/a,n/a,0
-2016,7,Peter Condie,Kirk Cousins,21.5,Frank Gore,16.8,Jerick McKinnon,5.3,Jordan Matthews,2.5,Mike Wallace,17,Vernon Davis,10.9,Seahawks D/ST,9,n/a,n/a,0
-2016,8,Peter Condie,Cam Newton,12.8,Frank Gore,13.2,Charcandrick West,7,Jordan Matthews,18,Robert Woods,7,Vernon Davis,11.8,Titans D/ST,3,n/a,n/a,0
-2016,9,Peter Condie,Cam Newton,14.6,Frank Gore,20.1,Charcandrick West,8.9,Jordan Matthews,11.8,Robert Woods,21.2,Lance Kendricks,12.5,Seahawks D/ST,4,n/a,n/a,0
-2016,10,Peter Condie,Cam Newton,23.8,Jerick McKinnon,4.8,Charcandrick West,2.5,Jordan Matthews,10.3,Mike Wallace,7.9,Lance Kendricks,0.5,Seahawks D/ST,5,n/a,n/a,0
-2016,11,Peter Condie,Cam Newton,12.4,Frank Gore,14.1,Jerick McKinnon,4.6,Jordan Matthews,8.4,Mike Wallace,10,Vernon Davis,0,Seahawks D/ST,7,n/a,n/a,0
-2016,12,Peter Condie,Kirk Cousins,30.2,Jerick McKinnon,9.1,Todd Gurley,10.9,Jordan Matthews,6.7,Mike Wallace,7.1,Jordan Reed,26.5,Seahawks D/ST,7,n/a,n/a,0
+2016,6,Peter Condie,Cam Newton,27,Frank Gore,11.3,Eddie Lacy,7.6,Jordan Matthews,9,Mike Wallace,11.7,Vernon Davis,12,Titans D/ST,6,Michael Floyd,wr,9.2
+2016,7,Peter Condie,Kirk Cousins,21.5,Frank Gore,16.8,Jerick McKinnon,5.3,Jordan Matthews,2.5,Mike Wallace,17,Vernon Davis,10.9,Seahawks D/ST,9,Michael Floyd,wr,9
+2016,8,Peter Condie,Cam Newton,12.8,Frank Gore,13.2,Charcandrick West,7,Jordan Matthews,18,Michael Floyd,0,Vernon Davis,11.8,Titans D/ST,3,n/a,n/a,0
+2016,9,Peter Condie,Cam Newton,14.6,Frank Gore,20.1,Charcandrick West,8.9,Jordan Matthews,11.8,Robert Woods,21.2,Lance Kendricks,12.5,Seahawks D/ST,4,Mike Wallace,wr,20.4
+2016,10,Peter Condie,Cam Newton,23.8,Jerick McKinnon,4.8,Charcandrick West,2.5,Jordan Matthews,10.3,Mike Wallace,7.9,Lance Kendricks,0.5,Seahawks D/ST,5,Jordan Reed,te,5.1
+2016,11,Peter Condie,Cam Newton,12.4,Frank Gore,14.1,Jerick McKinnon,4.6,Jordan Matthews,8.4,Mike Wallace,10,Vernon Davis,0,Seahawks D/ST,7,Jordan Reed,te,10.4
+2016,12,Peter Condie,Kirk Cousins,30.2,Jerick McKinnon,9.1,Todd Gurley,10.9,Jordan Matthews,6.7,Mike Wallace,7.1,Jordan Reed,26.5,Seahawks D/ST,7,Michael Floyd,wr,4.1

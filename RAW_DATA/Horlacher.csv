@@ -36,15 +36,15 @@ YEAR,WEEK,TEAM_NAME,QB_NAME,QB_SCORE,RB_NAME,RB_SCORE,RB_NAME,RB_SCORE,WR_NAME,W
 2015,10,Horlacher,Tyrod Taylor,11.5,Lamar Miller,18.3,Adrian Peterson,28.6,Jeremy Maclin,3.2,Stefon Diggs,6.6,Gary Barnidge,15.5,Rams D/ST,2,A.J. Green,wr,7.2
 2015,11,Horlacher,Tony Romo,13.3,Danny Woodhead,2.1,Lamar Miller,6.5,Stefon Diggs,9.6,A.J. Green,9.9,Antonio Gates,1.1,Rams D/ST,5,Adrian Peterson,rb,11.1
 2015,12,Horlacher,Tony Romo,-1.8,Danny Woodhead,7.7,Lamar Miller,2.8,Stefon Diggs,5.1,A.J. Green,21.1,Gary Barnidge,12.6,Rams D/ST,0,Adrian Peterson,rb,31.7
-2016,1,Horlacher,Derek Carr,22.4,Lamar Miller,13.7,Giovani Bernard,4,Allen Robinson,10.2,Amari Cooper,18.7,Dwayne Allen,15.3,Texans D/ST,10,n/a,n/a,0
-2016,2,Horlacher,Derek Carr,25,Lamar Miller,10.7,Isaiah Crowell,21.3,Allen Robinson,6.9,Amari Cooper,9.6,Dwayne Allen,3.5,Texans D/ST,15,n/a,n/a,0
-2016,3,Horlacher,Derek Carr,11.9,Lamar Miller,12.7,Isaiah Crowell,7.9,Allen Robinson,21.2,Amari Cooper,8.2,Dwayne Allen,5,Texans D/ST,3,n/a,n/a,0
-2016,4,Horlacher,Derek Carr,23.8,Lamar Miller,12.3,Tevin Coleman,4.8,Allen Robinson,14,Amari Cooper,7.3,Jimmy Graham,14.3,Texans D/ST,9,n/a,n/a,0
-2016,5,Horlacher,Derek Carr,22,Lamar Miller,2.9,Giovani Bernard,12.6,Larry Fitzgerald,23.1,Marvin Jones,11.7,Dwayne Allen,14,Texans D/ST,0,n/a,n/a,0
-2016,6,Horlacher,Derek Carr,9.8,Lamar Miller,31.3,Giovani Bernard,11.4,Larry Fitzgerald,7.9,Antonio Brown,6.5,Jimmy Graham,11.9,Texans D/ST,4,n/a,n/a,0
-2016,7,Horlacher,Derek Carr,12.4,Lamar Miller,8.2,Tevin Coleman,13.9,Larry Fitzgerald,11.5,Antonio Brown,15.4,Jimmy Graham,7.8,Buccaneers D/ST,13,n/a,n/a,0
-2016,8,Horlacher,Derek Carr,35.8,Lamar Miller,13.3,Giovani Bernard,13.1,Larry Fitzgerald,12.4,Marvin Jones,4.8,Jimmy Graham,4.9,Texans D/ST,6,n/a,n/a,0
-2016,9,Horlacher,Derek Carr,7.7,Lamar Miller,--,Giovani Bernard,--,Marvin Jones,1,Antonio Brown,18,Jimmy Graham,26.3,Saints D/ST,4,n/a,n/a,0
-2016,10,Horlacher,Sam Bradford,18.3,Lamar Miller,8.3,Giovani Bernard,5.1,Larry Fitzgerald,19.2,Antonio Brown,27.4,Jimmy Graham,6.8,Texans D/ST,12,n/a,n/a,0
-2016,11,Horlacher,Derek Carr,21.6,Lamar Miller,18.3,Giovani Bernard,8.6,Larry Fitzgerald,9.3,Antonio Brown,11.6,Jimmy Graham,12.1,Texans D/ST,2,n/a,n/a,0
-2016,12,Horlacher,Derek Carr,17.4,Lamar Miller,7,Jay Ajayi,12.1,Allen Robinson,3.4,Antonio Brown,29.6,Jimmy Graham,7.7,Texans D/ST,3,n/a,n/a,0
+2016,1,Horlacher,Derek Carr,22.4,Lamar Miller,13.7,Giovani Bernard,4,Allen Robinson,10.2,Amari Cooper,18.7,Dwayne Allen,15.3,Texans D/ST,10,Larry Fitzgerald,wr,24.1
+2016,2,Horlacher,Derek Carr,25,Lamar Miller,10.7,Isaiah Crowell,21.3,Allen Robinson,6.9,Amari Cooper,9.6,Dwayne Allen,3.5,Texans D/ST,15,Larry Fitzgerald,wr,16.6
+2016,3,Horlacher,Derek Carr,11.9,Lamar Miller,12.7,Isaiah Crowell,7.9,Allen Robinson,21.2,Amari Cooper,8.2,Dwayne Allen,5,Texans D/ST,3,Larry Fitzgerald,wr,9.5
+2016,4,Horlacher,Derek Carr,23.8,Lamar Miller,12.3,Tevin Coleman,4.8,Allen Robinson,14,Amari Cooper,7.3,Jimmy Graham,14.3,Texans D/ST,9,Larry Fitzgerald,wr,8.8
+2016,5,Horlacher,Derek Carr,22,Lamar Miller,2.9,Giovani Bernard,12.6,Larry Fitzgerald,23.1,Marvin Jones,11.7,Dwayne Allen,14,Texans D/ST,0,Antonio Brown,wr,18.3
+2016,6,Horlacher,Derek Carr,9.8,Lamar Miller,31.3,Giovani Bernard,11.4,Larry Fitzgerald,7.9,Antonio Brown,6.5,Jimmy Graham,11.9,Texans D/ST,4,Allen Robinson,wr,6.4
+2016,7,Horlacher,Derek Carr,12.4,Lamar Miller,8.2,Tevin Coleman,13.9,Larry Fitzgerald,11.5,Antonio Brown,15.4,Jimmy Graham,7.8,Buccaneers D/ST,13,Allen Robinson,wr,1.9
+2016,8,Horlacher,Derek Carr,35.8,Lamar Miller,13.3,Giovani Bernard,13.1,Larry Fitzgerald,12.4,Marvin Jones,4.8,Jimmy Graham,4.9,Texans D/ST,6,Allen Robinson,wr,10
+2016,9,Horlacher,Derek Carr,7.7,n/a,0,n/a,0,Marvin Jones,1,Antonio Brown,18,Jimmy Graham,26.3,Saints D/ST,4,Allen Robinson,wr,17.1
+2016,10,Horlacher,Sam Bradford,18.3,Lamar Miller,8.3,Giovani Bernard,5.1,Larry Fitzgerald,19.2,Antonio Brown,27.4,Jimmy Graham,6.8,Texans D/ST,12,Allen Robinson,wr,23.2
+2016,11,Horlacher,Derek Carr,21.6,Lamar Miller,18.3,Giovani Bernard,8.6,Larry Fitzgerald,9.3,Antonio Brown,11.6,Jimmy Graham,12.1,Texans D/ST,2,Allen Robinson,wr,9.3
+2016,12,Horlacher,Derek Carr,17.4,Lamar Miller,7,Jay Ajayi,12.1,Allen Robinson,3.4,Antonio Brown,29.6,Jimmy Graham,7.7,Texans D/ST,3,Tevin Coleman,rb,8.3

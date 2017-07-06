@@ -36,15 +36,15 @@ YEAR,WEEK,TEAM_NAME,QB_NAME,QB_SCORE,RB_NAME,RB_SCORE,RB_NAME,RB_SCORE,WR_NAME,W
 2015,10,Erik Stryshak,Eli Manning,21.4,Doug Martin,12.3,T.J. Yeldon,9.2,Dez Bryant,7,Jordan Matthews,3.6,Delanie Walker,6.7,Cardinals D/ST,5,Charcandrick West,rb,29.6
 2015,11,Erik Stryshak,Mark Sanchez,13.8,Doug Martin,23.5,Charcandrick West,7.4,Dez Bryant,12.5,Jordan Matthews,3.3,Delanie Walker,14.9,Texans D/ST,10,Jeremy Langford,rb,11.7
 2015,12,Erik Stryshak,Eli Manning,14.8,Doug Martin,10.3,T.J. Yeldon,10.2,Dez Bryant,3.6,Emmanuel Sanders,14.3,Delanie Walker,12.1,Cardinals D/ST,8,Spencer Ware,rb,19
-2016,1,Erik Stryshak,Eli Manning,18.3,Rashad Jennings,8.3,Doug Martin,12.1,Antonio Brown,28.6,Keenan Allen,9.3,Julius Thomas,14.9,Giants D/ST,0,n/a,n/a,0
-2016,2,Erik Stryshak,Eli Manning,12.3,Rashad Jennings,5,Doug Martin,2.3,Antonio Brown,5.9,Eric Decker,21.6,Julius Thomas,9.1,Ravens D/ST,8,n/a,n/a,0
-2016,3,Erik Stryshak,Eli Manning,14,Cameron Artis-Payne,6.3,Charles Sims,21.4,Antonio Brown,20,Eric Decker,3.6,Julius Thomas,2.3,Dolphins D/ST,3,n/a,n/a,0
-2016,4,Erik Stryshak,Joe Flacco,22,Dwayne Washington,1.9,Charles Sims,2.5,Antonio Brown,20.4,Tyrell Williams,6.5,Julius Thomas,0,Lions D/ST,6,n/a,n/a,0
-2016,5,Erik Stryshak,Eli Manning,10.1,Isaiah Crowell,4.5,DeAndre Washington,7.7,Tyrell Williams,20.2,Amari Cooper,24.8,Will Tye,4.7,Steelers D/ST,6,n/a,n/a,0
-2016,6,Erik Stryshak,Marcus Mariota,27.8,Arian Foster,2.5,Isaiah Crowell,4.6,Quincy Enunwa,5.7,Amari Cooper,17.9,Julius Thomas,3.8,Steelers D/ST,-4,n/a,n/a,0
-2016,7,Erik Stryshak,Marcus Mariota,16.7,Rashad Jennings,11.9,Jacquizz Rodgers,16.8,Cameron Meredith,1.7,Jarvis Landry,12.3,Rob Gronkowski,17.3,Raiders D/ST,8,n/a,n/a,0
-2016,8,Erik Stryshak,Marcus Mariota,19.9,Devontae Booker,14.9,Jacquizz Rodgers,14.3,Tyrell Williams,0.9,Rishard Matthews,11.8,Rob Gronkowski,19.4,Redskins D/ST,4,n/a,n/a,0
-2016,9,Erik Stryshak,Marcus Mariota,25.9,Devontae Booker,3.5,Jay Ajayi,20.5,Tyrell Williams,15.5,Jarvis Landry,4.8,Austin Hooper,12.1,Raiders D/ST,8,n/a,n/a,0
-2016,10,Erik Stryshak,Marcus Mariota,27.8,Jay Ajayi,8.5,Robert Kelley,10,Tyrell Williams,21,Randall Cobb,5.1,Rob Gronkowski,7.1,Redskins D/ST,5,n/a,n/a,0
-2016,11,Erik Stryshak,Marcus Mariota,22.5,Doug Martin,12,Jay Ajayi,9.9,Jarvis Landry,11.3,Randall Cobb,9.9,Ladarius Green,0,Raiders D/ST,5,n/a,n/a,0
-2016,12,Erik Stryshak,Marcus Mariota,21.6,Rashad Jennings,6.9,Doug Martin,8,Randall Cobb,7.1,Larry Fitzgerald,7.3,Rob Gronkowski,0,Titans D/ST,1,n/a,n/a,0
+2016,1,Erik Stryshak,Eli Manning,18.3,Rashad Jennings,8.3,Doug Martin,12.1,Antonio Brown,28.6,Keenan Allen,9.3,Julius Thomas,14.9,Giants D/ST,0,Eric Decker,wr,10.7
+2016,2,Erik Stryshak,Eli Manning,12.3,Rashad Jennings,5,Doug Martin,2.3,Antonio Brown,5.9,Eric Decker,21.6,Julius Thomas,9.1,Ravens D/ST,8,Arian Foster,rb,0.9
+2016,3,Erik Stryshak,Eli Manning,14,Cameron Artis-Payne,6.3,Charles Sims,21.4,Antonio Brown,20,Eric Decker,3.6,Julius Thomas,2.3,Dolphins D/ST,3,Tyrell Williams,wr,9.9
+2016,4,Erik Stryshak,Joe Flacco,22,Dwayne Washington,1.9,Charles Sims,2.5,Antonio Brown,20.4,Tyrell Williams,6.5,Julius Thomas,0,Lions D/ST,6,Quincy Enunwa,wr,9
+2016,5,Erik Stryshak,Eli Manning,10.1,Isaiah Crowell,4.5,DeAndre Washington,7.7,Tyrell Williams,20.2,Amari Cooper,24.8,Will Tye,4.7,Steelers D/ST,6,Quincy Enunwa,wr,7.1
+2016,6,Erik Stryshak,Marcus Mariota,27.8,Arian Foster,2.5,Isaiah Crowell,4.6,Quincy Enunwa,5.7,Amari Cooper,17.9,Julius Thomas,3.8,Steelers D/ST,-4,Cameron Meredith,wr,16.8
+2016,7,Erik Stryshak,Marcus Mariota,16.7,Rashad Jennings,11.9,Jacquizz Rodgers,16.8,Cameron Meredith,1.7,Jarvis Landry,12.3,Rob Gronkowski,17.3,Raiders D/ST,8,Tyrell Williams,wr,17.5
+2016,8,Erik Stryshak,Marcus Mariota,19.9,Devontae Booker,14.9,Jacquizz Rodgers,14.3,Tyrell Williams,0.9,Rishard Matthews,11.8,Rob Gronkowski,19.4,Redskins D/ST,4,Cameron Meredith,wr,2.9
+2016,9,Erik Stryshak,Marcus Mariota,25.9,Devontae Booker,3.5,Jay Ajayi,20.5,Tyrell Williams,15.5,Jarvis Landry,4.8,Austin Hooper,12.1,Raiders D/ST,8,Rashad Jennings,rb,5.4
+2016,10,Erik Stryshak,Marcus Mariota,27.8,Jay Ajayi,8.5,Robert Kelley,10,Tyrell Williams,21,Randall Cobb,5.1,Rob Gronkowski,7.1,Redskins D/ST,5,Jarvis Landry,wr,8.3
+2016,11,Erik Stryshak,Marcus Mariota,22.5,Doug Martin,12,Jay Ajayi,9.9,Jarvis Landry,11.3,Randall Cobb,9.9,Ladarius Green,0,Raiders D/ST,5,Robert Kelley,rb,31.7
+2016,12,Erik Stryshak,Marcus Mariota,21.6,Rashad Jennings,6.9,Doug Martin,8,Randall Cobb,7.1,Larry Fitzgerald,7.3,Rob Gronkowski,0,Titans D/ST,1,Matt Forte,rb,6.5
