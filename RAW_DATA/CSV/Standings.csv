@@ -1,57 +1,57 @@
-Team,Standing Reg,Standing Final,Wins,Year,Made_Playoffs
-Charlie,1,2,12,2013,1
-Chandler,2,4,10,2013,1
+TEAM_NAME,Standing Reg,Standing Final,Wins,Year,Made_Playoffs
+Charlie Frank,1,2,12,2013,1
+Chandler Dalton,2,4,10,2013,1
 Horlacher,3,1,9,2013,1
-Erik,4,3,8,2013,1
-Andrew,5,11,7,2013,1
-Tommy,6,5,6,2013,1
-Richard,7,7,6,2013,1
-James,8,12,6,2013,1
-Peter,9,10,6,2013,0
-Ozzie,10,9,5,2013,0
-Brendan,11,8,5,2013,0
-Stefan,12,6,4,2013,0
+Erik Stryshak,4,3,8,2013,1
+Andrew McDowell,5,11,7,2013,1
+Tommy Stupp,6,5,6,2013,1
+Richard Graney,7,7,6,2013,1
+James Carman,8,12,6,2013,1
+Peter Condie,9,10,6,2013,0
+Ozair Ferozuddin,10,9,5,2013,0
+Brendan Hart,11,8,5,2013,0
+Stefan Hanish,12,6,4,2013,0
 Geoffrey,13,14,4,2013,0
-Trey,14,13,3,2013,0
-Erik,1,5,9,2014,1
-Ozzie,2,2,8,2014,1
-Stefan,3,3,7,2014,1
-Brendan,4,1,7,2014,1
-Charlie,5,7,7,2014,1
-Richard,6,9,7,2014,1
-Trey,7,8,7,2014,1
-James,8,12,7,2014,1
+Trey Shmo,14,13,3,2013,0
+Erik Stryshak,1,5,9,2014,1
+Ozair Ferozuddin,2,2,8,2014,1
+Stefan Hanish,3,3,7,2014,1
+Brendan Hart,4,1,7,2014,1
+Charlie Frank,5,7,7,2014,1
+Richard Graney,6,9,7,2014,1
+Trey Shmo,7,8,7,2014,1
+James Carman,8,12,7,2014,1
 Geoffrey,9,4,6,2014,0
-Tommy,10,6,4,2014,0
-Andrew,11,10,4,2014,0
-Chandler,12,11,4,2014,0
+Tommy Stupp,10,6,4,2014,0
+Andrew McDowell,11,10,4,2014,0
+Chandler Dalton,12,11,4,2014,0
 Horlacher,13,14,4,2014,0
-Peter,14,13,3,2014,0
-Chandler,1,2,10,2015,1
+Peter Condie,14,13,3,2014,0
+Chandler Dalton,1,2,10,2015,1
 Geoffrey,2,1,8,2015,1
-Richard,3,6,8,2015,1
-Peter,4,7,8,2015,1
+Richard Graney,3,6,8,2015,1
+Peter Condie,4,7,8,2015,1
 Horlacher,5,4,7,2015,1
-Erik,6,3,7,2015,1
-Brendan,7,5,7,2015,1
-Charlie,8,8,7,2015,1
-Stefan,9,10,6,2015,0
-Trey,10,9,6,2015,0
-Tommy,11,11,6,2015,0
-Andrew,12,12,5,2015,0
-Ozzie,13,14,3,2015,0
-Carman,14,13,3,2015,0
-Trey,1,1,10,2016,1
-Brendan,2,5,10,2016,1
-Chandler,3,8,8,2016,1
-Stefan,4,3,8,2016,1
+Erik Stryshak,6,3,7,2015,1
+Brendan Hart,7,5,7,2015,1
+Charlie Frank,8,8,7,2015,1
+Stefan Hanish,9,10,6,2015,0
+Trey Shmo,10,9,6,2015,0
+Tommy Stupp,11,11,6,2015,0
+Andrew McDowell,12,12,5,2015,0
+Ozair Ferozuddin,13,14,3,2015,0
+James Carman,14,13,3,2015,0
+Trey Shmo,1,1,10,2016,1
+Brendan Hart,2,5,10,2016,1
+Chandler Dalton,3,8,8,2016,1
+Stefan Hanish,4,3,8,2016,1
 Horlacher,5,7,8,2016,1
-Charlie,6,4,8,2016,1
-Tommy,7,2,7,2016,1
-Erik,8,6,7,2016,1
-Richard,9,10,6,2016,0
+Charlie Frank,6,4,8,2016,1
+Tommy Stupp,7,2,7,2016,1
+Erik Stryshak,8,6,7,2016,1
+Richard Graney,9,10,6,2016,0
 Geoffrey,10,9,6,2016,0
-Peter,11,14,4,2016,0
-Andrew,12,12,4,2016,0
-James,13,11,3,2016,0
-Ozzie,14,13,2,2016,0
+Peter Condie,11,14,4,2016,0
+Andrew McDowell,12,12,4,2016,0
+James Carman,13,11,3,2016,0
+Ozair Ferozuddin,14,13,2,2016,0

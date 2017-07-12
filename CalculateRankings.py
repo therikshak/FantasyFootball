@@ -18,5 +18,6 @@ new_columns = ['Team', 'Year', 'Total_Points', 'Average_Points', 'STD_Points', '
                'RB_STD', 'WR_Points', 'WR_STD', 'TE_Points', 'TE_STD', 'DST_Points', 'DST_STD', 'FLEX_Points',
                'FLEX_STD', 'Made_Playoffs', 'Regular_Season_Finish', 'Wins']
 
-#  df = pd.DataFrame(data=None, columns=new_columns)
+df = pd.merge(df_player_stats, df_standings, on='TEAM_NAME')
 
+df.to_csv('Merged.csv', index=False)
