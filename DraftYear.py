@@ -9,6 +9,6 @@ class DraftYear:
         self.picks = []
 
     # add pick
-    def addPick(self, pickNum, pickRound, position, player):
-        temp = [pickNum, pickRound, position, player]
+    def add_pick(self, pick_num, pick_round, position, player):
+        temp = [pick_num, pick_round, position, player]
         self.picks.append(temp)

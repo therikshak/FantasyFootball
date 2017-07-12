@@ -22,8 +22,8 @@ class MatchStats:
         self.dst = []
 
     # add data to the object, based off of position
-    def addData(self,position, points, playerName):
-        temp = [playerName, points]
+    def add_data(self, position, points, player_name):
+        temp = [player_name, points]
         if position == "QB":
             self.qb = temp
         elif position == "RB":

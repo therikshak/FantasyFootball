@@ -7,7 +7,7 @@ import csv
 baseURL = "http://games.espn.com/ffl/tools/draftrecap?leagueId=416193&seasonId={0}&mode=1"
 
 years = [2013, 2014, 2015, 2016]
-teamIDs = ['Erik Stryshak', 'Charlie Frank', "Brendan Hart",
+team_IDs = ['Erik Stryshak', 'Charlie Frank', "Brendan Hart",
             'Stefan Hanish', 'Andrew McDowell', 'Horlacher',
             'Geoffrey Raclin', 'Trey Shmo', 'Richard Graney',
             'Tommy Stupp', 'Peter Condie', 'James Carman',
@@ -17,7 +17,7 @@ teamIDs = ['Erik Stryshak', 'Charlie Frank', "Brendan Hart",
 teamData = []
 
 #initialize team objects
-for t in teamIDs:
+for t in team_IDs:
     temp = Team(t)
     teamData.append(temp)
 
@@ -30,36 +30,36 @@ for year in years:
     # get all tables
     tables = soup.find_all('table')
 
-    teamIndex = 0
+    team_index = 0
     for table in tables[2:16]:
-        roundNumber = 1
+        round_number = 1
 
         # create draft data object
-        draft = DraftYear(teamIDs[teamIndex], year)
+        draft = DraftYear(team_IDs[team_index], year)
 
         for row in table.find_all('tr')[1:15]:
             # get data in the row
             line = row.find_all('td')
 
             # get the draft pick number
-            pickNum = line[0].text
+            pick_num = line[0].text
 
             if year == 2016:
-                playerName = line[1].find('a').text
+                player_name = line[1].find('a').text
                 position = line[1].text[-2:]
             else:
-                playerName, rhs = line[1].text.split(",", 1)
+                player_name, rhs = line[1].text.split(",", 1)
                 position = rhs[-2:]
 
             # add data to draft year object
-            draft.addPick(pickNum, roundNumber, position, playerName)
+            draft.add_pick(pick_num, round_number, position, player_name)
 
-            # increment roundNumber
-            roundNumber += 1
+            # increment round_number
+            round_number += 1
 
         # add team to teamData list
-        teamData[teamIndex].addDraftPicks(draft)
-        teamIndex += 1
+        teamData[team_index].add_draft_picks(draft)
+        team_index += 1
 
 # header for csv file
 draftHeader = ['Year', 'Team', 'Round', 'Pick', 'Position', 'Player']
@@ -71,7 +71,7 @@ with open('Draft.csv', 'w', newline='') as out:
     csv_out.writerow(draftHeader)
     for team in teamData:
         for draft in team.DraftPicks:
-            outLine = [draft.year, draft.teamName, 0, 0, '', '']
+            outLine = [draft.year, draft.team_name, 0, 0, '', '']
             for pick in draft.picks:
                 outLine[2] = pick[1]
                 outLine[3] = pick[0]

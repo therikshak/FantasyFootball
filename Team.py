@@ -12,9 +12,9 @@ class Team:
         self.DraftPicks = []
 
     # add Match
-    def addMatch(self, match):
+    def add_match(self, match):
         self.Matches.append(match)
 
     # add draft picks
-    def addDraftPicks(self, draft):
+    def add_draft_picks(self, draft):
         self.DraftPicks.append(draft)
