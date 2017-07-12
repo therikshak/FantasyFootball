@@ -16,7 +16,7 @@ team_IDs = ['Erik Stryshak', 'Charlie Frank', "Brendan Hart",
 # list to store team objects
 teamData = []
 
-#initialize team objects
+# initialize team objects
 for t in team_IDs:
     temp = Team(t)
     teamData.append(temp)
