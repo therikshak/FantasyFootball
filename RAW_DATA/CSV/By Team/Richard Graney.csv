@@ -36,15 +36,15 @@ YEAR,WEEK,TEAM_NAME,QB_NAME,QB_SCORE,RB_NAME,RB_SCORE,RB_NAME,RB_SCORE,WR_NAME,W
 2015,10,Richard Graney,Derek Carr,17.3,Chris Thompson,8.2,Mark Ingram,11.3,Ted Ginn Jr.,6.5,Martavis Bryant,24.8,Greg Olsen,12,Panthers D/ST,10,Julian Edelman,wr,7.3
 2015,11,Richard Graney,Derek Carr,7.6,Jay Ajayi,4.6,Eddie Lacy,11.1,Lance Moore,2.6,Ted Ginn Jr.,13.4,Greg Olsen,12.9,Panthers D/ST,19,Eric Ebron,te,0
 2015,12,Richard Graney,Matthew Stafford,34.8,Mark Ingram,12.7,Eddie Lacy,19.9,Ted Ginn Jr.,0,Martavis Bryant,16.5,Greg Olsen,9.5,Panthers D/ST,23,Eric Ebron,te,3.8
-2016,1,Richard Graney,Philip Rivers,14.6,Jeremy Langford,13.3,LeGarrette Blount,11,A.J. Green,30,Randall Cobb,9.8,Greg Olsen,10.8,Colts D/ST,-5,n/a,n/a,0
-2016,2,Richard Graney,Philip Rivers,23.8,Jeremy Langford,7.9,LeGarrette Blount,18.3,A.J. Green,4.8,Randall Cobb,6.8,Greg Olsen,20.7,Bears D/ST,9,n/a,n/a,0
-2016,3,Richard Graney,Philip Rivers,11.2,Jeremy Langford,5.6,LeGarrette Blount,22.5,A.J. Green,11.7,Kelvin Benjamin,0,Greg Olsen,9.4,Giants D/ST,0,n/a,n/a,0
-2016,4,Richard Graney,Philip Rivers,18.8,LeGarrette Blount,7.3,Orleans Darkwa,10.8,A.J. Green,28.3,Kelvin Benjamin,11.4,Greg Olsen,18.6,Giants D/ST,-1,n/a,n/a,0
-2016,5,Richard Graney,Philip Rivers,26.4,LeGarrette Blount,9.7,Darren Sproles,8.8,A.J. Green,7,Kelvin Benjamin,9.5,Greg Olsen,22.6,Ravens D/ST,6,n/a,n/a,0
-2016,6,Richard Graney,Philip Rivers,11.1,LeGarrette Blount,14,Darren Sproles,2.9,A.J. Green,11.8,Kelvin Benjamin,12.6,Greg Olsen,12.4,Ravens D/ST,4,n/a,n/a,0
-2016,7,Richard Graney,Philip Rivers,14.6,LeGarrette Blount,25.9,Darren Sproles,5.9,A.J. Green,26.9,Michael Thomas,18,C.J. Fiedorowicz,6,Ravens D/ST,17,n/a,n/a,0
-2016,8,Richard Graney,Philip Rivers,12.7,LeGarrette Blount,10.3,Chris Thompson,6.6,A.J. Green,16.6,Kelvin Benjamin,8.3,Greg Olsen,1.6,Bears D/ST,10,n/a,n/a,0
-2016,9,Richard Graney,Philip Rivers,18.7,Darren Sproles,8.6,Terron Ward,3,Randall Cobb,8.4,Kelvin Benjamin,10.1,Greg Olsen,13.7,Ravens D/ST,15,n/a,n/a,0
-2016,10,Richard Graney,Philip Rivers,17,LeGarrette Blount,24.9,Devontae Booker,9.8,A.J. Green,16.3,Kelvin Benjamin,9.9,Greg Olsen,6.4,Ravens D/ST,16,n/a,n/a,0
-2016,11,Richard Graney,Joe Flacco,15.4,LeGarrette Blount,12.4,Darren Sproles,2.6,A.J. Green,0,Kelvin Benjamin,7.1,Greg Olsen,5.3,Ravens D/ST,-2,n/a,n/a,0
-2016,12,Richard Graney,Philip Rivers,19.7,LeGarrette Blount,6.7,Devontae Booker,10.6,Kelvin Benjamin,12.3,Rishard Matthews,13.9,Greg Olsen,6.5,Ravens D/ST,8,n/a,n/a,0
+2016,1,Richard Graney,Philip Rivers,14.6,Jeremy Langford,13.3,LeGarrette Blount,11,A.J. Green,30,Randall Cobb,9.8,Greg Olsen,10.8,Colts D/ST,-5,Kelvin Benjamin,wr,18.1
+2016,2,Richard Graney,Philip Rivers,23.8,Jeremy Langford,7.9,LeGarrette Blount,18.3,A.J. Green,4.8,Randall Cobb,6.8,Greg Olsen,20.7,Bears D/ST,9,Kelvin Benjamin,wr,26.3
+2016,3,Richard Graney,Philip Rivers,11.2,Jeremy Langford,5.6,LeGarrette Blount,22.5,A.J. Green,11.7,Kelvin Benjamin,0,Greg Olsen,9.4,Giants D/ST,0,Randall Cobb,wr,3.8
+2016,4,Richard Graney,Philip Rivers,18.8,LeGarrette Blount,7.3,Orleans Darkwa,10.8,A.J. Green,28.3,Kelvin Benjamin,11.4,Greg Olsen,18.6,Giants D/ST,-1,Cole Beasley,wr,8.8
+2016,5,Richard Graney,Philip Rivers,26.4,LeGarrette Blount,9.7,Darren Sproles,8.8,A.J. Green,7,Kelvin Benjamin,9.5,Greg Olsen,22.6,Ravens D/ST,6,Randall Cobb,wr,15.3
+2016,6,Richard Graney,Philip Rivers,11.1,LeGarrette Blount,14,Darren Sproles,2.9,A.J. Green,11.8,Kelvin Benjamin,12.6,Greg Olsen,12.4,Ravens D/ST,4,Randall Cobb,wr,14.8
+2016,7,Richard Graney,Philip Rivers,14.6,LeGarrette Blount,25.9,Darren Sproles,5.9,A.J. Green,26.9,Michael Thomas,18,C.J. Fiedorowicz,6,Ravens D/ST,17,Randall Cobb,wr,23.1
+2016,8,Richard Graney,Philip Rivers,12.7,LeGarrette Blount,10.3,Chris Thompson,6.6,A.J. Green,16.6,Kelvin Benjamin,8.3,Greg Olsen,1.6,Bears D/ST,10,Michael Thomas,wr,9.3
+2016,9,Richard Graney,Philip Rivers,18.7,Darren Sproles,8.6,Terron Ward,3,Randall Cobb,8.4,Kelvin Benjamin,10.1,Greg Olsen,13.7,Ravens D/ST,15,Michael Thomas,wr,21.8
+2016,10,Richard Graney,Philip Rivers,17,LeGarrette Blount,24.9,Devontae Booker,9.8,A.J. Green,16.3,Kelvin Benjamin,9.9,Greg Olsen,6.4,Ravens D/ST,16,Darren Sproles,rb,11.6
+2016,11,Richard Graney,Joe Flacco,15.4,LeGarrette Blount,12.4,Darren Sproles,2.6,A.J. Green,0,Kelvin Benjamin,7.1,Greg Olsen,5.3,Ravens D/ST,-2,Michael Thomas,wr,9.3
+2016,12,Richard Graney,Philip Rivers,19.7,LeGarrette Blount,6.7,Devontae Booker,10.6,Kelvin Benjamin,12.3,Rishard Matthews,13.9,Greg Olsen,6.5,Ravens D/ST,8,Michael Thomas,wr,27.3

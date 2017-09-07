@@ -36,15 +36,15 @@ YEAR,WEEK,TEAM_NAME,QB_NAME,QB_SCORE,RB_NAME,RB_SCORE,RB_NAME,RB_SCORE,WR_NAME,W
 2015,10,Stefan Hanish,Blake Bortles,16,LeGarrette Blount,14.7,James Starks,12.6,Amari Cooper,10.4,Mike Wallace,2.7,Charles Clay,7.7,Jets D/ST,6,LeSean McCoy,rb,18.4
 2015,11,Stefan Hanish,Blake Bortles,10.6,LeGarrette Blount,6.6,James Starks,4.9,Amari Cooper,0.9,Julio Jones,20.5,Charles Clay,1.9,Jets D/ST,2,LeSean McCoy,rb,21.3
 2015,12,Stefan Hanish,Blake Bortles,22.5,LeGarrette Blount,2.7,Duke Johnson Jr.,7.5,Amari Cooper,15,Julio Jones,8.1,Heath Miller,7,Jets D/ST,7,LeSean McCoy,rb,15.6
-2016,1,Stefan Hanish,Brock Osweiler,16.6,Carlos Hyde,22.3,Jeremy Hill,9.1,Julio Jones,14.6,Jeremy Maclin,14.7,Antonio Gates,3.5,Rams D/ST,1,n/a,n/a,0
-2016,2,Stefan Hanish,Brock Osweiler,10.4,Carlos Hyde,4.7,Jeremy Hill,7.4,Julio Jones,19.1,Jeremy Maclin,9.8,Antonio Gates,9,Rams D/ST,8,n/a,n/a,0
-2016,3,Stefan Hanish,Brock Osweiler,7.1,Carlos Hyde,25,Melvin Gordon,15.8,Julio Jones,2.1,Jeremy Maclin,5.5,Jacob Tamme,4.3,Rams D/ST,6,n/a,n/a,0
-2016,4,Stefan Hanish,Brock Osweiler,15.6,Carlos Hyde,14.4,Melvin Gordon,20.9,Julio Jones,42,Jeremy Maclin,10.3,Jacob Tamme,7.3,Rams D/ST,13,n/a,n/a,0
-2016,5,Stefan Hanish,Tom Brady,29.6,Carlos Hyde,20.4,Melvin Gordon,13.2,Julio Jones,3.9,DeVante Parker,8,Jacob Tamme,0.6,Rams D/ST,3,n/a,n/a,0
-2016,6,Stefan Hanish,Tom Brady,27.2,Carlos Hyde,5.2,Melvin Gordon,9.4,Julio Jones,23.4,Jeremy Maclin,6.4,Antonio Gates,2.6,Rams D/ST,0,n/a,n/a,0
-2016,7,Stefan Hanish,Tom Brady,18.2,Jeremy Hill,26.2,Melvin Gordon,33.1,Julio Jones,21.9,Jeremy Maclin,6,Antonio Gates,6.3,Rams D/ST,5,n/a,n/a,0
-2016,8,Stefan Hanish,Tom Brady,30.1,Jeremy Hill,13.8,Melvin Gordon,17.5,Julio Jones,4.4,Jeremy Maclin,11.8,Antonio Gates,11.3,Chargers D/ST,13,n/a,n/a,0
-2016,9,Stefan Hanish,Colin Kaepernick,22.2,Melvin Gordon,34.1,C.J. Prosise,2,Julio Jones,21.1,Jeremy Maclin,0,Antonio Gates,16,Chargers D/ST,14,n/a,n/a,0
-2016,10,Stefan Hanish,Tom Brady,11.3,Jeremy Hill,10.6,Melvin Gordon,15.7,Julio Jones,18.5,Mohamed Sanu,2.4,Antonio Gates,14.3,Rams D/ST,9,n/a,n/a,0
-2016,11,Stefan Hanish,Tom Brady,28.4,Carlos Hyde,12.5,Jeremy Hill,7.3,DeVante Parker,17.9,Tyreek Hill,8.1,Jesse James,1,Rams D/ST,9,n/a,n/a,0
-2016,12,Stefan Hanish,Tom Brady,19,Jeremy Hill,11.2,Melvin Gordon,10.9,Julio Jones,5.5,DeVante Parker,7.9,Antonio Gates,0,Chargers D/ST,11,n/a,n/a,0
+2016,1,Stefan Hanish,Brock Osweiler,16.6,Carlos Hyde,22.3,Jeremy Hill,9.1,Julio Jones,14.6,Jeremy Maclin,14.7,Antonio Gates,3.5,Rams D/ST,1,Melvin Gordon,rb,17.7
+2016,2,Stefan Hanish,Brock Osweiler,10.4,Carlos Hyde,4.7,Jeremy Hill,7.4,Julio Jones,19.1,Jeremy Maclin,9.8,Antonio Gates,9,Rams D/ST,8,Justin Forsett,rb,6.1
+2016,3,Stefan Hanish,Brock Osweiler,7.1,Carlos Hyde,25,Melvin Gordon,15.8,Julio Jones,2.1,Jeremy Maclin,5.5,Jacob Tamme,4.3,Rams D/ST,6,Justin Forsett,rb,6.2
+2016,4,Stefan Hanish,Brock Osweiler,15.6,Carlos Hyde,14.4,Melvin Gordon,20.9,Julio Jones,42,Jeremy Maclin,10.3,Jacob Tamme,7.3,Rams D/ST,13,Jeremy Hill,rb,7.1
+2016,5,Stefan Hanish,Tom Brady,29.6,Carlos Hyde,20.4,Melvin Gordon,13.2,Julio Jones,3.9,DeVante Parker,8,Jacob Tamme,0.6,Rams D/ST,3,Jeremy Hill,rb,1.2
+2016,6,Stefan Hanish,Tom Brady,27.2,Carlos Hyde,5.2,Melvin Gordon,9.4,Julio Jones,23.4,Jeremy Maclin,6.4,Antonio Gates,2.6,Rams D/ST,0,DeVante Parker,wr,5.3
+2016,7,Stefan Hanish,Tom Brady,18.2,Jeremy Hill,26.2,Melvin Gordon,33.1,Julio Jones,21.9,Jeremy Maclin,6,Antonio Gates,6.3,Rams D/ST,5,Mohamed Sanu,wr,2.6
+2016,8,Stefan Hanish,Tom Brady,30.1,Jeremy Hill,13.8,Melvin Gordon,17.5,Julio Jones,4.4,Jeremy Maclin,11.8,Antonio Gates,11.3,Chargers D/ST,13,Mohamed Sanu,wr,18.9
+2016,9,Stefan Hanish,Colin Kaepernick,22.2,Melvin Gordon,34.1,C.J. Prosise,2,Julio Jones,21.1,Jeremy Maclin,0,Antonio Gates,16,Chargers D/ST,14,Mohamed Sanu,wr,9.9
+2016,10,Stefan Hanish,Tom Brady,11.3,Jeremy Hill,10.6,Melvin Gordon,15.7,Julio Jones,18.5,Mohamed Sanu,2.4,Antonio Gates,14.3,Rams D/ST,9,Carlos Hyde,rb,1.4
+2016,11,Stefan Hanish,Tom Brady,28.4,Carlos Hyde,12.5,Jeremy Hill,7.3,DeVante Parker,17.9,Tyreek Hill,8.1,Jesse James,1,Rams D/ST,9,C.J. Prosise,rb,15.1
+2016,12,Stefan Hanish,Tom Brady,19,Jeremy Hill,11.2,Melvin Gordon,10.9,Julio Jones,5.5,DeVante Parker,7.9,Antonio Gates,0,Chargers D/ST,11,Carlos Hyde,rb,18

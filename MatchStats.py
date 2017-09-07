@@ -1,6 +1,6 @@
 class MatchStats:
-    #qb, rb1/2, wr1/2, te, d/st, flex
-    #get names and points for each
+    # qb, rb1/2, wr1/2, te, d/st, flex
+    # get names and points for each
     qb = []
     rb = []
     wr = []
@@ -10,7 +10,7 @@ class MatchStats:
     year = 0
     week = 0
 
-    #constructor
+    # constructor, takes in team name, year, and week and sets everything else to empty
     def __init__(self, team, year, week):
         self.team = team
         self.year = year
@@ -21,9 +21,9 @@ class MatchStats:
         self.te = []
         self.dst = []
 
-    #add data to the object, based off of position
-    def addData(self,position, points, playerName):
-        temp = [playerName, points]
+    # add data to the object, based off of position
+    def add_data(self, position, points, player_name):
+        temp = [player_name, points]
         if position == "QB":
             self.qb = temp
         elif position == "RB":

@@ -36,15 +36,15 @@ YEAR,WEEK,TEAM_NAME,QB_NAME,QB_SCORE,RB_NAME,RB_SCORE,RB_NAME,RB_SCORE,WR_NAME,W
 2015,10,Andrew McDowell,Drew Brees,12.4,Matt Jones,26.2,Giovani Bernard,10.4,Willie Snead,0,Mike Evans,16.6,Tyler Eifert,4.1,Eagles D/ST,8,Antonio Brown,wr,32.9
 2015,11,Andrew McDowell,Matt Hasselbeck,13.3,Matt Jones,0.2,Giovani Bernard,18.6,Mike Evans,14.3,Anquan Boldin,11.8,Travis Kelce,7.1,Seahawks D/ST,5,Tyler Eifert,te,15.7
 2015,12,Andrew McDowell,Drew Brees,7.1,Matt Jones,6.9,Giovani Bernard,7.7,Mike Evans,8.9,Antonio Brown,8.1,Travis Kelce,14.9,Eagles D/ST,-4,Tyler Eifert,te,11.5
-2016,1,Andrew McDowell,Drew Brees,31.4,Adrian Peterson,3.1,Danny Woodhead,20.5,Jarvis Landry,9.4,Will Fuller V,19.2,Delanie Walker,5.7,Bengals D/ST,5,n/a,n/a,0
-2016,2,Andrew McDowell,Drew Brees,14.5,Adrian Peterson,3.6,Danny Woodhead,3.6,Jarvis Landry,16.5,Will Fuller V,12.4,Delanie Walker,17.3,Jets D/ST,0,n/a,n/a,0
-2016,3,Andrew McDowell,Drew Brees,25.9,Shane Vereen,14.5,Kenyan Drake,5.8,Jarvis Landry,23.1,Will Fuller V,4.6,Jason Witten,3.5,Bengals D/ST,4,n/a,n/a,0
-2016,4,Andrew McDowell,Drew Brees,11.9,Kenyan Drake,1.5,Fozzy Whittaker,13.7,Jarvis Landry,9.6,Will Fuller V,23.6,Jason Witten,8.2,Bengals D/ST,14,n/a,n/a,0
-2016,5,Andrew McDowell,Andy Dalton,22.2,Kenyan Drake,3,Fozzy Whittaker,5.9,Jarvis Landry,4.5,Will Fuller V,0.9,Jason Witten,5.8,Bengals D/ST,-1,n/a,n/a,0
-2016,6,Andrew McDowell,Drew Brees,32.6,Fozzy Whittaker,0.8,,0,Jarvis Landry,12.6,Will Fuller V,0,Delanie Walker,2.6,Jets D/ST,-2,n/a,n/a,0
-2016,7,Andrew McDowell,Drew Brees,24.7,DeAndre Washington,2.7,Isaiah Crowell,15.4,Will Fuller V,4.2,Anquan Boldin,10.3,Delanie Walker,17.9,Jets D/ST,11,n/a,n/a,0
-2016,8,Andrew McDowell,Drew Brees,20.7,DeAndre Washington,3.2,Isaiah Crowell,13.3,Will Fuller V,2.8,Anquan Boldin,0.9,Delanie Walker,9.8,Jets D/ST,1,n/a,n/a,0
-2016,9,Andrew McDowell,Drew Brees,24.7,DeAndre Washington,4,Isaiah Crowell,8.7,Will Fuller V,--,Anquan Boldin,8,Delanie Walker,12.7,Jets D/ST,3,n/a,n/a,0
-2016,10,Andrew McDowell,Drew Brees,21,DeAndre Washington,--,Isaiah Crowell,6.8,Will Fuller V,0,Anquan Boldin,--,Delanie Walker,22.9,Jets D/ST,8,n/a,n/a,0
-2016,11,Andrew McDowell,Drew Brees,15.4,DeAndre Washington,0,Isaiah Crowell,4.8,Anquan Boldin,6.7,Jamison Crowder,17.7,Delanie Walker,5.6,Bengals D/ST,5,n/a,n/a,0
-2016,12,Andrew McDowell,Drew Brees,32.5,DeAndre Washington,0,Isaiah Crowell,10.1,Anquan Boldin,16.4,Jamison Crowder,12.8,Delanie Walker,12.5,Bengals D/ST,6,n/a,n/a,0
+2016,1,Andrew McDowell,Drew Brees,31.4,Adrian Peterson,3.1,Danny Woodhead,20.5,Jarvis Landry,9.4,Will Fuller V,19.2,Delanie Walker,5.7,Bengals D/ST,5,Jason Witten,te,11.1
+2016,2,Andrew McDowell,Drew Brees,14.5,Adrian Peterson,3.6,Danny Woodhead,3.6,Jarvis Landry,16.5,Will Fuller V,12.4,Delanie Walker,17.3,Jets D/ST,0,Shane Vereen,rb,6.1
+2016,3,Andrew McDowell,Drew Brees,25.9,Shane Vereen,14.5,Kenyan Drake,5.8,Jarvis Landry,23.1,Will Fuller V,4.6,Jason Witten,3.5,Bengals D/ST,4,Jamison Crowder,wr,15.8
+2016,4,Andrew McDowell,Drew Brees,11.9,Kenyan Drake,1.5,Fozzy Whittaker,13.7,Jarvis Landry,9.6,Will Fuller V,23.6,Jason Witten,8.2,Bengals D/ST,14,Jamison Crowder,wr,3.1
+2016,5,Andrew McDowell,Andy Dalton,22.2,Kenyan Drake,3,Fozzy Whittaker,5.9,Jarvis Landry,4.5,Will Fuller V,0.9,Jason Witten,5.8,Bengals D/ST,-1,Jamison Crowder,wr,11
+2016,6,Andrew McDowell,Drew Brees,32.6,Fozzy Whittaker,0.8,n/a,0,Jarvis Landry,12.6,Will Fuller V,0,Delanie Walker,2.6,Jets D/ST,-2,Jason Witten,te,6.2
+2016,7,Andrew McDowell,Drew Brees,24.7,DeAndre Washington,2.7,Isaiah Crowell,15.4,Will Fuller V,4.2,Anquan Boldin,10.3,Delanie Walker,17.9,Jets D/ST,11,Jamison Crowder,wr,14.3
+2016,8,Andrew McDowell,Drew Brees,20.7,DeAndre Washington,3.2,Isaiah Crowell,13.3,Will Fuller V,2.8,Anquan Boldin,0.9,Delanie Walker,9.8,Jets D/ST,1,Jamison Crowder,wr,21.2
+2016,9,Andrew McDowell,Drew Brees,24.7,DeAndre Washington,4,Isaiah Crowell,8.7,Anquan Boldin,8,n/a,0,Delanie Walker,12.7,Jets D/ST,3,n/a,n/a,0
+2016,10,Andrew McDowell,Drew Brees,21,Isaiah Crowell,6.8,n/a,0,Will Fuller V,0,Jamison Crowder,12.4,Delanie Walker,22.9,Jets D/ST,8,n/a,n/a,0
+2016,11,Andrew McDowell,Drew Brees,15.4,DeAndre Washington,0,Isaiah Crowell,4.8,Anquan Boldin,6.7,Jamison Crowder,17.7,Delanie Walker,5.6,Bengals D/ST,5,Jason Witten,te,6.2
+2016,12,Andrew McDowell,Drew Brees,32.5,DeAndre Washington,0,Isaiah Crowell,10.1,Anquan Boldin,16.4,Jamison Crowder,12.8,Delanie Walker,12.5,Bengals D/ST,6,Jason Witten,te,4.8

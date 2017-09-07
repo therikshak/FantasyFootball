@@ -36,15 +36,15 @@ YEAR,WEEK,TEAM_NAME,QB_NAME,QB_SCORE,RB_NAME,RB_SCORE,RB_NAME,RB_SCORE,WR_NAME,W
 2015,10,Trey Shmo,Kirk Cousins,29,Chris Johnson,5.8,Jeremy Hill,3.5,Allen Robinson,13.6,Nate Washington,4.2,Martellus Bennett,3.3,Titans D/ST,5,DeSean Jackson,wr,5.4
 2015,11,Trey Shmo,Kirk Cousins,6.7,Chris Johnson,7,Jeremy Hill,16.5,Allen Robinson,13.8,DeSean Jackson,17.2,Martellus Bennett,3.6,Dolphins D/ST,5,John Brown,wr,12.7
 2015,12,Trey Shmo,Kirk Cousins,22.2,Javorius Allen,16.4,Chris Johnson,1.7,Allen Robinson,14.1,DeSean Jackson,13.6,Zach Miller,8,Colts D/ST,10,John Brown,wr,12.4
-2016,1,Trey Shmo,Andrew Luck,35.5,Ezekiel Elliott,11.7,Jonathan Stewart,6.4,Donte Moncrief,15.4,Jordy Nelson,12.2,Coby Fleener,1.1,Cardinals D/ST,5,n/a,n/a,0
-2016,2,Trey Shmo,Andrew Luck,10.1,Ezekiel Elliott,13.7,T.J. Yeldon,7.8,Emmanuel Sanders,5.4,Jordy Nelson,15.8,Coby Fleener,3.9,Cardinals D/ST,22,n/a,n/a,0
-2016,3,Trey Shmo,Andrew Luck,13.2,Ezekiel Elliott,17,Spencer Ware,6.8,Emmanuel Sanders,28.2,Jordy Nelson,25.1,Coby Fleener,20.4,Cardinals D/ST,9,n/a,n/a,0
-2016,4,Trey Shmo,Andrew Luck,17.7,Ezekiel Elliott,22.2,Spencer Ware,8.1,Emmanuel Sanders,18.8,Terrelle Pryor Sr.,12.5,Coby Fleener,3.4,Cardinals D/ST,7,n/a,n/a,0
-2016,5,Trey Shmo,Andrew Luck,22.2,Ezekiel Elliott,30.6,Terrance West,9.9,Emmanuel Sanders,11.5,Jordy Nelson,11.8,Charles Clay,9.8,Cardinals D/ST,17,n/a,n/a,0
-2016,6,Trey Shmo,Andrew Luck,23.4,Ezekiel Elliott,18.4,Jonathan Stewart,20.5,Emmanuel Sanders,6,Jordy Nelson,7.3,Coby Fleener,22.6,Cardinals D/ST,11,n/a,n/a,0
-2016,7,Trey Shmo,Andrew Luck,27.8,Spencer Ware,20.1,Terrance West,1,Emmanuel Sanders,10.6,Jordy Nelson,1.4,Coby Fleener,5.4,Cardinals D/ST,7,n/a,n/a,0
-2016,8,Trey Shmo,Andrew Luck,18.4,Ezekiel Elliott,16.8,Spencer Ware,5.7,Emmanuel Sanders,8.8,Jordy Nelson,17.4,Coby Fleener,5.6,Cardinals D/ST,2,n/a,n/a,0
+2016,1,Trey Shmo,Andrew Luck,35.5,Ezekiel Elliott,11.7,Jonathan Stewart,6.4,Donte Moncrief,15.4,Jordy Nelson,12.2,Coby Fleener,1.1,Cardinals D/ST,5,Spencer Ware,rb,29.4
+2016,2,Trey Shmo,Andrew Luck,10.1,Ezekiel Elliott,13.7,T.J. Yeldon,7.8,Emmanuel Sanders,5.4,Jordy Nelson,15.8,Coby Fleener,3.9,Cardinals D/ST,22,Spencer Ware,rb,9.5
+2016,3,Trey Shmo,Andrew Luck,13.2,Ezekiel Elliott,17,Spencer Ware,6.8,Emmanuel Sanders,28.2,Jordy Nelson,25.1,Coby Fleener,20.4,Cardinals D/ST,9,Tajae Sharpe,wr,6.3
+2016,4,Trey Shmo,Andrew Luck,17.7,Ezekiel Elliott,22.2,Spencer Ware,8.1,Emmanuel Sanders,18.8,Terrelle Pryor Sr.,12.5,Coby Fleener,3.4,Cardinals D/ST,7,Tajae Sharpe,wr,2.5
+2016,5,Trey Shmo,Andrew Luck,22.2,Ezekiel Elliott,30.6,Terrance West,9.9,Emmanuel Sanders,11.5,Jordy Nelson,11.8,Charles Clay,9.8,Cardinals D/ST,17,Terrelle Pryor Sr.,wr,7.8
+2016,6,Trey Shmo,Andrew Luck,23.4,Ezekiel Elliott,18.4,Jonathan Stewart,20.5,Emmanuel Sanders,6,Jordy Nelson,7.3,Coby Fleener,22.6,Cardinals D/ST,11,Terrelle Pryor Sr.,wr,24.3
+2016,7,Trey Shmo,Andrew Luck,27.8,Spencer Ware,20.1,Terrance West,1,Emmanuel Sanders,10.6,Jordy Nelson,1.4,Coby Fleener,5.4,Cardinals D/ST,7,Terrelle Pryor Sr.,wr,2.8
+2016,8,Trey Shmo,Andrew Luck,18.4,Ezekiel Elliott,16.8,Spencer Ware,5.7,Emmanuel Sanders,8.8,Jordy Nelson,17.4,Coby Fleener,5.6,Cardinals D/ST,2,Terrelle Pryor Sr.,wr,15.1
 2016,9,Trey Shmo,Andrew Luck,12.7,Ezekiel Elliott,22.2,Jonathan Stewart,4.2,Emmanuel Sanders,7.2,Jordy Nelson,18.9,Coby Fleener,5.7,Giants D/ST,5,n/a,n/a,0
-2016,10,Trey Shmo,Joe Flacco,22.1,Ezekiel Elliott,39.9,Spencer Ware,8.7,Emmanuel Sanders,7.9,Jordy Nelson,24.6,Coby Fleener,3.6,Cardinals D/ST,7,n/a,n/a,0
-2016,11,Trey Shmo,Andrew Luck,18.7,Ezekiel Elliott,14.7,Spencer Ware,9.5,Donte Moncrief,11.7,Jordy Nelson,10.3,Coby Fleener,9.2,Cardinals D/ST,7,n/a,n/a,0
-2016,12,Trey Shmo,Eli Manning,19.6,Ezekiel Elliott,25,Spencer Ware,10.6,Emmanuel Sanders,25.7,Jordy Nelson,13.1,Travis Kelce,14.1,Broncos D/ST,7,n/a,n/a,0
+2016,10,Trey Shmo,Joe Flacco,22.1,Ezekiel Elliott,39.9,Spencer Ware,8.7,Emmanuel Sanders,7.9,Jordy Nelson,24.6,Coby Fleener,3.6,Cardinals D/ST,7,Terrelle Pryor Sr.,wr,7.3
+2016,11,Trey Shmo,Andrew Luck,18.7,Ezekiel Elliott,14.7,Spencer Ware,9.5,Donte Moncrief,11.7,Jordy Nelson,10.3,Coby Fleener,9.2,Cardinals D/ST,7,Terrelle Pryor Sr.,wr,12.2
+2016,12,Trey Shmo,Eli Manning,19.6,Ezekiel Elliott,25,Spencer Ware,10.6,Emmanuel Sanders,25.7,Jordy Nelson,13.1,Travis Kelce,14.1,Broncos D/ST,7,Jonathan Stewart,rb,21.6

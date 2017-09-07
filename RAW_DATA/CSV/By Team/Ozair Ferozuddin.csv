@@ -36,15 +36,15 @@ YEAR,WEEK,TEAM_NAME,QB_NAME,QB_SCORE,RB_NAME,RB_SCORE,RB_NAME,RB_SCORE,WR_NAME,W
 2015,10,Ozair Ferozuddin,Andy Dalton,9,Rashad Jennings,6.1,Ryan Mathews,11,Dwayne Harris,17.2,Demaryius Thomas,10.6,Rob Gronkowski,19.8,Broncos D/ST,1,Dorial Green-Beckham,wr,0
 2015,11,Ozair Ferozuddin,Andy Dalton,22,Ameer Abdullah,5.1,n/a,0,Donte Moncrief,6.6,Demaryius Thomas,13.4,Rob Gronkowski,4.7,Broncos D/ST,7,Dorial Green-Beckham,wr,5.5
 2015,12,Ozair Ferozuddin,Andy Dalton,19.7,Rashad Jennings,3.8,Ameer Abdullah,8,Donte Moncrief,15.4,Demaryius Thomas,4.1,Rob Gronkowski,17.8,Broncos D/ST,5,Dorial Green-Beckham,wr,4.7
-2016,1,Ozair Ferozuddin,Dak Prescott,10.3,Mark Ingram,9.7,Matt Forte,18,Allen Hurns,9.5,Corey Coleman,7.9,Clive Walford,4,Chiefs D/ST,0,n/a,n/a,0
-2016,2,Ozair Ferozuddin,Blake Bortles,18.6,Mark Ingram,6.7,Matt Forte,29.9,Allen Hurns,8.9,Nelson Agholor,6.2,Clive Walford,14,Chiefs D/ST,5,n/a,n/a,0
-2016,3,Ozair Ferozuddin,Dak Prescott,23.5,Mark Ingram,20.7,Matt Forte,7.4,Allen Hurns,6,Nelson Agholor,3.6,Clive Walford,3.7,Buccaneers D/ST,8,n/a,n/a,0
-2016,4,Ozair Ferozuddin,Dak Prescott,18.1,Mark Ingram,19.5,Matt Forte,5.3,Allen Hurns,11.7,Kevin White,8.5,Rob Gronkowski,1.6,Vikings D/ST,7,n/a,n/a,0
-2016,5,Ozair Ferozuddin,Dak Prescott,17.5,Matt Forte,7,Jalen Richard,12.7,Nelson Agholor,4.2,Dontrelle Inman,0.8,Rob Gronkowski,13.4,Vikings D/ST,17,n/a,n/a,0
-2016,6,Ozair Ferozuddin,Blake Bortles,10.9,Mark Ingram,7,Matt Forte,2.7,Nelson Agholor,4.9,Brian Quick,8.6,Rob Gronkowski,25.7,Lions D/ST,1,n/a,n/a,0
-2016,7,Ozair Ferozuddin,Blake Bortles,13.1,Mark Ingram,14.2,Matt Forte,27.4,Nelson Agholor,2,Amari Cooper,4.9,Julius Thomas,9.5,Vikings D/ST,10,n/a,n/a,0
-2016,8,Ozair Ferozuddin,Jameis Winston,18.8,Mark Ingram,-1.5,Matt Forte,22.8,Nelson Agholor,4,Amari Cooper,29.3,Julius Thomas,10.3,Vikings D/ST,-2,n/a,n/a,0
-2016,9,Ozair Ferozuddin,Jameis Winston,21.5,Mark Ingram,30.1,Matt Forte,16.2,Corey Coleman,5.6,Amari Cooper,8.6,Julius Thomas,3.1,Vikings D/ST,3,n/a,n/a,0
-2016,10,Ozair Ferozuddin,Jameis Winston,18.5,Mark Ingram,7.3,Matt Forte,11.9,Corey Coleman,3.2,Brian Quick,2.6,Julius Thomas,11.4,Vikings D/ST,2,n/a,n/a,0
-2016,11,Ozair Ferozuddin,Blake Bortles,12.4,Mark Ingram,9,Jalen Richard,12.7,Corey Coleman,5.9,Amari Cooper,13.7,Julius Thomas,2.7,Vikings D/ST,22,n/a,n/a,0
-2016,12,Ozair Ferozuddin,Blake Bortles,21.1,Mark Ingram,29.2,Jalen Richard,2.3,Amari Cooper,4.2,Dorial Green-Beckham,11.2,Julius Thomas,0,Vikings D/ST,3,n/a,n/a,0
+2016,1,Ozair Ferozuddin,Dak Prescott,10.3,Mark Ingram,9.7,Matt Forte,18,Allen Hurns,9.5,Corey Coleman,7.9,Clive Walford,4,Chiefs D/ST,0,Ameer Abdullah,rb,20.5
+2016,2,Ozair Ferozuddin,Blake Bortles,18.6,Mark Ingram,6.7,Matt Forte,29.9,Allen Hurns,8.9,Nelson Agholor,6.2,Clive Walford,14,Chiefs D/ST,5,Ameer Abdullah,rb,3.8
+2016,3,Ozair Ferozuddin,Dak Prescott,23.5,Mark Ingram,20.7,Matt Forte,7.4,Allen Hurns,6,Nelson Agholor,3.6,Clive Walford,3.7,Buccaneers D/ST,8,Marquise Goodwin,wr,1.1
+2016,4,Ozair Ferozuddin,Dak Prescott,18.1,Mark Ingram,19.5,Matt Forte,5.3,Allen Hurns,11.7,Kevin White,8.5,Rob Gronkowski,1.6,Vikings D/ST,7,Adam Humphries,wr,0.9
+2016,5,Ozair Ferozuddin,Dak Prescott,17.5,Matt Forte,7,Jalen Richard,12.7,Nelson Agholor,4.2,Dontrelle Inman,0.8,Rob Gronkowski,13.4,Vikings D/ST,17,Adam Humphries,wr,3.6
+2016,6,Ozair Ferozuddin,Blake Bortles,10.9,Mark Ingram,7,Matt Forte,2.7,Nelson Agholor,4.9,Brian Quick,8.6,Rob Gronkowski,25.7,Lions D/ST,1,Allen Hurns,wr,9.9
+2016,7,Ozair Ferozuddin,Blake Bortles,13.1,Mark Ingram,14.2,Matt Forte,27.4,Nelson Agholor,2,Amari Cooper,4.9,Julius Thomas,9.5,Vikings D/ST,10,Allen Hurns,wr,6.5
+2016,8,Ozair Ferozuddin,Jameis Winston,18.8,Mark Ingram,-1.5,Matt Forte,22.8,Nelson Agholor,4,Amari Cooper,29.3,n/a,0,Vikings D/ST,-2,Allen Hurns,wr,19.3
+2016,9,Ozair Ferozuddin,Jameis Winston,21.5,Mark Ingram,30.1,Matt Forte,16.2,Corey Coleman,5.6,Amari Cooper,8.6,Julius Thomas,3.1,Vikings D/ST,3,Allen Hurns,wr,0
+2016,10,Ozair Ferozuddin,Jameis Winston,18.5,Mark Ingram,7.3,Matt Forte,11.9,Corey Coleman,3.2,Brian Quick,2.6,Julius Thomas,11.4,Vikings D/ST,2,Allen Hurns,wr,2.3
+2016,11,Ozair Ferozuddin,Blake Bortles,12.4,Mark Ingram,9,Jalen Richard,12.7,Corey Coleman,5.9,Amari Cooper,13.7,Julius Thomas,2.7,Vikings D/ST,22,Allen Hurns,wr,1.4
+2016,12,Ozair Ferozuddin,Blake Bortles,21.1,Mark Ingram,29.2,Jalen Richard,2.3,Amari Cooper,4.2,Dorial Green-Beckham,11.2,Julius Thomas,0,Vikings D/ST,3,Tyrell Williams,wr,17
