@@ -20,7 +20,7 @@ team_ID = ['Erik Stryshak']
 base_url = 'http://games.espn.com/ffl/boxscorequick?leagueId=416193&teamId={0}&scoringPeriodId={1}&seasonId={2}&view=scoringperiod&version=quick'
 
 # years to iteratre through
-years = [2013, 2014, 2015, 2016]
+years = [2017]
 # weeks list to iterate through
 weeks = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]
 # id of team to start with

@@ -3,7 +3,9 @@ import pandas as pd
 import requests
 
 # start at year 2013
-year = 2013
+year = 2017
+# how many weeks
+week_cap = 2
 # base_url just has to fill in the year
 base_url = 'http://games.espn.com/ffl/schedule?leagueId=416193&seasonId={0}'
 
@@ -12,7 +14,7 @@ results = []
 # headers for results entries
 result_header = ['Team 1 Name', 'Team 2 Name', 'Team 1 Score', 'Team 2 Score', 'Week', 'Year']
 
-while year < 2017:
+while year < 2018:
     r = requests.get(base_url.format(year))
     soup = BeautifulSoup(r.text, 'html.parser')
     table = soup.find('table', class_= 'tableBody')
@@ -23,6 +25,8 @@ while year < 2017:
     week_number = 1
     # get data by looping through each row
     for row in table.find_all('tr')[2:]:
+        if week_number > week_cap:
+            break
         match = []
         # if not in between table data
         if current_index < header_start_index:
