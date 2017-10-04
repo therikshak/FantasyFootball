@@ -1,0 +1,50 @@
+YEAR,WEEK,TEAM_NAME,QB_NAME,QB_SCORE,RB_NAME,RB_SCORE,RB_NAME,RB_SCORE,WR_NAME,WR_SCORE,WR_NAME,WR_SCORE,TE_NAME,TE_SCORE,DST_NAME,DST_SCORE,FLEX_NAME,FLEX_POS,FLEX_SCORE
+2013,1,Brendan Hart,Tom Brady,15,David Wilson,-3,Isaac Redman,1,Andre Johnson,20,Golden Tate,7,Antonio Gates,5,Broncos D/ST,10,Marshawn Lynch,rb,5
+2013,2,Brendan Hart,Tom Brady,11,David Wilson,1,Rashard Mendenhall,15,Andre Johnson,11,Golden Tate,1.5,Antonio Gates,14,Broncos D/ST,14,Marshawn Lynch,rb,31.5
+2013,3,Brendan Hart,Tom Brady,15,Rashard Mendenhall,3.5,Marshawn Lynch,6,Andre Johnson,5.5,James Jones,11,Coby Fleener,2,Broncos D/ST,3,Antonio Gates,te,13.5
+2013,4,Brendan Hart,Tom Brady,20,David Wilson,6,Rashard Mendenhall,2.5,Santana Moss,0,Andre Johnson,15.5,Antonio Gates,24,Broncos D/ST,15,Marshawn Lynch,rb,18.5
+2013,5,Brendan Hart,Tom Brady,5,David Wilson,7,Rashard Mendenhall,11,Andre Johnson,4.5,James Jones,20,Antonio Gates,10.5,Broncos D/ST,3,Marshawn Lynch,rb,10.5
+2013,6,Brendan Hart,Tom Brady,13,Rashard Mendenhall,4.5,Marshawn Lynch,28,Andre Johnson,11.5,James Jones,1.5,Coby Fleener,2.5,Broncos D/ST,6,Antonio Gates,te,4
+2013,7,Brendan Hart,Tom Brady,7,Marshawn Lynch,15.5,BenJarvus Green-Ellis,2,Andre Johnson,10,Golden Tate,9,Coby Fleener,11.5,Broncos D/ST,3,Antonio Gates,te,6
+2013,8,Brendan Hart,Tom Brady,6,Marshawn Lynch,2.5,BenJarvus Green-Ellis,3,Santana Moss,3,James Jones,0,Zach Miller,2,Broncos D/ST,23,Golden Tate,wr,23.5
+2013,9,Brendan Hart,Tom Brady,35,Marshawn Lynch,15,BenJarvus Green-Ellis,7,Andre Johnson,46.5,James Jones,1.5,Antonio Gates,8,Chargers D/ST,8,Golden Tate,wr,3.5
+2013,10,Brendan Hart,Seneca Wallace,1,Marshawn Lynch,22.5,BenJarvus Green-Ellis,3,Andre Johnson,17.5,James Jones,6,Antonio Gates,8,Broncos D/ST,4,Golden Tate,wr,19
+2013,11,Brendan Hart,Tom Brady,13,Darren Sproles,4,Marshawn Lynch,24,Andre Johnson,16,Aaron Dobson,5,Antonio Gates,13,Broncos D/ST,7,Golden Tate,wr,2.5
+2013,12,Brendan Hart,Tom Brady,23,Marcel Reece,13,Rashard Mendenhall,13.5,Tavon Austin,16,Andre Johnson,4,Antonio Gates,3.5,Packers D/ST,7,James Jones,wr,11.5
+2013,13,Brendan Hart,Tom Brady,20,Rashard Mendenhall,7,Marshawn Lynch,6.5,Andre Johnson,16,James Jones,8.5,Antonio Gates,4.5,Broncos D/ST,0,Golden Tate,wr,6
+2014,1,Brendan Hart,Colin Kaepernick,17.1,DeMarco Murray,19.8,Lamar Miller,13.8,Dez Bryant,7.5,Vincent Jackson,5.6,Jordan Reed,0.9,Bengals D/ST,5,T.Y. Hilton,wr,6.6
+2014,2,Brendan Hart,Colin Kaepernick,12.3,DeMarco Murray,21.8,Andre Ellington,10.6,Dez Bryant,21.3,Vincent Jackson,7.1,Zach Miller,2.7,Bengals D/ST,11,T.Y. Hilton,wr,9.5
+2014,3,Brendan Hart,Colin Kaepernick,19.2,DeMarco Murray,19.1,Lamar Miller,15.2,Dez Bryant,17.9,Vincent Jackson,8.5,Travis Kelce,11.1,Bengals D/ST,11,Andre Ellington,rb,9
+2014,4,Brendan Hart,Colin Kaepernick,20.5,DeMarco Murray,28,Lamar Miller,17.7,Dez Bryant,11.9,Vincent Jackson,10.7,Niles Paul,7.5,Falcons D/ST,-10,T.Y. Hilton,wr,14
+2014,5,Brendan Hart,Colin Kaepernick,13.8,DeMarco Murray,20.2,Andre Ellington,28.4,Dez Bryant,19,Vincent Jackson,18.4,Niles Paul,1.1,Bengals D/ST,-8,T.Y. Hilton,wr,13.5
+2014,6,Brendan Hart,Colin Kaepernick,29.4,DeMarco Murray,23.6,Lamar Miller,14.8,Dez Bryant,8.3,Vincent Jackson,8.6,Jordan Reed,13.2,Bengals D/ST,-4,Andre Ellington,rb,12.3
+2014,7,Brendan Hart,Colin Kaepernick,14.3,DeMarco Murray,19.7,Lamar Miller,15.3,Dez Bryant,19.6,T.Y. Hilton,14.2,Jordan Reed,7.9,n/a,0,Andre Ellington,rb,19
+2014,8,Brendan Hart,Ryan Tannehill,14.6,DeMarco Murray,22.1,Lamar Miller,11.4,Dez Bryant,10.5,T.Y. Hilton,24.5,Jordan Reed,7.5,Chiefs D/ST,20,Andre Ellington,rb,14
+2014,9,Brendan Hart,Colin Kaepernick,10.9,DeMarco Murray,11,Lamar Miller,12.2,Dez Bryant,8.5,T.Y. Hilton,14.6,Jordan Reed,2.2,Bengals D/ST,7,Andre Ellington,rb,21.4
+2014,10,Brendan Hart,Colin Kaepernick,12.8,DeMarco Murray,16.1,Ronnie Hillman,3.2,Dez Bryant,30.8,Vincent Jackson,11.5,John Carlson,4.3,Bengals D/ST,1,Andre Ellington,rb,12.7
+2014,11,Brendan Hart,Colin Kaepernick,14.1,Lamar Miller,10.8,Andre Ellington,8.6,Andrew Hawkins,18.7,Vincent Jackson,5.8,Jordan Reed,3.2,Redskins D/ST,4,T.Y. Hilton,wr,3.9
+2014,12,Brendan Hart,Colin Kaepernick,13.6,DeMarco Murray,15.3,Lamar Miller,7.2,Dez Bryant,24.1,T.Y. Hilton,21.7,Jermaine Gresham,5.3,Bears D/ST,15,Andre Ellington,rb,8.8
+2015,1,Brendan Hart,Philip Rivers,20,DeMarco Murray,16,Joseph Randle,12.2,Alshon Jeffery,10.3,Jarvis Landry,16.7,Dwayne Allen,9.2,Buccaneers D/ST,1,Justin Forsett,rb,7.6
+2015,2,Brendan Hart,Philip Rivers,14.1,DeMarco Murray,8,Joseph Randle,7,Alshon Jeffery,0,Jarvis Landry,15.6,Dwayne Allen,0,Ravens D/ST,-3,Justin Forsett,rb,10
+2015,3,Brendan Hart,Philip Rivers,9.8,James Starks,5.6,Joseph Randle,29.5,Jarvis Landry,12.6,Terrance Williams,0,Crockett Gillmore,5.5,Colts D/ST,9,Justin Forsett,rb,4.9
+2015,4,Brendan Hart,Philip Rivers,26.2,DeMarco Murray,5.8,Joseph Randle,8.6,Cecil Shorts III,15.7,Jarvis Landry,8.9,Maxx Williams,2.7,Colts D/ST,1,Justin Forsett,rb,15
+2015,5,Brendan Hart,Philip Rivers,20.6,DeMarco Murray,21.5,Joseph Randle,9.3,Tavon Austin,9.8,Terrance Williams,4,Benjamin Watson,11.1,Titans D/ST,9,Justin Forsett,rb,25
+2015,6,Brendan Hart,Philip Rivers,28.1,DeMarco Murray,20.1,Justin Forsett,13.6,Alshon Jeffery,24.7,Jarvis Landry,14.1,Benjamin Watson,23.7,Titans D/ST,0,Ty Montgomery,wr,2.5
+2015,7,Brendan Hart,Philip Rivers,25.4,DeMarco Murray,8,Joseph Randle,2.4,Tavon Austin,8.4,Jarvis Landry,23.3,Benjamin Watson,7.9,Buccaneers D/ST,7,Justin Forsett,rb,11.9
+2015,8,Brendan Hart,Philip Rivers,24,Orleans Darkwa,2.3,Justin Forsett,7.9,Alshon Jeffery,22.6,Tavon Austin,23.9,Benjamin Watson,25.2,Chiefs D/ST,15,Jarvis Landry,wr,10.1
+2015,9,Brendan Hart,Philip Rivers,15.2,DeMarco Murray,25.1,Pierre Thomas,1.2,Alshon Jeffery,20.1,Tavon Austin,10.1,Benjamin Watson,8.5,Giants D/ST,11,Jarvis Landry,wr,14.6
+2015,10,Brendan Hart,Jay Cutler,24.7,DeMarco Murray,14.9,Justin Forsett,8.4,Alshon Jeffery,3.8,Tavon Austin,3.3,Benjamin Watson,3.4,Buccaneers D/ST,11,Jarvis Landry,wr,15.3
+2015,11,Brendan Hart,Philip Rivers,5.9,DeMarco Murray,9.1,Justin Forsett,2.6,Alshon Jeffery,0,Tavon Austin,0.6,Crockett Gillmore,12.6,Jaguars D/ST,9,Jarvis Landry,wr,8.6
+2015,12,Brendan Hart,Philip Rivers,28.9,DeMarco Murray,3,Thomas Rawls,14.1,Alshon Jeffery,12.5,Jarvis Landry,29.4,Benjamin Watson,7.3,Raiders D/ST,10,Shaun Draughn,rb,11.1
+2016,1,Brendan Hart,Carson Palmer,18.9,LeSean McCoy,15,David Johnson,21.2,Alshon Jeffery,12.5,Demaryius Thomas,6.8,Zach Ertz,8.8,Eagles D/ST,12,Ryan Mathews,rb,13.7
+2016,2,Brendan Hart,Carson Palmer,24.2,Ryan Mathews,16,David Johnson,15.8,Alshon Jeffery,12.1,Demaryius Thomas,13.5,Kyle Rudolph,10.6,Steelers D/ST,3,LeSean McCoy,rb,11
+2016,3,Brendan Hart,Carson Palmer,3.5,LeSean McCoy,25.1,David Johnson,24.6,Alshon Jeffery,9.5,Stefon Diggs,6,Kyle Rudolph,16.5,Cowboys D/ST,5,Demaryius Thomas,wr,17
+2016,4,Brendan Hart,Carson Palmer,11.5,LeSean McCoy,19.8,David Johnson,12.4,Demaryius Thomas,18.4,n/a,0,Kyle Rudolph,14,Redskins D/ST,6,n/a,n/a,0
+2016,5,Brendan Hart,Joe Flacco,13,LeSean McCoy,16.8,David Johnson,32,Alshon Jeffery,10.2,Demaryius Thomas,13.4,Zach Ertz,5.2,Patriots D/ST,11,Matt Jones,rb,4.6
+2016,6,Brendan Hart,Carson Palmer,12.4,LeSean McCoy,32.7,David Johnson,33.3,Alshon Jeffery,12.8,Demaryius Thomas,4,Zach Ertz,2.7,Patriots D/ST,4,Christine Michael,rb,21.8
+2016,7,Brendan Hart,Carson Palmer,14.5,David Johnson,21.1,Christine Michael,7,Alshon Jeffery,4.8,Demaryius Thomas,13,Kyle Rudolph,8,Patriots D/ST,2,Matt Jones,rb,0.7
+2016,8,Brendan Hart,Carson Palmer,22.5,David Johnson,14.3,Christine Michael,10.7,Alshon Jeffery,14.3,Demaryius Thomas,10.4,Kyle Rudolph,5.6,Patriots D/ST,1,Stefon Diggs,wr,17.6
+2016,9,Brendan Hart,Eli Manning,21.9,LeSean McCoy,14,Christine Michael,6.1,Demaryius Thomas,8.1,Stefon Diggs,15.7,Kyle Rudolph,6.6,Cowboys D/ST,9,Ryan Mathews,rb,8
+2016,10,Brendan Hart,Carson Palmer,14.6,David Johnson,24.6,Christine Michael,3.1,Alshon Jeffery,6.7,Demaryius Thomas,18.7,Kyle Rudolph,15.4,Bears D/ST,2,Stefon Diggs,wr,22.9
+2016,11,Brendan Hart,Carson Palmer,13,LeSean McCoy,11.5,David Johnson,31.5,Stefon Diggs,6.7,Cameron Meredith,6.9,Kyle Rudolph,2.2,Steelers D/ST,23,Ryan Mathews,rb,3.1
+2016,12,Brendan Hart,Carson Palmer,17.6,LeSean McCoy,28.4,David Johnson,26.1,Demaryius Thomas,8.5,Stefon Diggs,0,Kyle Rudolph,10.9,Raiders D/ST,12,Willie Snead,wr,12.3

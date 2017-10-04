@@ -1,0 +1,50 @@
+YEAR,WEEK,TEAM_NAME,QB_NAME,QB_SCORE,RB_NAME,RB_SCORE,RB_NAME,RB_SCORE,WR_NAME,WR_SCORE,WR_NAME,WR_SCORE,TE_NAME,TE_SCORE,DST_NAME,DST_SCORE,FLEX_NAME,FLEX_POS,FLEX_SCORE
+2013,1,Chandler Dalton,Matt Ryan,19,Ryan Mathews,12,Adrian Peterson,30,Greg Jennings,4.5,DeSean Jackson,19.5,Jordan Cameron,20.5,Seahawks D/ST,12,Steve Smith,wr,14
+2013,2,Chandler Dalton,Matt Ryan,22,Ryan Mathews,5.5,Adrian Peterson,8.5,DeSean Jackson,29.5,Vincent Brown,4,Jordan Cameron,11.5,Seahawks D/ST,23,Steve Smith,wr,7.5
+2013,3,Chandler Dalton,Matt Ryan,15,Ryan Mathews,5,Adrian Peterson,17,Greg Jennings,5.5,DeSean Jackson,7.5,Jordan Cameron,27,Seahawks D/ST,12,Steve Smith,wr,5.5
+2013,4,Chandler Dalton,Matt Ryan,24,Ryan Mathews,12,Adrian Peterson,26,Michael Floyd,10.5,DeSean Jackson,4,Jordan Cameron,20,Seahawks D/ST,16,Robert Meachem,wr,0
+2013,5,Chandler Dalton,Matt Ryan,18,Ryan Mathews,0,Maurice Jones-Drew,9,DeSean Jackson,22.5,Steve Smith,8,Jordan Cameron,4.5,Seahawks D/ST,11,Chris Givens,wr,2
+2013,6,Chandler Dalton,Geno Smith,4,Adrian Peterson,9.5,Maurice Jones-Drew,14,Greg Jennings,6,DeSean Jackson,21,Jordan Cameron,8.5,Seahawks D/ST,12,Steve Smith,wr,10.5
+2013,7,Chandler Dalton,Matt Ryan,22,Adrian Peterson,5,Joseph Randle,9.5,Greg Jennings,6,DeSean Jackson,3.5,Jordan Cameron,14.5,Seahawks D/ST,15,Steve Smith,wr,14.5
+2013,8,Chandler Dalton,Matt Ryan,9,Adrian Peterson,15.5,Joseph Randle,4.5,DeSean Jackson,10,Steve Smith,6,Jordan Cameron,10,Seahawks D/ST,11,Harry Douglas,wr,18
+2013,9,Chandler Dalton,Matt Ryan,6,Donald Brown,4,Adrian Peterson,24.5,DeSean Jackson,23.5,Steve Smith,7,Jordan Cameron,0.5,Seahawks D/ST,2,Harry Douglas,wr,9.5
+2013,10,Chandler Dalton,Christian Ponder,13,Adrian Peterson,20,Maurice Jones-Drew,15,Greg Jennings,2.5,DeSean Jackson,16,Timothy Wright,1.5,Seahawks D/ST,10,Jerricho Cotchery,wr,10
+2013,11,Chandler Dalton,Matt Ryan,14,Adrian Peterson,6,Maurice Jones-Drew,11,DeSean Jackson,10,Jerricho Cotchery,11.5,Jordan Cameron,5,Seahawks D/ST,17,Harry Douglas,wr,22
+2013,12,Chandler Dalton,Matt Ryan,12,Adrian Peterson,18.5,Maurice Jones-Drew,23,Steve Smith,8.5,Jerricho Cotchery,0,Jordan Cameron,4.5,Colts D/ST,2,Harry Douglas,wr,11.5
+2013,13,Chandler Dalton,Matt Ryan,15,Adrian Peterson,24,Maurice Jones-Drew,12,Michael Floyd,17.5,DeSean Jackson,4.5,Jordan Cameron,6,Seahawks D/ST,16,Harry Douglas,wr,10
+2014,1,Chandler Dalton,Robert Griffin,8.9,Le'Veon Bell,28.7,Ben Tate,4.1,Andre Johnson,12.3,Cordarrelle Patterson,20.3,Jermaine Gresham,2.6,Eagles D/ST,14,Eddie Lacy,rb,6
+2014,2,Chandler Dalton,n/a,0,Le'Veon Bell,13.2,Darren Sproles,27.3,Andre Johnson,10.4,Cordarrelle Patterson,7.6,Jermaine Gresham,4,n/a,0,Eddie Lacy,rb,7.1
+2014,3,Chandler Dalton,n/a,0,Le'Veon Bell,16.7,Darren Sproles,4.5,Andre Johnson,4.4,Cordarrelle Patterson,7.4,Jermaine Gresham,1,n/a,0,Eddie Lacy,rb,3
+2014,4,Chandler Dalton,EJ Manuel,13.3,Le'Veon Bell,13.9,Darren Sproles,7.6,Andre Johnson,8.1,Cordarrelle Patterson,4.8,Heath Miller,19.5,Redskins D/ST,-3,Eddie Lacy,rb,12.4
+2014,5,Chandler Dalton,Ryan Fitzpatrick,4.5,Le'Veon Bell,14.3,Darren Sproles,5.1,Andre Johnson,8.3,Doug Baldwin,7,Heath Miller,6.1,Eagles D/ST,18,Eddie Lacy,rb,26.7
+2014,6,Chandler Dalton,Austin Davis,11.3,Le'Veon Bell,12.5,Ben Tate,19.8,Andre Johnson,17.4,Doug Baldwin,4.2,Heath Miller,2.9,Dolphins D/ST,4,Eddie Lacy,rb,4
+2014,7,Chandler Dalton,Aaron Rodgers,24.3,Le'Veon Bell,24.5,Ben Tate,3.9,Andre Johnson,10.2,Jermaine Kearse,6.5,Jace Amaro,3.7,Bears D/ST,5,Eddie Lacy,rb,14.8
+2014,8,Chandler Dalton,Aaron Rodgers,24.8,Le'Veon Bell,17.8,Ben Tate,9.9,Andre Johnson,9,Doug Baldwin,9.1,Scott Chandler,7.7,Cowboys D/ST,2,Eddie Lacy,rb,22.2
+2014,9,Chandler Dalton,Brian Hoyer,15.9,Le'Veon Bell,14.3,Ben Tate,5.2,Andre Johnson,2.2,Doug Baldwin,6.3,Heath Miller,1.9,Redskins D/ST,0,Cordarrelle Patterson,wr,1.4
+2014,10,Chandler Dalton,Aaron Rodgers,36.6,Le'Veon Bell,10.9,Darren Sproles,14.6,Doug Baldwin,5.1,Martavis Bryant,22.3,Heath Miller,4.4,Steelers D/ST,6,Eddie Lacy,rb,19.3
+2014,11,Chandler Dalton,n/a,0,Le'Veon Bell,29.2,Eddie Lacy,24.9,Martavis Bryant,2.1,n/a,0,Heath Miller,9.6,Steelers D/ST,8,n/a,n/a,0
+2014,12,Chandler Dalton,Aaron Rodgers,19.8,Matt Forte,25.7,Jonas Gray,0,Andre Johnson,5.1,Doug Baldwin,1.6,Coby Fleener,3.8,Eagles D/ST,16,Davante Adams,wr,1.5
+2015,1,Chandler Dalton,Aaron Rodgers,23.1,Jonathan Stewart,10.1,DeAngelo Williams,13.7,Larry Fitzgerald,11.7,Odell Beckham Jr.,6.9,Jason Witten,22,Bengals D/ST,11,Frank Gore,rb,4.1
+2015,2,Chandler Dalton,Aaron Rodgers,22.3,Jonathan Stewart,6.4,DeAngelo Williams,29.2,Larry Fitzgerald,33.2,Odell Beckham Jr.,24.1,Jason Witten,9.1,Colts D/ST,3,Frank Gore,rb,4.6
+2015,3,Chandler Dalton,Aaron Rodgers,34.9,Jonathan Stewart,5.2,Darren Sproles,17.6,James Jones,23.4,Larry Fitzgerald,29.9,Jason Witten,9.5,Steelers D/ST,10,Odell Beckham Jr.,wr,17.4
+2015,4,Chandler Dalton,Aaron Rodgers,16.3,Jonathan Stewart,5,Frank Gore,9.2,James Jones,12.3,Larry Fitzgerald,11.4,Jason Witten,7.7,Packers D/ST,15,Odell Beckham Jr.,wr,6.3
+2015,5,Chandler Dalton,Aaron Rodgers,15.5,Darren Sproles,4.2,Frank Gore,15.8,James Jones,14.7,Larry Fitzgerald,14.3,Jason Witten,3.8,Packers D/ST,22,Odell Beckham Jr.,wr,21.9
+2015,6,Chandler Dalton,Aaron Rodgers,19.6,Darren Sproles,1.2,Frank Gore,10.4,James Jones,10,Larry Fitzgerald,13.3,Julius Thomas,17.3,Packers D/ST,-1,Odell Beckham Jr.,wr,15.6
+2015,7,Chandler Dalton,Joe Flacco,14.1,Jonathan Stewart,12.5,Frank Gore,10,Larry Fitzgerald,5.4,Odell Beckham Jr.,5.5,Julius Thomas,0.9,Steelers D/ST,1,Jason Witten,te,10.3
+2015,8,Chandler Dalton,Aaron Rodgers,6.2,Jonathan Stewart,12.8,Darren McFadden,14.3,Larry Fitzgerald,16.9,Odell Beckham Jr.,35,Jason Witten,2.6,Packers D/ST,-5,Frank Gore,rb,10.7
+2015,9,Chandler Dalton,Aaron Rodgers,33,Jonathan Stewart,7.3,Darren McFadden,12.7,James Jones,6.7,Odell Beckham Jr.,15,Julius Thomas,2.9,Packers D/ST,-4,Frank Gore,rb,16.7
+2015,10,Chandler Dalton,Aaron Rodgers,22.1,Jonathan Stewart,15.1,Darren McFadden,7.3,James Jones,0,Larry Fitzgerald,18,Jason Witten,6.7,Packers D/ST,4,Odell Beckham Jr.,wr,18.4
+2015,11,Chandler Dalton,Aaron Rodgers,19.1,Jonathan Stewart,17.9,Darren McFadden,16.4,James Jones,21.9,Larry Fitzgerald,13,Jason Witten,3.7,Packers D/ST,11,Frank Gore,rb,8.5
+2015,12,Chandler Dalton,Aaron Rodgers,13.4,Jonathan Stewart,9.2,Darren McFadden,9.6,Larry Fitzgerald,11.6,Odell Beckham Jr.,24.7,Jason Witten,5.6,Packers D/ST,4,Frank Gore,rb,4.7
+2016,1,Chandler Dalton,Ben Roethlisberger,21.8,DeMarco Murray,20.2,Theo Riddick,25.3,Odell Beckham Jr.,9.3,Michael Crabtree,14.2,Gary Barnidge,0,Packers D/ST,5,Julian Edelman,wr,11.7
+2016,2,Chandler Dalton,Joe Flacco,16.2,DeMarco Murray,18,Theo Riddick,8.5,Odell Beckham Jr.,12.6,Julian Edelman,11.1,Gary Barnidge,5.7,Packers D/ST,9,Michael Crabtree,wr,11.1
+2016,3,Chandler Dalton,Ben Roethlisberger,7,DeMarco Murray,24,Theo Riddick,8.3,Odell Beckham Jr.,15.6,Michael Crabtree,14.2,Dennis Pitta,7.2,Packers D/ST,2,Julian Edelman,wr,7.2
+2016,4,Chandler Dalton,Ben Roethlisberger,33.9,DeMarco Murray,24.9,Theo Riddick,7.8,Odell Beckham Jr.,3.8,Julian Edelman,2.2,Dennis Pitta,3.2,Colts D/ST,2,Michael Crabtree,wr,30.3
+2016,5,Chandler Dalton,Ben Roethlisberger,29.2,DeMarco Murray,16.2,Theo Riddick,23.2,Odell Beckham Jr.,14.1,Julian Edelman,6,Dennis Pitta,9.4,Eagles D/ST,8,Michael Crabtree,wr,12.2
+2016,6,Chandler Dalton,Ben Roethlisberger,9.6,Jamaal Charles,11.7,DeMarco Murray,12.5,Odell Beckham Jr.,36.2,Julian Edelman,5.8,Dennis Pitta,6.6,Eagles D/ST,9,Michael Crabtree,wr,2
+2016,7,Chandler Dalton,Joe Flacco,6,Jamaal Charles,0,DeMarco Murray,20.2,Odell Beckham Jr.,7.4,Julian Edelman,8.5,Dennis Pitta,6,Giants D/ST,20,Michael Crabtree,wr,19.6
+2016,8,Chandler Dalton,Ryan Fitzpatrick,14.4,DeMarco Murray,19.3,Theo Riddick,23.3,Julian Edelman,11.7,Michael Crabtree,14.8,Gary Barnidge,5.7,n/a,0,Quincy Enunwa,wr,17.3
+2016,9,Chandler Dalton,Ben Roethlisberger,18.9,DeMarco Murray,17.5,Theo Riddick,8.1,Odell Beckham Jr.,18.6,Steve Smith Sr.,8.7,Dennis Pitta,2.4,Eagles D/ST,4,Michael Crabtree,wr,3.7
+2016,10,Chandler Dalton,Ben Roethlisberger,28.4,DeMarco Murray,27,Bilal Powell,18.4,Odell Beckham Jr.,20.7,Julian Edelman,11.4,Dennis Pitta,5.6,Eagles D/ST,5,Steve Smith Sr.,wr,14.5
+2016,11,Chandler Dalton,Ben Roethlisberger,8.7,DeMarco Murray,15.4,Theo Riddick,12.3,Odell Beckham Jr.,7.1,Julian Edelman,18.9,C.J. Fiedorowicz,11.2,Eagles D/ST,0,Michael Crabtree,wr,2
+2016,12,Chandler Dalton,Ben Roethlisberger,20.8,DeMarco Murray,10.9,Theo Riddick,8.3,Odell Beckham Jr.,24.6,Julian Edelman,12.3,C.J. Fiedorowicz,6.2,Patriots D/ST,8,Michael Crabtree,wr,15

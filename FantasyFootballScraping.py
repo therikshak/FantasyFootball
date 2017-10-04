@@ -2,10 +2,10 @@ from bs4 import BeautifulSoup
 import pandas as pd
 import requests
 
-# start at year 2013
+# start year
 year = 2017
 # how many weeks
-week_cap = 2
+week_cap = 4
 # base_url just has to fill in the year
 base_url = 'http://games.espn.com/ffl/schedule?leagueId=416193&seasonId={0}'
 

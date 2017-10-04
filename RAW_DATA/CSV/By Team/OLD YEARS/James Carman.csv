@@ -1,0 +1,50 @@
+YEAR,WEEK,TEAM_NAME,QB_NAME,QB_SCORE,RB_NAME,RB_SCORE,RB_NAME,RB_SCORE,WR_NAME,WR_SCORE,WR_NAME,WR_SCORE,TE_NAME,TE_SCORE,DST_NAME,DST_SCORE,FLEX_NAME,FLEX_POS,FLEX_SCORE
+2013,1,James Carman,Robert Griffin III,19,Ahmad Bradshaw,2.5,Eddie Lacy,11.5,Calvin Johnson,5,Demaryius Thomas,30.5,Kyle Rudolph,3,Falcons D/ST,2,Stevan Ridley,rb,2
+2013,2,James Carman,Robert Griffin III,22,Ahmad Bradshaw,14.5,Eddie Lacy,1,Calvin Johnson,26,Demaryius Thomas,7.5,Brent Celek,0,Falcons D/ST,6,Stevan Ridley,rb,4
+2013,3,James Carman,Robert Griffin III,12,Bernard Pierce,13,Stevan Ridley,3.5,Calvin Johnson,20.5,Kenbrell Thompkins,17.5,Brent Celek,2,Falcons D/ST,13,Demaryius Thomas,wr,14
+2013,4,James Carman,Robert Griffin III,14,Bernard Pierce,0.5,Stevan Ridley,8,Calvin Johnson,12,Kenbrell Thompkins,21,Brent Celek,6.5,Falcons D/ST,-3,Demaryius Thomas,wr,24.5
+2013,5,James Carman,Blaine Gabbert,7,Bernard Pierce,4,Eddie Lacy,9.5,Calvin Johnson,0,Kenbrell Thompkins,2.5,Charles Clay,12.5,Falcons D/ST,5,Demaryius Thomas,wr,7.5
+2013,6,James Carman,Robert Griffin III,12,Eddie Lacy,12.5,Stevan Ridley,22.5,Calvin Johnson,3.5,Kenbrell Thompkins,11.5,Brent Celek,1.5,Ravens D/ST,7,Demaryius Thomas,wr,8.5
+2013,7,James Carman,Robert Griffin III,25,Eddie Lacy,18.5,Stevan Ridley,12,Calvin Johnson,31.5,Kenbrell Thompkins,2,Charles Clay,6.5,Ravens D/ST,8,Demaryius Thomas,wr,16
+2013,8,James Carman,Robert Griffin III,3,Eddie Lacy,18,Stevan Ridley,13,Calvin Johnson,45,Kenbrell Thompkins,0,Charles Clay,5.5,Falcons D/ST,6,Demaryius Thomas,wr,16.5
+2013,9,James Carman,Robert Griffin III,10,Eddie Lacy,21,Stevan Ridley,22.5,Kenny Stills,4.5,Dexter McCluster,1,Charles Clay,4.5,Ravens D/ST,5,Kenbrell Thompkins,wr,0
+2013,10,James Carman,Robert Griffin III,27,Montee Ball,2,Eddie Lacy,9,Calvin Johnson,23,Kenny Stills,14.5,Charles Clay,4,Ravens D/ST,11,Demaryius Thomas,wr,31.5
+2013,11,James Carman,Robert Griffin III,22,Eddie Lacy,11,Stevan Ridley,8,Calvin Johnson,32,Tiquan Underwood,2.5,Charles Clay,18,Ravens D/ST,3,Demaryius Thomas,wr,14.5
+2013,12,James Carman,Alex Smith,21,Stevan Ridley,-1,Bobby Rainey,3,Michael Crabtree,0,Demaryius Thomas,12,Charles Clay,4,Ravens D/ST,15,Tony Gonzalez,te,6
+2013,13,James Carman,Alex Smith,21,Stevan Ridley,0,Bobby Rainey,7,A.J. Green,16.5,Demaryius Thomas,11.5,Charles Clay,11.5,Ravens D/ST,0,Tony Gonzalez,te,12
+2014,1,James Carman,Russell Wilson,18.5,Zac Stacy,5.6,Knile Davis,1.1,Sammy Watkins,4.6,A.J. Green,22.6,Kyle Rudolph,8.6,Cardinals D/ST,5,Charles Clay,te,3.7
+2014,2,James Carman,Russell Wilson,17.9,Zac Stacy,11.1,Matt Asiata,16.9,Devin Hester,0.7,A.J. Green,0,Charles Clay,6.6,Cardinals D/ST,17,Donnie Avery,wr,2.9
+2014,3,James Carman,Russell Wilson,22.5,Zac Stacy,14.6,Matt Asiata,8.6,Sammy Watkins,2.9,A.J. Green,13.2,Kyle Rudolph,4.2,Cardinals D/ST,4,Wes Welker,wr,9
+2014,4,James Carman,Alex Smith,22.7,Dexter McCluster,0.1,Matt Asiata,29.5,Eddie Royal,25,Sammy Watkins,11,Charles Clay,4.2,Chargers D/ST,10,Devin Hester,wr,15.5
+2014,5,James Carman,Russell Wilson,34.2,Zac Stacy,7.8,Matt Asiata,5.2,Eddie Royal,5.5,Sammy Watkins,12.2,Larry Donnell,0,Chargers D/ST,14,A.J. Green,wr,14.6
+2014,6,James Carman,Russell Wilson,10.2,Zac Stacy,4.4,Matt Asiata,1.8,Eddie Royal,11.9,Devin Hester,2.8,Larry Donnell,1.1,Chargers D/ST,0,Wes Welker,wr,1.3
+2014,7,James Carman,Russell Wilson,37.1,Matt Asiata,4.2,Storm Johnson,7.6,Andre Holmes,4.9,Sammy Watkins,28.7,Larry Donnell,8.5,Chargers D/ST,2,Wes Welker,wr,12.5
+2014,8,James Carman,Russell Wilson,13.5,Benjamin Cunningham,4,Stepfan Taylor,0,Sammy Watkins,23.2,A.J. Green,0,Charles Clay,0.6,Cardinals D/ST,0,Wes Welker,wr,1.5
+2014,9,James Carman,Russell Wilson,10.3,Zac Stacy,0,Jonas Gray,3.3,Eddie Royal,0,A.J. Green,11.6,Larry Donnell,10.5,Chargers D/ST,-6,Wes Welker,wr,4.6
+2014,10,James Carman,Russell Wilson,19.6,Benjamin Cunningham,9.8,Travaris Cadet,4.2,Sammy Watkins,4.7,A.J. Green,3.8,Larry Donnell,4.6,Cardinals D/ST,27,Wes Welker,wr,4.4
+2014,11,James Carman,Russell Wilson,22.2,Benjamin Cunningham,5.8,Jonathan Stewart,5.4,Sammy Watkins,5,A.J. Green,21.7,Larry Donnell,12.9,Cardinals D/ST,12,Charles Clay,te,5.6
+2014,12,James Carman,Russell Wilson,19.7,Theo Riddick,6.7,Benjamin Cunningham,3.9,Sammy Watkins,5,A.J. Green,18.1,Larry Donnell,3.4,Chargers D/ST,15,Wes Welker,wr,9.8
+2015,1,James Carman,Russell Wilson,15.1,Shane Vereen,8,Jamaal Charles,18.8,Tyler Lockett,11.4,Andre Johnson,4.4,Jimmy Graham,14.1,Texans D/ST,2,Golden Tate,wr,4.4
+2015,2,James Carman,Marcus Mariota,16.2,Shane Vereen,13.5,Jamaal Charles,16.7,Tyler Lockett,2.7,Andre Johnson,4.2,Jimmy Graham,1.6,Texans D/ST,5,Danny Amendola,wr,3.7
+2015,3,James Carman,Russell Wilson,16.2,Shane Vereen,2.3,Jamaal Charles,28.7,Doug Baldwin,5,Pierre Garcon,8.9,Jimmy Graham,17.8,Texans D/ST,5,Golden Tate,wr,8.2
+2015,4,James Carman,Russell Wilson,15.5,Shane Vereen,2.1,Jamaal Charles,17.5,Doug Baldwin,11.1,Pierre Garcon,15,Jimmy Graham,4.9,Texans D/ST,-4,Golden Tate,wr,5
+2015,5,James Carman,Russell Wilson,12.6,Shane Vereen,21,Jamaal Charles,8.9,Doug Baldwin,8.5,Pierre Garcon,6.6,Jimmy Graham,4.5,Texans D/ST,0,Golden Tate,wr,10.2
+2015,6,James Carman,Russell Wilson,18.9,Shane Vereen,1.1,Matt Asiata,4,Marquess Wilson,6.4,Doug Baldwin,3.8,Jimmy Graham,18,Texans D/ST,14,Pierre Garcon,wr,11.3
+2015,7,James Carman,Russell Wilson,11.4,Shane Vereen,6.7,Matt Asiata,1.5,Doug Baldwin,2.9,Pierre Garcon,8,Jimmy Graham,4.1,Texans D/ST,-3,Golden Tate,wr,2.4
+2015,8,James Carman,Russell Wilson,13.6,Shane Vereen,16.3,Dexter McCluster,5.8,Andre Johnson,16.1,Danny Amendola,1.6,Jimmy Graham,11,Texans D/ST,19,Golden Tate,wr,8.9
+2015,9,James Carman,Marcus Mariota,33.3,Shane Vereen,12.3,Dexter McCluster,3.7,Andre Johnson,0,Pierre Garcon,9,Jacob Tamme,9.1,Steelers D/ST,2,DeAngelo Williams,rb,37.5
+2015,10,James Carman,Russell Wilson,16.8,Shane Vereen,3.6,DeAngelo Williams,7.4,Tyler Lockett,1.2,Pierre Garcon,2,Jimmy Graham,5.6,Steelers D/ST,15,Golden Tate,wr,8.3
+2015,11,James Carman,Marcus Mariota,18.1,Joique Bell,4.5,Dexter McCluster,2.8,Danny Amendola,16.2,Golden Tate,11.1,Jacob Tamme,2.1,Ravens D/ST,16,Jimmy Graham,te,5.4
+2015,12,James Carman,Russell Wilson,35.2,Shane Vereen,5.6,DeAngelo Williams,21.2,Doug Baldwin,35.5,Pierre Garcon,5,Jimmy Graham,9.5,Ravens D/ST,16,Golden Tate,wr,14.5
+2016,1,James Carman,Russell Wilson,11.9,C.J. Anderson,27.9,Derrick Henry,5.4,Doug Baldwin,19.7,Pierre Garcon,8.1,Travis Kelce,10.4,Broncos D/ST,5,Tavon Austin,wr,3.5
+2016,2,James Carman,Russell Wilson,11.6,C.J. Anderson,16.8,Derrick Henry,5.4,Doug Baldwin,3.5,Pierre Garcon,3.5,Travis Kelce,5.9,Broncos D/ST,23,Tavon Austin,wr,8.1
+2016,3,James Carman,Russell Wilson,14,C.J. Anderson,4.6,Derrick Henry,4.5,Doug Baldwin,26,Pierre Garcon,8.4,Travis Kelce,17.9,Broncos D/ST,9,Tavon Austin,wr,18.9
+2016,4,James Carman,Russell Wilson,23.9,C.J. Anderson,11.7,Derrick Henry,0.9,Doug Baldwin,7.4,Pierre Garcon,5.9,Travis Kelce,10.8,Broncos D/ST,16,Tavon Austin,wr,1.8
+2016,5,James Carman,Paxton Lynch,12.7,C.J. Anderson,7.7,Bilal Powell,8.1,Pierre Garcon,14.1,Dorial Green-Beckham,5.8,Jesse James,13.3,Broncos D/ST,3,Tavon Austin,wr,12
+2016,6,James Carman,Russell Wilson,11.5,C.J. Anderson,9.1,Zach Zenner,8.7,Doug Baldwin,5.1,Tavon Austin,4.1,Travis Kelce,4.7,Broncos D/ST,8,Jesse James,te,2.3
+2016,7,James Carman,Alex Smith,17.3,C.J. Anderson,16.7,Mike Gillislee,2,Doug Baldwin,9.9,Ty Montgomery,17.6,Travis Kelce,3.4,Broncos D/ST,10,Mike Davis,rb,8.1
+2016,8,James Carman,Russell Wilson,9.2,Mike Gillislee,16.9,Don Jackson,1,Doug Baldwin,7.1,Brandon LaFell,1.1,Travis Kelce,19.6,Broncos D/ST,17,n/a,n/a,0
+2016,9,James Carman,Ryan Tannehill,9.7,Mike Gillislee,10.6,Tim Hightower,16.7,Ty Montgomery,10.6,Percy Harvin,0,Travis Kelce,8.3,Broncos D/ST,0,DuJuan Harris,rb,20.7
+2016,10,James Carman,Russell Wilson,26.5,DuJuan Harris,1.4,Peyton Barber,3.8,Doug Baldwin,26.9,Ty Montgomery,3,Travis Kelce,6.6,Dolphins D/ST,16,Tim Hightower,rb,6.5
+2016,11,James Carman,Russell Wilson,24.8,Mike Gillislee,7.2,Peyton Barber,2.2,Doug Baldwin,17,Ty Montgomery,5.9,Travis Kelce,13.8,Dolphins D/ST,8,Tim Hightower,rb,16.6
+2016,12,James Carman,Russell Wilson,10,Tim Hightower,17.5,Wendell Smallwood,5.2,Doug Baldwin,6.9,Terrelle Pryor Sr.,16.1,Austin Hooper,1.8,Dolphins D/ST,1,Tavon Austin,wr,13.5

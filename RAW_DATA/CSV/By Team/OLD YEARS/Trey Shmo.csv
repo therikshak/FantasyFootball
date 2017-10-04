@@ -1,0 +1,50 @@
+YEAR,WEEK,TEAM_NAME,QB_NAME,QB_SCORE,RB_NAME,RB_SCORE,RB_NAME,RB_SCORE,WR_NAME,WR_SCORE,WR_NAME,WR_SCORE,TE_NAME,TE_SCORE,DST_NAME,DST_SCORE,FLEX_NAME,FLEX_POS,FLEX_SCORE
+2013,1,Trey Shmo,Andrew Luck,24,Trent Richardson,8,BenJarvus Green-Ellis,8.5,Cecil Shorts,5.5,Wes Welker,20.5,Jermichael Finley,13.5,Colts D/ST,5,Frank Gore,rb,13
+2013,2,Trey Shmo,Andrew Luck,17,Trent Richardson,9.5,BenJarvus Green-Ellis,7.5,Cecil Shorts,13,Wes Welker,10.5,Jermichael Finley,15,Colts D/ST,8,Frank Gore,rb,2.5
+2013,3,Trey Shmo,Alex Smith,13,Trent Richardson,9,Daniel Thomas,9.5,Cecil Shorts,18,Wes Welker,17.5,Jermichael Finley,0,Bills D/ST,1,Frank Gore,rb,11
+2013,4,Trey Shmo,Andrew Luck,18,Trent Richardson,12.5,BenJarvus Green-Ellis,1,Cecil Shorts,9.5,Wes Welker,22.5,Tyler Eifert,4.5,Bills D/ST,14,Frank Gore,rb,19
+2013,5,Trey Shmo,Eli Manning,15,Trent Richardson,5,Frank Gore,14,Cecil Shorts,15.5,Wes Welker,12.5,Jermichael Finley,6,Bills D/ST,7,Jeremy Kerley,wr,14.5
+2013,6,Trey Shmo,Andrew Luck,7,Trent Richardson,5.5,Frank Gore,10,Cecil Shorts,0,Wes Welker,15,Jermichael Finley,8.5,Jets D/ST,5,Jerome Simpson,wr,5
+2013,7,Trey Shmo,Andrew Luck,29,Trent Richardson,1,Frank Gore,23,Cecil Shorts,12,Wes Welker,12.5,Jermichael Finley,15.5,Jets D/ST,16,Rueben Randle,wr,9.5
+2013,8,Trey Shmo,Eli Manning,9,Mike James,7,Frank Gore,17.5,Cecil Shorts,10.5,Wes Welker,17,Tyler Eifert,3,Steelers D/ST,12,Rueben Randle,wr,0
+2013,9,Trey Shmo,Andrew Luck,24,Trent Richardson,6,Mike James,20,Drew Davis,0.5,Lance Moore,10,Coby Fleener,9.5,Browns D/ST,11,Jeremy Kerley,wr,0.5
+2013,10,Trey Shmo,Andrew Luck,13,Trent Richardson,4.5,Mike James,4,Cecil Shorts,5,Wes Welker,3.5,Coby Fleener,7,Raiders D/ST,20,Frank Gore,rb,11
+2013,11,Trey Shmo,Andrew Luck,18,Trent Richardson,7.5,Frank Gore,5,Cecil Shorts,3,Riley Cooper,4.5,Coby Fleener,14,Browns D/ST,10,Wes Welker,wr,11
+2013,12,Trey Shmo,Andrew Luck,13,Trent Richardson,3,Frank Gore,3.5,Cecil Shorts,11,Rod Streater,9.5,Coby Fleener,13,Raiders D/ST,3,Wes Welker,wr,5
+2013,13,Trey Shmo,Andrew Luck,10,Trent Richardson,1,Frank Gore,9,Cecil Shorts,15,Riley Cooper,5.5,Coby Fleener,6.5,Browns D/ST,3,Wes Welker,wr,4.5
+2014,1,Trey Shmo,Nick Foles,14.9,Doug Martin,2.1,Steven Jackson,5.7,Reggie Wayne,14.3,Anquan Boldin,13.9,Jimmy Graham,12.2,Bills D/ST,5,Larry Fitzgerald,wr,2.7
+2014,2,Trey Shmo,Nick Foles,17.4,Justin Forsett,9.2,Darren McFadden,13.8,Reggie Wayne,4.3,Anquan Boldin,4.4,Jimmy Graham,28.8,Bills D/ST,21,Larry Fitzgerald,wr,8.1
+2014,3,Trey Shmo,Nick Foles,26.2,Justin Forsett,8.5,Darren McFadden,8.5,Reggie Wayne,8.2,Steve Smith Sr.,12.6,Jimmy Graham,8.4,Bills D/ST,2,Larry Fitzgerald,wr,2.9
+2014,4,Trey Shmo,Nick Foles,3.9,Doug Martin,12.6,Darren McFadden,9.2,Reggie Wayne,21.4,Anquan Boldin,8.7,Jimmy Graham,16.6,Bills D/ST,9,Steve Smith Sr.,wr,29.4
+2014,5,Trey Shmo,Nick Foles,13.6,Doug Martin,8.9,Justin Forsett,19.2,Reggie Wayne,11.2,Steve Smith Sr.,3.9,Jimmy Graham,4.6,Bills D/ST,13,Steven Jackson,rb,15.9
+2014,6,Trey Shmo,Nick Foles,14.4,Doug Martin,5.3,Justin Forsett,11.1,Reggie Wayne,5.5,Steve Smith Sr.,19.5,Dwayne Allen,6.4,Seahawks D/ST,9,Steven Jackson,rb,2.5
+2014,7,Trey Shmo,Carson Palmer,16.1,Justin Forsett,9.5,Steven Jackson,3,Reggie Wayne,3.5,Steve Smith Sr.,8.2,Dwayne Allen,12.7,Bills D/ST,12,Larry Fitzgerald,wr,4.1
+2014,8,Trey Shmo,Nick Foles,21.8,Doug Martin,3.6,Justin Forsett,12,Steve Smith Sr.,5,Larry Fitzgerald,25.5,Dwayne Allen,8.6,Bills D/ST,16,Jimmy Graham,te,14.4
+2014,9,Trey Shmo,Nick Foles,7.1,DeAngelo Williams,5.5,Justin Forsett,13,Anquan Boldin,18.3,Steve Smith Sr.,6.1,Jimmy Graham,17.8,Seahawks D/ST,15,Larry Fitzgerald,wr,9.5
+2014,10,Trey Shmo,Mark Sanchez,21.2,Justin Forsett,23.2,Steven Jackson,16.5,Anquan Boldin,18.5,Steve Smith Sr.,3.2,Jimmy Graham,24.6,Bills D/ST,11,Larry Fitzgerald,wr,15.7
+2014,11,Trey Shmo,Mark Sanchez,13.8,DeAngelo Williams,4.3,Steven Jackson,5.7,Reggie Wayne,11.6,Anquan Boldin,7.8,Jimmy Graham,4.4,Bills D/ST,9,Larry Fitzgerald,wr,4.3
+2014,12,Trey Shmo,Mark Sanchez,12.7,Justin Forsett,32,Steven Jackson,12.1,Reggie Wayne,2.5,Anquan Boldin,24.2,Jimmy Graham,19.7,Bills D/ST,23,Steve Smith Sr.,wr,16.9
+2015,1,Trey Shmo,Andrew Luck,17.7,Melvin Gordon,6.2,Jeremy Hill,18.3,Allen Robinson,3.2,DeSean Jackson,0,Martellus Bennett,14,Dolphins D/ST,14,John Brown,wr,12.6
+2015,2,Trey Shmo,Andrew Luck,8.4,Chris Johnson,7.2,Tre Mason,4,Allen Robinson,30.5,John Brown,7,Martellus Bennett,6.8,Dolphins D/ST,-1,Jeremy Hill,rb,0.6
+2015,3,Trey Shmo,Andrew Luck,16.5,Chris Johnson,27.5,Melvin Gordon,5.1,Allen Robinson,8.8,John Brown,7.7,Martellus Bennett,3.5,Dolphins D/ST,-6,Jeremy Hill,rb,2.1
+2015,4,Trey Shmo,Sam Bradford,24.2,Chris Johnson,10.9,Melvin Gordon,5.6,Allen Robinson,10,John Brown,12.3,Martellus Bennett,19.8,Dolphins D/ST,-1,Jeremy Hill,rb,24
+2015,5,Trey Shmo,Sam Bradford,17.6,Chris Johnson,10.3,Melvin Gordon,10.9,Allen Robinson,22.7,John Brown,15.3,Martellus Bennett,5.2,Ravens D/ST,-3,Jeremy Hill,rb,3
+2015,6,Trey Shmo,Andrew Luck,28,Chris Johnson,5,Melvin Gordon,0.9,Allen Robinson,17.6,John Brown,22.6,Martellus Bennett,8.9,Ravens D/ST,2,Jeremy Hill,rb,13.4
+2015,7,Trey Shmo,Andrew Luck,24,Chris Johnson,18.2,Knile Davis,0.2,Allen Robinson,18.8,John Brown,14.5,Zach Ertz,8.8,Dolphins D/ST,12,Jermaine Kearse,wr,7.9
+2015,8,Trey Shmo,Andrew Luck,14.7,Chris Johnson,6.9,Melvin Gordon,8.6,Nate Washington,15.4,John Brown,0,Martellus Bennett,4.7,Titans D/ST,5,Jeremy Hill,rb,7.3
+2015,9,Trey Shmo,Andrew Luck,21.5,Melvin Gordon,7.1,Jeremy Hill,5.7,Allen Robinson,15.1,DeSean Jackson,3,Martellus Bennett,15.7,Titans D/ST,6,Zach Ertz,te,6.9
+2015,10,Trey Shmo,Kirk Cousins,29,Chris Johnson,5.8,Jeremy Hill,3.5,Allen Robinson,13.6,Nate Washington,4.2,Martellus Bennett,3.3,Titans D/ST,5,DeSean Jackson,wr,5.4
+2015,11,Trey Shmo,Kirk Cousins,6.7,Chris Johnson,7,Jeremy Hill,16.5,Allen Robinson,13.8,DeSean Jackson,17.2,Martellus Bennett,3.6,Dolphins D/ST,5,John Brown,wr,12.7
+2015,12,Trey Shmo,Kirk Cousins,22.2,Javorius Allen,16.4,Chris Johnson,1.7,Allen Robinson,14.1,DeSean Jackson,13.6,Zach Miller,8,Colts D/ST,10,John Brown,wr,12.4
+2016,1,Trey Shmo,Andrew Luck,35.5,Ezekiel Elliott,11.7,Jonathan Stewart,6.4,Donte Moncrief,15.4,Jordy Nelson,12.2,Coby Fleener,1.1,Cardinals D/ST,5,Spencer Ware,rb,29.4
+2016,2,Trey Shmo,Andrew Luck,10.1,Ezekiel Elliott,13.7,T.J. Yeldon,7.8,Emmanuel Sanders,5.4,Jordy Nelson,15.8,Coby Fleener,3.9,Cardinals D/ST,22,Spencer Ware,rb,9.5
+2016,3,Trey Shmo,Andrew Luck,13.2,Ezekiel Elliott,17,Spencer Ware,6.8,Emmanuel Sanders,28.2,Jordy Nelson,25.1,Coby Fleener,20.4,Cardinals D/ST,9,Tajae Sharpe,wr,6.3
+2016,4,Trey Shmo,Andrew Luck,17.7,Ezekiel Elliott,22.2,Spencer Ware,8.1,Emmanuel Sanders,18.8,Terrelle Pryor Sr.,12.5,Coby Fleener,3.4,Cardinals D/ST,7,Tajae Sharpe,wr,2.5
+2016,5,Trey Shmo,Andrew Luck,22.2,Ezekiel Elliott,30.6,Terrance West,9.9,Emmanuel Sanders,11.5,Jordy Nelson,11.8,Charles Clay,9.8,Cardinals D/ST,17,Terrelle Pryor Sr.,wr,7.8
+2016,6,Trey Shmo,Andrew Luck,23.4,Ezekiel Elliott,18.4,Jonathan Stewart,20.5,Emmanuel Sanders,6,Jordy Nelson,7.3,Coby Fleener,22.6,Cardinals D/ST,11,Terrelle Pryor Sr.,wr,24.3
+2016,7,Trey Shmo,Andrew Luck,27.8,Spencer Ware,20.1,Terrance West,1,Emmanuel Sanders,10.6,Jordy Nelson,1.4,Coby Fleener,5.4,Cardinals D/ST,7,Terrelle Pryor Sr.,wr,2.8
+2016,8,Trey Shmo,Andrew Luck,18.4,Ezekiel Elliott,16.8,Spencer Ware,5.7,Emmanuel Sanders,8.8,Jordy Nelson,17.4,Coby Fleener,5.6,Cardinals D/ST,2,Terrelle Pryor Sr.,wr,15.1
+2016,9,Trey Shmo,Andrew Luck,12.7,Ezekiel Elliott,22.2,Jonathan Stewart,4.2,Emmanuel Sanders,7.2,Jordy Nelson,18.9,Coby Fleener,5.7,Giants D/ST,5,n/a,n/a,0
+2016,10,Trey Shmo,Joe Flacco,22.1,Ezekiel Elliott,39.9,Spencer Ware,8.7,Emmanuel Sanders,7.9,Jordy Nelson,24.6,Coby Fleener,3.6,Cardinals D/ST,7,Terrelle Pryor Sr.,wr,7.3
+2016,11,Trey Shmo,Andrew Luck,18.7,Ezekiel Elliott,14.7,Spencer Ware,9.5,Donte Moncrief,11.7,Jordy Nelson,10.3,Coby Fleener,9.2,Cardinals D/ST,7,Terrelle Pryor Sr.,wr,12.2
+2016,12,Trey Shmo,Eli Manning,19.6,Ezekiel Elliott,25,Spencer Ware,10.6,Emmanuel Sanders,25.7,Jordy Nelson,13.1,Travis Kelce,14.1,Broncos D/ST,7,Jonathan Stewart,rb,21.6

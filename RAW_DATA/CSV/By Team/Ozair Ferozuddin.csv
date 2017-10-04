@@ -1,50 +1,5 @@
 YEAR,WEEK,TEAM_NAME,QB_NAME,QB_SCORE,RB_NAME,RB_SCORE,RB_NAME,RB_SCORE,WR_NAME,WR_SCORE,WR_NAME,WR_SCORE,TE_NAME,TE_SCORE,DST_NAME,DST_SCORE,FLEX_NAME,FLEX_POS,FLEX_SCORE
-2013,1,Ozair Ferozuddin,Cam Newton,12,Ray Rice,16,Ben Tate,6,Torrey Smith,11,Mike Wallace,1.5,Jared Cook,27.5,Texans D/ST,11,Giovani Bernard,rb,2.5
-2013,2,Ozair Ferozuddin,Cam Newton,16,Ray Rice,2.5,Giovani Bernard,17.5,Torrey Smith,11.5,Anquan Boldin,0.5,Jared Cook,1.5,Texans D/ST,8,Mike Wallace,wr,21.5
-2013,3,Ozair Ferozuddin,Philip Rivers,11,Ben Tate,4.5,Giovani Bernard,17,DeAndre Hopkins,9,Anquan Boldin,8.5,Jared Cook,6.5,Texans D/ST,4,Mike Wallace,wr,3
-2013,4,Ozair Ferozuddin,Philip Rivers,28,Ray Rice,1,Giovani Bernard,9,Torrey Smith,24.5,Anquan Boldin,17.5,Jared Cook,6,Cardinals D/ST,13,Donnie Avery,wr,3
-2013,5,Ozair Ferozuddin,Philip Rivers,20,Ray Rice,22,Giovani Bernard,5,Torrey Smith,15,Anquan Boldin,3,Jared Cook,3.5,Cardinals D/ST,21,Mike Wallace,wr,13.5
-2013,6,Ozair Ferozuddin,Cam Newton,30,Ray Rice,5.5,Giovani Bernard,18,DeAndre Hopkins,3.5,Torrey Smith,1.5,Jared Cook,5,Texans D/ST,0,Anquan Boldin,wr,3.5
-2013,7,Ozair Ferozuddin,Philip Rivers,15,Ray Rice,8,Ben Tate,6,Torrey Smith,7.5,Mike Wallace,10.5,Jared Cook,5,Texans D/ST,7,Giovani Bernard,rb,7.5
-2013,8,Ozair Ferozuddin,Cam Newton,27,Giovani Bernard,1.5,Brandon Bolden,9,Anquan Boldin,7,Mike Wallace,5.5,Jared Cook,4.5,Cardinals D/ST,17,Joseph Fauria,te,0
-2013,9,Ozair Ferozuddin,Philip Rivers,18,Ray Rice,4.5,Giovani Bernard,23,Torrey Smith,9.5,Mike Wallace,11,Jared Cook,10.5,Texans D/ST,6,Brandon Bolden,rb,3
-2013,10,Ozair Ferozuddin,Philip Rivers,12,Ben Tate,6.5,Giovani Bernard,18,DeAndre Hopkins,9,Anquan Boldin,3.5,Jared Cook,1.5,Texans D/ST,9,Mike Wallace,wr,3
-2013,11,Ozair Ferozuddin,Nick Foles,21,Ray Rice,21.5,Ben Tate,12,DeAndre Hopkins,0.5,Torrey Smith,11.5,John Carlson,8.5,Cardinals D/ST,9,Giovani Bernard,rb,10
-2013,12,Ozair Ferozuddin,Cam Newton,19,Shane Vereen,13,Ben Tate,4.5,DeAndre Hopkins,0.5,Torrey Smith,8,John Carlson,4.5,Texans D/ST,9,Anquan Boldin,wr,23.5
-2013,13,Ozair Ferozuddin,Cam Newton,26,Shane Vereen,14.5,Giovani Bernard,5.5,Torrey Smith,18,Anquan Boldin,13.5,John Carlson,8,Texans D/ST,0,Mike Wallace,wr,17.5
-2014,1,Ozair Ferozuddin,Matthew Stafford,30,Fred Jackson,8.9,Matt Forte,20.9,Jeremy Maclin,17.7,Brandin Cooks,19,Vernon Davis,18.4,Panthers D/ST,12,Terrance Williams,wr,13
-2014,2,Ozair Ferozuddin,Matthew Stafford,14.4,Fred Jackson,6.1,Matt Forte,6.1,Jeremy Maclin,12.5,Michael Floyd,2.4,Zach Ertz,10.6,Panthers D/ST,13,Brandin Cooks,wr,6.3
-2014,3,Ozair Ferozuddin,Matthew Stafford,4.6,Fred Jackson,21.2,Matt Forte,10.6,Jeremy Maclin,25.4,Brandin Cooks,11.4,Zach Ertz,2.4,Panthers D/ST,-7,Jeremy Hill,rb,9.9
-2014,4,Ozair Ferozuddin,Matthew Stafford,26.5,Fred Jackson,11.5,Matt Forte,19.6,Jeremy Maclin,7.7,Brandin Cooks,5.6,Zach Ertz,4.3,Panthers D/ST,-8,Terrance Williams,wr,22.7
-2014,5,Ozair Ferozuddin,Matthew Stafford,12,Fred Jackson,16.2,Matt Forte,26.6,Jeremy Maclin,16.1,Golden Tate,22.9,Zach Ertz,5.4,Panthers D/ST,18,Jeremy Hill,rb,8.4
-2014,6,Ozair Ferozuddin,Matthew Stafford,11.5,Fred Jackson,12.3,Matt Forte,32.7,Jeremy Maclin,2.6,Golden Tate,7.9,Zach Ertz,12.2,Panthers D/ST,-4,Jeremy Hill,rb,11.5
-2014,7,Ozair Ferozuddin,Matthew Stafford,16.1,Fred Jackson,4.3,Matt Forte,25.9,Michael Floyd,12.2,Golden Tate,26.4,Jermaine Gresham,9.8,Panthers D/ST,-2,Jeremy Hill,rb,1.5
-2014,8,Ozair Ferozuddin,Matthew Stafford,19.9,Boobie Dixon,4.4,Matt Forte,27.8,Jeremy Maclin,36.7,Michael Floyd,0,Zach Ertz,7.3,n/a,0,Golden Tate,wr,24.6
-2014,9,Ozair Ferozuddin,Andy Dalton,14.4,Jeremy Hill,28.8,Bobby Rainey,12.6,Jeremy Maclin,30.8,Brandin Cooks,5.3,Zach Ertz,0.9,n/a,0,Terrance Williams,wr,2.9
-2014,10,Ozair Ferozuddin,Andy Dalton,-1.8,Matt Forte,9.6,Jeremy Hill,4.6,Jeremy Maclin,5.3,Michael Floyd,1.6,Zach Ertz,2.2,Panthers D/ST,-3,Bobby Rainey,rb,7.6
-2014,11,Ozair Ferozuddin,Andy Dalton,22,Boobie Dixon,5.8,Matt Forte,20.5,Jeremy Maclin,19.8,Golden Tate,5.9,Zach Ertz,7.5,Panthers D/ST,4,Jeremy Hill,rb,17
-2014,12,Ozair Ferozuddin,Matthew Stafford,10.4,Fred Jackson,12,Jeremy Hill,16.1,Jeremy Maclin,8.9,Michael Floyd,0,Zach Ertz,5,Jets D/ST,-2,Golden Tate,wr,13
-2015,1,Ozair Ferozuddin,Jameis Winston,14.2,Rashad Jennings,11.2,Ameer Abdullah,17.4,Vincent Jackson,7.1,Keenan Allen,24.1,Rob Gronkowski,29.9,Broncos D/ST,18,Demaryius Thomas,wr,9.5
-2015,2,Ozair Ferozuddin,Jameis Winston,18.6,Rashad Jennings,3.4,Ameer Abdullah,2.3,Donte Moncrief,21.7,Keenan Allen,0.6,Rob Gronkowski,20.8,Broncos D/ST,21,Demaryius Thomas,wr,15.6
-2015,3,Ozair Ferozuddin,Jameis Winston,12.4,Rashad Jennings,7.2,Ameer Abdullah,11.2,Donte Moncrief,11.2,Vincent Jackson,5,Rob Gronkowski,12.1,Broncos D/ST,17,Demaryius Thomas,wr,17.7
-2015,4,Ozair Ferozuddin,Andy Dalton,18.4,Lance Dunbar,5.4,Ryan Mathews,0,Donte Moncrief,10.5,Keenan Allen,15.2,Darren Fells,2.2,Broncos D/ST,9,Demaryius Thomas,wr,13.8
-2015,5,Ozair Ferozuddin,Andy Dalton,27,Boobie Dixon,5.4,Ameer Abdullah,1,Vincent Jackson,3.9,Keenan Allen,8.7,Rob Gronkowski,8.7,Broncos D/ST,23,Demaryius Thomas,wr,8
-2015,6,Ozair Ferozuddin,Andy Dalton,21.5,Ryan Mathews,5.1,Ameer Abdullah,8.4,Donte Moncrief,15.9,Keenan Allen,22.7,Rob Gronkowski,12.5,Broncos D/ST,18,Demaryius Thomas,wr,16.1
-2015,7,Ozair Ferozuddin,Ryan Fitzpatrick,20.7,Rashad Jennings,1.9,Ryan Mathews,19.6,Donte Moncrief,11.4,Vincent Jackson,1.8,Rob Gronkowski,22.3,Falcons D/ST,10,Keenan Allen,wr,13.4
-2015,8,Ozair Ferozuddin,Andy Dalton,9.6,Ameer Abdullah,0.3,Khiry Robinson,2.7,Donte Moncrief,2.8,Keenan Allen,12,Rob Gronkowski,20.3,Falcons D/ST,4,Demaryius Thomas,wr,20.8
-2015,9,Ozair Ferozuddin,Andy Dalton,21.9,Rashad Jennings,5.2,Ryan Mathews,12.7,Dwayne Harris,0.6,Donte Moncrief,4.5,Rob Gronkowski,6.7,Broncos D/ST,6,Demaryius Thomas,wr,7.5
-2015,10,Ozair Ferozuddin,Andy Dalton,9,Rashad Jennings,6.1,Ryan Mathews,11,Dwayne Harris,17.2,Demaryius Thomas,10.6,Rob Gronkowski,19.8,Broncos D/ST,1,Dorial Green-Beckham,wr,0
-2015,11,Ozair Ferozuddin,Andy Dalton,22,Ameer Abdullah,5.1,n/a,0,Donte Moncrief,6.6,Demaryius Thomas,13.4,Rob Gronkowski,4.7,Broncos D/ST,7,Dorial Green-Beckham,wr,5.5
-2015,12,Ozair Ferozuddin,Andy Dalton,19.7,Rashad Jennings,3.8,Ameer Abdullah,8,Donte Moncrief,15.4,Demaryius Thomas,4.1,Rob Gronkowski,17.8,Broncos D/ST,5,Dorial Green-Beckham,wr,4.7
-2016,1,Ozair Ferozuddin,Dak Prescott,10.3,Mark Ingram,9.7,Matt Forte,18,Allen Hurns,9.5,Corey Coleman,7.9,Clive Walford,4,Chiefs D/ST,0,Ameer Abdullah,rb,20.5
-2016,2,Ozair Ferozuddin,Blake Bortles,18.6,Mark Ingram,6.7,Matt Forte,29.9,Allen Hurns,8.9,Nelson Agholor,6.2,Clive Walford,14,Chiefs D/ST,5,Ameer Abdullah,rb,3.8
-2016,3,Ozair Ferozuddin,Dak Prescott,23.5,Mark Ingram,20.7,Matt Forte,7.4,Allen Hurns,6,Nelson Agholor,3.6,Clive Walford,3.7,Buccaneers D/ST,8,Marquise Goodwin,wr,1.1
-2016,4,Ozair Ferozuddin,Dak Prescott,18.1,Mark Ingram,19.5,Matt Forte,5.3,Allen Hurns,11.7,Kevin White,8.5,Rob Gronkowski,1.6,Vikings D/ST,7,Adam Humphries,wr,0.9
-2016,5,Ozair Ferozuddin,Dak Prescott,17.5,Matt Forte,7,Jalen Richard,12.7,Nelson Agholor,4.2,Dontrelle Inman,0.8,Rob Gronkowski,13.4,Vikings D/ST,17,Adam Humphries,wr,3.6
-2016,6,Ozair Ferozuddin,Blake Bortles,10.9,Mark Ingram,7,Matt Forte,2.7,Nelson Agholor,4.9,Brian Quick,8.6,Rob Gronkowski,25.7,Lions D/ST,1,Allen Hurns,wr,9.9
-2016,7,Ozair Ferozuddin,Blake Bortles,13.1,Mark Ingram,14.2,Matt Forte,27.4,Nelson Agholor,2,Amari Cooper,4.9,Julius Thomas,9.5,Vikings D/ST,10,Allen Hurns,wr,6.5
-2016,8,Ozair Ferozuddin,Jameis Winston,18.8,Mark Ingram,-1.5,Matt Forte,22.8,Nelson Agholor,4,Amari Cooper,29.3,n/a,0,Vikings D/ST,-2,Allen Hurns,wr,19.3
-2016,9,Ozair Ferozuddin,Jameis Winston,21.5,Mark Ingram,30.1,Matt Forte,16.2,Corey Coleman,5.6,Amari Cooper,8.6,Julius Thomas,3.1,Vikings D/ST,3,Allen Hurns,wr,0
-2016,10,Ozair Ferozuddin,Jameis Winston,18.5,Mark Ingram,7.3,Matt Forte,11.9,Corey Coleman,3.2,Brian Quick,2.6,Julius Thomas,11.4,Vikings D/ST,2,Allen Hurns,wr,2.3
-2016,11,Ozair Ferozuddin,Blake Bortles,12.4,Mark Ingram,9,Jalen Richard,12.7,Corey Coleman,5.9,Amari Cooper,13.7,Julius Thomas,2.7,Vikings D/ST,22,Allen Hurns,wr,1.4
-2016,12,Ozair Ferozuddin,Blake Bortles,21.1,Mark Ingram,29.2,Jalen Richard,2.3,Amari Cooper,4.2,Dorial Green-Beckham,11.2,Julius Thomas,0,Vikings D/ST,3,Tyrell Williams,wr,17
+2017,1,Ozair Ferozuddin,Dak Prescott,17.1,Jordan Howard,14.1,Lamar Miller,10.6,Tyreek Hill,23.3,Randall Cobb,13,Zach Ertz,13.3,Cardinals D/ST,7,Brandon Marshall,wr,1.5
+2017,2,Ozair Ferozuddin,Dak Prescott,15.9,Jordan Howard,0.7,Lamar Miller,10.2,Tyreek Hill,6.9,Randall Cobb,10,Zach Ertz,12.2,Cardinals D/ST,8.6,Brandon Marshall,wr,2.2
+2017,3,Ozair Ferozuddin,Dak Prescott,22.9,Lamar Miller,6.8,Chris Thompson,27.8,Tyreek Hill,17.5,J.J. Nelson,0,Zach Ertz,13.5,Cardinals D/ST,1.1,Darren Sproles,rb,1.1
+2017,4,Ozair Ferozuddin,Dak Prescott,22.6,Lamar Miller,27.1,Chris Thompson,1.2,Tyreek Hill,6,Randall Cobb,12.4,Zach Ertz,10.6,Cardinals D/ST,6.5,Jordan Howard,rb,13.3

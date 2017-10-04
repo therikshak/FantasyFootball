@@ -1,50 +1,5 @@
 YEAR,WEEK,TEAM_NAME,QB_NAME,QB_SCORE,RB_NAME,RB_SCORE,RB_NAME,RB_SCORE,WR_NAME,WR_SCORE,WR_NAME,WR_SCORE,TE_NAME,TE_SCORE,DST_NAME,DST_SCORE,FLEX_NAME,FLEX_POS,FLEX_SCORE
-2013,1,Geoffrey Raclin,Russell Wilson,14,Darren McFadden,12.5,Arian Foster,11,Sidney Rice,4,Danny Amendola,15,Brandon Pettigrew,-1,Bears D/ST,9,Dwayne Bowe,wr,5
-2013,2,Geoffrey Raclin,Carson Palmer,11,Darren McFadden,14,Arian Foster,15.5,Sidney Rice,1.5,Danny Amendola,0,Brandon Pettigrew,4.5,Bears D/ST,13,Dwayne Bowe,wr,13
-2013,3,Geoffrey Raclin,Russell Wilson,21,Danny Woodhead,9.5,Darren McFadden,10,Sidney Rice,21.5,Dwayne Bowe,0.5,Kellen Winslow,0,Bears D/ST,26,Arian Foster,rb,5.5
-2013,4,Geoffrey Raclin,Carson Palmer,9,Danny Woodhead,22.5,Darren McFadden,2,Sidney Rice,1.5,Dwayne Bowe,13,Kellen Winslow,10,Bears D/ST,8,Arian Foster,rb,25
-2013,5,Geoffrey Raclin,Russell Wilson,22,Danny Woodhead,14.5,Arian Foster,13,Sidney Rice,0.5,Kendall Wright,10,Kellen Winslow,6.5,Bears D/ST,2,Dwayne Bowe,wr,5
-2013,6,Geoffrey Raclin,Russell Wilson,16,Danny Woodhead,9.5,Arian Foster,21,Danny Amendola,1,Dwayne Bowe,5.5,Kellen Winslow,0,Bears D/ST,12,Justin Blackmon,wr,26
-2013,7,Geoffrey Raclin,Russell Wilson,19,Danny Woodhead,14,Arian Foster,1,Sidney Rice,12.5,Dwayne Bowe,8.5,Brandon Pettigrew,7.5,Bears D/ST,6,Justin Blackmon,wr,8
-2013,8,Geoffrey Raclin,Russell Wilson,14,Kendall Hunter,8,Darren McFadden,20,Sidney Rice,0,Dwayne Bowe,0.5,Brandon Pettigrew,4.5,Eagles D/ST,10,Justin Blackmon,wr,5
-2013,9,Geoffrey Raclin,Russell Wilson,21,Danny Woodhead,13.5,Darren McFadden,1.5,Danny Amendola,20,Dwayne Bowe,9.5,Brandon Pettigrew,0,Eagles D/ST,3,Arian Foster,rb,0
-2013,10,Geoffrey Raclin,Russell Wilson,21,Danny Woodhead,11,Kendall Hunter,-2,Danny Amendola,0,Dwayne Bowe,0,Brandon Pettigrew,9.5,Eagles D/ST,8,Darren McFadden,rb,0
-2013,11,Geoffrey Raclin,Russell Wilson,18,Danny Woodhead,4,Kendall Hunter,0,Danny Amendola,7,Rueben Randle,10.5,Brandon Pettigrew,4.5,Bears D/ST,14,Dwayne Bowe,wr,13
-2013,12,Geoffrey Raclin,Carson Palmer,20,Danny Woodhead,20,Daniel Thomas,1,Danny Amendola,2.5,Rueben Randle,7.5,Mychal Rivera,1.5,Bears D/ST,-1,Dwayne Bowe,wr,13.5
-2013,13,Geoffrey Raclin,Russell Wilson,28,Danny Woodhead,4,Darren McFadden,1,Danny Amendola,7.5,Rueben Randle,3.5,Brandon Pettigrew,0.5,Eagles D/ST,11,Dwayne Bowe,wr,6.5
-2014,1,Geoffrey Raclin,Tom Brady,10.3,Chris Johnson,17.6,Jamaal Charles,5.4,Michael Crabtree,3.5,Alshon Jeffery,9.6,Dennis Pitta,13.3,Rams D/ST,-2,Knowshon Moreno,rb,19.4
-2014,2,Geoffrey Raclin,Tom Brady,10,Chris Johnson,2.6,Jamaal Charles,1.7,Michael Crabtree,17.7,Jerricho Cotchery,8.6,Dennis Pitta,4.5,Rams D/ST,8,Knowshon Moreno,rb,0.4
-2014,3,Geoffrey Raclin,Tom Brady,12.7,Chris Johnson,3.4,Jamaal Charles,0,Michael Crabtree,19.4,Jerricho Cotchery,0,Dennis Pitta,2.7,Rams D/ST,9,Roy Helu,rb,12.1
-2014,4,Geoffrey Raclin,Tom Brady,4.4,Chris Johnson,13.1,Jamaal Charles,30.3,Michael Crabtree,6.8,Alshon Jeffery,13.1,Antonio Gates,4.5,Ravens D/ST,7,Roy Helu,rb,11.1
-2014,5,Geoffrey Raclin,Ben Roethlisberger,12.7,Chris Johnson,0.7,Jamaal Charles,8.9,Michael Crabtree,2.1,Alshon Jeffery,18.7,Antonio Gates,20,Rams D/ST,4,Roy Helu,rb,8.3
-2014,6,Geoffrey Raclin,Ben Roethlisberger,11.8,Chris Johnson,1.6,Roy Helu,7.6,Michael Crabtree,12.4,Alshon Jeffery,16.1,Antonio Gates,10.2,Ravens D/ST,7,Jerricho Cotchery,wr,7.8
-2014,7,Geoffrey Raclin,Ben Roethlisberger,16.9,Chris Johnson,9,Jamaal Charles,17.7,Michael Crabtree,4.7,Alshon Jeffery,1.9,Antonio Gates,13.6,Ravens D/ST,14,Jerricho Cotchery,wr,3.6
-2014,8,Geoffrey Raclin,Tom Brady,34.2,Jamaal Charles,23.1,Bryce Brown,1.5,Mike Evans,9.8,Alshon Jeffery,14.4,Antonio Gates,19.9,Ravens D/ST,5,Jerricho Cotchery,wr,4.8
-2014,9,Geoffrey Raclin,Tom Brady,27.7,Jamaal Charles,15.8,Roy Helu,7.2,Mike Evans,27.9,Michael Crabtree,6.5,Antonio Gates,4.3,Ravens D/ST,7,Jerricho Cotchery,wr,6.9
-2014,10,Geoffrey Raclin,Ben Roethlisberger,13.7,Jamaal Charles,19.3,Bryce Brown,11,Mike Evans,22,Michael Crabtree,7.7,Jace Amaro,7.6,Ravens D/ST,14,Alshon Jeffery,wr,10.1
-2014,11,Geoffrey Raclin,Tom Brady,14.1,Jamaal Charles,28.8,Matt Asiata,2.9,Mike Evans,36.4,Michael Crabtree,16,Antonio Gates,4.7,Ravens D/ST,0,Alshon Jeffery,wr,25
-2014,12,Geoffrey Raclin,Tom Brady,20,Jamaal Charles,20.2,Bryce Brown,2,Mike Evans,12.2,Michael Crabtree,8.3,Antonio Gates,2.4,Rams D/ST,12,Alshon Jeffery,wr,9.7
-2015,1,Geoffrey Raclin,Tom Brady,27.6,Isaiah Crowell,4.3,Latavius Murray,11.5,Michael Floyd,2.3,T.Y. Hilton,12.3,Jordan Reed,15.8,Patriots D/ST,0,C.J. Anderson,rb,6.8
-2015,2,Geoffrey Raclin,Tom Brady,28.2,Isaiah Crowell,13.2,Latavius Murray,16.2,Michael Crabtree,21.6,Michael Floyd,0,Jordan Reed,11.2,Patriots D/ST,13,C.J. Anderson,rb,3.4
-2015,3,Geoffrey Raclin,Tom Brady,22.7,Isaiah Crowell,3.6,Latavius Murray,21.4,Michael Crabtree,5.6,T.Y. Hilton,11.4,Jordan Reed,12.6,Patriots D/ST,7,C.J. Anderson,rb,3.2
-2015,4,Geoffrey Raclin,Nick Foles,18.7,Devonta Freeman,35.4,Latavius Murray,7.6,Michael Crabtree,10.5,T.Y. Hilton,10.2,Jordan Reed,4.2,Saints D/ST,3,C.J. Anderson,rb,7.5
-2015,5,Geoffrey Raclin,Tom Brady,25.3,Devonta Freeman,29.2,Latavius Murray,7.2,Michael Crabtree,7.4,Allen Hurns,20.1,Jared Cook,1.3,Patriots D/ST,13,T.Y. Hilton,wr,11.3
-2015,6,Geoffrey Raclin,Tom Brady,22.5,Devonta Freeman,31.6,C.J. Anderson,8.6,Michael Floyd,13.5,Allen Hurns,10,Kyle Rudolph,7.9,Patriots D/ST,2,T.Y. Hilton,wr,16.4
-2015,7,Geoffrey Raclin,Tom Brady,29.7,Devonta Freeman,14,Latavius Murray,15.1,Michael Crabtree,15.3,Allen Hurns,12.3,Kyle Rudolph,8,Patriots D/ST,3,T.Y. Hilton,wr,29
-2015,8,Geoffrey Raclin,Tom Brady,30.3,Devonta Freeman,16.1,Latavius Murray,12.4,Michael Crabtree,19.7,Michael Floyd,18.6,Jared Cook,8.7,Patriots D/ST,16,T.Y. Hilton,wr,2
-2015,9,Geoffrey Raclin,Tom Brady,17.9,Devonta Freeman,17.9,Latavius Murray,8.5,Michael Crabtree,26.3,Allen Hurns,20.7,Jordan Reed,9.3,Patriots D/ST,10,T.Y. Hilton,wr,10.7
-2015,10,Geoffrey Raclin,Tom Brady,18.3,Latavius Murray,10.2,C.J. Anderson,0.9,Michael Crabtree,7.5,Michael Floyd,26.8,Jordan Reed,16.4,Patriots D/ST,2,Allen Hurns,wr,14.7
-2015,11,Geoffrey Raclin,Tom Brady,13.1,Devonta Freeman,4.3,Latavius Murray,8.8,Michael Crabtree,8,Allen Hurns,3.4,Jordan Reed,5.6,Patriots D/ST,7,T.Y. Hilton,wr,3.1
-2015,12,Geoffrey Raclin,Tom Brady,23.2,Isaiah Crowell,0.7,Latavius Murray,8.7,Michael Crabtree,9.9,Allen Hurns,6.2,Jordan Reed,13.8,Patriots D/ST,1,T.Y. Hilton,wr,24.5
-2016,1,Geoffrey Raclin,Robert Griffin III,9.3,Duke Johnson Jr.,6.5,Devonta Freeman,6,Mike Evans,18.4,Brandin Cooks,30.4,Charles Clay,5,Raiders D/ST,-4,Golden Tate,wr,7.8
-2016,2,Geoffrey Raclin,Carson Wentz,12.6,Devonta Freeman,9.3,Terrance West,6.2,Mike Evans,16,Brandin Cooks,10.3,Charles Clay,5.2,Raiders D/ST,-6,Golden Tate,wr,2.3
-2016,3,Geoffrey Raclin,Carson Wentz,21,Devonta Freeman,29.2,Matt Asiata,2.4,Mike Evans,24.2,Brandin Cooks,2.9,Charles Clay,0,Raiders D/ST,9,Sterling Shepard,wr,15.8
-2016,4,Geoffrey Raclin,Trevor Siemian,6.7,Le'Veon Bell,20.3,Devonta Freeman,13.4,Mike Evans,8.4,Brandin Cooks,4.6,Cameron Brate,9.2,Chiefs D/ST,-4,Sterling Shepard,wr,5
-2016,5,Geoffrey Raclin,Carson Wentz,16.9,Le'Veon Bell,19.9,Devonta Freeman,19.8,Mike Evans,17.9,John Brown,1.6,Cameron Brate,4.3,Dolphins D/ST,6,Sterling Shepard,wr,2.4
-2016,6,Geoffrey Raclin,Carson Wentz,7.4,Le'Veon Bell,15.8,Devonta Freeman,6.5,Brandin Cooks,27,John Brown,7.9,Charles Clay,7.7,Chiefs D/ST,11,Sterling Shepard,wr,4.5
-2016,7,Geoffrey Raclin,Carson Wentz,6.1,Le'Veon Bell,19.9,Devonta Freeman,12.5,Mike Evans,25.6,Brandin Cooks,15.3,Cameron Brate,4.4,Packers D/ST,11,Golden Tate,wr,12.3
-2016,8,Geoffrey Raclin,Carson Wentz,11.8,Devonta Freeman,19.8,Matt Asiata,8.8,Mike Evans,9,Brandin Cooks,12.4,Cameron Brate,9.7,Packers D/ST,0,Golden Tate,wr,7.7
-2016,9,Geoffrey Raclin,Carson Wentz,10.2,Le'Veon Bell,10,Devonta Freeman,11.5,Mike Evans,32.5,Torrey Smith,2.8,Cameron Brate,12.8,Packers D/ST,4,n/a,n/a,0
-2016,10,Geoffrey Raclin,Carson Wentz,8.2,Le'Veon Bell,29.9,Devonta Freeman,9.6,Mike Evans,8.6,Brandin Cooks,17.3,Cameron Brate,17.9,Packers D/ST,-7,John Brown,wr,5
-2016,11,Geoffrey Raclin,Ryan Tannehill,14.8,Le'Veon Bell,30.1,Matt Asiata,9.2,Mike Evans,13.5,Brandin Cooks,8.4,Cameron Brate,2.8,Packers D/ST,-7,Golden Tate,wr,1.6
-2016,12,Geoffrey Raclin,Ryan Tannehill,26.8,Le'Veon Bell,22.2,Devonta Freeman,20.7,Mike Evans,26.4,Brandin Cooks,0,Cameron Brate,6.9,Packers D/ST,11,Sterling Shepard,wr,2.2
+2017,1,Geoffrey Raclin,Drew Brees,15.6,Paul Perkins,3.5,Devonta Freeman,10.9,A.J. Green,9.9,Golden Tate,16.4,Martellus Bennett,5.8,Giants D/ST,0.1,Theo Riddick,rb,11.6
+2017,2,Geoffrey Raclin,Drew Brees,22.2,Paul Perkins,3.2,Devonta Freeman,23,A.J. Green,9.2,Golden Tate,4.5,Martellus Bennett,7.2,Giants D/ST,6,DeSean Jackson,wr,5.4
+2017,3,Geoffrey Raclin,Drew Brees,20.8,Paul Perkins,4,Devonta Freeman,21.3,A.J. Green,22.1,Golden Tate,15.3,Martellus Bennett,2.7,Giants D/ST,3.6,Marvin Jones Jr.,wr,3.9
+2017,4,Geoffrey Raclin,Drew Brees,19,Devonta Freeman,14.8,LeGarrette Blount,16.1,A.J. Green,14.8,Golden Tate,4.6,Martellus Bennett,6.9,Giants D/ST,-1.7,Marvin Jones Jr.,wr,5.2

@@ -1,0 +1,50 @@
+YEAR,WEEK,TEAM_NAME,QB_NAME,QB_SCORE,RB_NAME,RB_SCORE,RB_NAME,RB_SCORE,WR_NAME,WR_SCORE,WR_NAME,WR_SCORE,TE_NAME,TE_SCORE,DST_NAME,DST_SCORE,FLEX_NAME,FLEX_POS,FLEX_SCORE
+2013,1,Horlacher,Tony Romo,16,Chris Johnson,7,C.J. Spiller,5.5,Roddy White,2,Vincent Jackson,18.5,Dennis Pitta,0,Giants D/ST,3,Pierre Garcon,wr,9.5
+2013,2,Horlacher,Tony Romo,13,Jacquizz Rodgers,5,C.J. Spiller,12.5,Vincent Jackson,9.5,Julian Edelman,13.5,Julius Thomas,13,Giants D/ST,0,Pierre Garcon,wr,24
+2013,3,Horlacher,Michael Vick,15,Jacquizz Rodgers,9,C.J. Spiller,0.5,Vincent Jackson,4.5,Julian Edelman,7.5,Julius Thomas,10.5,Panthers D/ST,22,Pierre Garcon,wr,12
+2013,4,Horlacher,Tony Romo,18,Fred Jackson,14,C.J. Spiller,7,Julian Edelman,14.5,Pierre Garcon,14,Rob Gronkowski,0,Buccaneers D/ST,14,Julius Thomas,te,6
+2013,5,Horlacher,Michael Vick,11,Fred Jackson,23,Knowshon Moreno,22.5,Austin Pettis,18,Julian Edelman,4,Julius Thomas,28.5,Eagles D/ST,8,C.J. Spiller,rb,12
+2013,6,Horlacher,Tony Romo,8,Fred Jackson,6,Knowshon Moreno,31.5,Vincent Jackson,27.5,Pierre Garcon,9,Julius Thomas,10,Lions D/ST,7,C.J. Spiller,rb,7
+2013,7,Horlacher,Tony Romo,12,Fred Jackson,15,Knowshon Moreno,11.5,Vincent Jackson,30,Pierre Garcon,7.5,Julius Thomas,12.5,Chargers D/ST,11,C.J. Spiller,rb,2.5
+2013,8,Horlacher,Tony Romo,20,Fred Jackson,11,Knowshon Moreno,21,Vincent Jackson,9.5,Pierre Garcon,7.5,Rob Gronkowski,3,Rams D/ST,11,Julius Thomas,te,3.5
+2013,9,Horlacher,Tony Romo,19,Fred Jackson,9.5,Jacquizz Rodgers,4,Vincent Jackson,2,Pierre Garcon,20.5,Rob Gronkowski,24.5,Rams D/ST,6,C.J. Spiller,rb,15
+2013,10,Horlacher,Tony Romo,9,Fred Jackson,6.5,Knowshon Moreno,14,Vincent Jackson,3.5,Pierre Garcon,20.5,Julius Thomas,16.5,Rams D/ST,27,C.J. Spiller,rb,4.5
+2013,11,Horlacher,Mike Glennon,17,Fred Jackson,4,Knowshon Moreno,7,Vincent Jackson,27,Pierre Garcon,9,Rob Gronkowski,13.5,Lions D/ST,-2,Julius Thomas,te,11.5
+2013,12,Horlacher,Tony Romo,15,Knowshon Moreno,30.5,Jacquizz Rodgers,4,Vincent Jackson,7,Pierre Garcon,8,Rob Gronkowski,18.5,Rams D/ST,14,Julius Thomas,te,0
+2013,13,Horlacher,Tony Romo,13,Fred Jackson,21,Knowshon Moreno,16,Vincent Jackson,8.5,Pierre Garcon,8.5,Rob Gronkowski,21,Rams D/ST,7,C.J. Spiller,rb,21
+2014,1,Horlacher,Aaron Rodgers,9.6,Trent Richardson,6.6,Montee Ball,15.3,Emmanuel Sanders,11.8,Pierre Garcon,12.7,Eric Ebron,0,Lions D/ST,10,Frank Gore,rb,6.6
+2014,2,Horlacher,Aaron Rodgers,28.6,Danny Woodhead,8,Carlos Hyde,1,Emmanuel Sanders,14.6,Pierre Garcon,1.7,Vernon Davis,5.4,Titans D/ST,5,Frank Gore,rb,14.5
+2014,3,Horlacher,Aaron Rodgers,10.5,Trent Richardson,9.5,Danny Woodhead,0.1,Emmanuel Sanders,20.4,Pierre Garcon,25.3,Vernon Davis,0,Titans D/ST,1,Frank Gore,rb,1
+2014,4,Horlacher,Aaron Rodgers,28.9,Trent Richardson,17.9,Carlos Hyde,2.6,Jordan Matthews,4.8,Pierre Garcon,3.8,Vernon Davis,1.8,Lions D/ST,7,Frank Gore,rb,23.9
+2014,5,Horlacher,Aaron Rodgers,18.2,Trent Richardson,6.7,Bishop Sankey,2.7,Emmanuel Sanders,14.4,Pierre Garcon,3.3,Owen Daniels,9.5,Lions D/ST,11,Frank Gore,rb,11.3
+2014,6,Horlacher,Aaron Rodgers,26,Trent Richardson,10.1,Bishop Sankey,7.3,Emmanuel Sanders,5.3,Pierre Garcon,11.1,Owen Daniels,4.4,Lions D/ST,20,Frank Gore,rb,3.8
+2014,7,Horlacher,Austin Davis,14,Trent Richardson,13.8,Bishop Sankey,5.6,Emmanuel Sanders,11.6,Pierre Garcon,17.2,Vernon Davis,3.1,Browns D/ST,8,Frank Gore,rb,2
+2014,8,Horlacher,Austin Davis,8.5,Trent Richardson,0,Bishop Sankey,8,Emmanuel Sanders,35.1,Eric Decker,7.5,Niles Paul,4.2,Lions D/ST,6,Pierre Garcon,wr,6.7
+2014,9,Horlacher,Austin Davis,5.1,Trent Richardson,5.2,Frank Gore,6.3,Emmanuel Sanders,20.1,Eric Decker,16.8,Niles Paul,2.8,Jets D/ST,1,Pierre Garcon,wr,3
+2014,10,Horlacher,Austin Davis,6.6,Bishop Sankey,8.9,Frank Gore,14.8,Emmanuel Sanders,21.7,Jordan Matthews,29.3,Owen Daniels,3,Lions D/ST,10,Eric Decker,wr,3.9
+2014,11,Horlacher,Teddy Bridgewater,8.5,Bishop Sankey,11,Frank Gore,10.4,Emmanuel Sanders,18.7,Jordan Matthews,19.2,Vernon Davis,1.6,Lions D/ST,4,Pierre Garcon,wr,1.1
+2014,12,Horlacher,Brian Hoyer,8.1,Trent Richardson,10.2,Bishop Sankey,4.1,Emmanuel Sanders,19.3,Jordan Matthews,10.7,Owen Daniels,1.7,Lions D/ST,-2,Eric Decker,wr,8.3
+2015,1,Horlacher,Tony Romo,22.1,Danny Woodhead,20.2,Lamar Miller,8,Jeremy Maclin,7.7,Antonio Brown,23.8,Owen Daniels,1.5,Rams D/ST,13,A.J. Green,wr,8.8
+2015,2,Horlacher,Tony Romo,7,Danny Woodhead,13.4,Lamar Miller,6.7,Jeremy Maclin,7.5,Antonio Brown,32,Owen Daniels,3.4,Rams D/ST,3,A.J. Green,wr,12
+2015,3,Horlacher,Tyrod Taylor,24.3,Danny Woodhead,5.8,Lamar Miller,8,Antonio Brown,16.3,A.J. Green,39.7,Owen Daniels,11.3,Rams D/ST,12,Steve Smith Sr.,wr,37.1
+2015,4,Horlacher,Tyrod Taylor,14.5,Danny Woodhead,15.8,Lamar Miller,4.1,Jeremy Maclin,20.3,A.J. Green,11.7,Owen Daniels,7.9,Rams D/ST,7,Steve Smith Sr.,wr,4.4
+2015,5,Horlacher,Alex Smith,13.3,Danny Woodhead,10.1,C.J. Spiller,1.7,Jeremy Maclin,12.5,Antonio Brown,6,Owen Daniels,0,Rams D/ST,8,A.J. Green,wr,10.8
+2015,6,Horlacher,Alex Smith,16.3,Danny Woodhead,9.6,Adrian Peterson,6.2,Jeremy Maclin,6.3,A.J. Green,5.6,Antonio Gates,14,Falcons D/ST,-1,Gary Barnidge,te,17.4
+2015,7,Horlacher,Alex Smith,14.5,Danny Woodhead,27.6,Lamar Miller,37.1,Jamison Crowder,7.3,Steve Smith Sr.,10.3,Gary Barnidge,13.1,Rams D/ST,21,Adrian Peterson,rb,12.5
+2015,8,Horlacher,Alex Smith,27.6,Danny Woodhead,5.5,Lamar Miller,11.9,Jeremy Maclin,11,A.J. Green,23.3,Gary Barnidge,14.8,Rams D/ST,12,Adrian Peterson,rb,11.9
+2015,9,Horlacher,Tyrod Taylor,15.6,Danny Woodhead,20.1,Lamar Miller,29.6,Jamison Crowder,8,A.J. Green,7.3,Gary Barnidge,4.5,Rams D/ST,5,Adrian Peterson,rb,21.3
+2015,10,Horlacher,Tyrod Taylor,11.5,Lamar Miller,18.3,Adrian Peterson,28.6,Jeremy Maclin,3.2,Stefon Diggs,6.6,Gary Barnidge,15.5,Rams D/ST,2,A.J. Green,wr,7.2
+2015,11,Horlacher,Tony Romo,13.3,Danny Woodhead,2.1,Lamar Miller,6.5,Stefon Diggs,9.6,A.J. Green,9.9,Antonio Gates,1.1,Rams D/ST,5,Adrian Peterson,rb,11.1
+2015,12,Horlacher,Tony Romo,-1.8,Danny Woodhead,7.7,Lamar Miller,2.8,Stefon Diggs,5.1,A.J. Green,21.1,Gary Barnidge,12.6,Rams D/ST,0,Adrian Peterson,rb,31.7
+2016,1,Horlacher,Derek Carr,22.4,Lamar Miller,13.7,Giovani Bernard,4,Allen Robinson,10.2,Amari Cooper,18.7,Dwayne Allen,15.3,Texans D/ST,10,Larry Fitzgerald,wr,24.1
+2016,2,Horlacher,Derek Carr,25,Lamar Miller,10.7,Isaiah Crowell,21.3,Allen Robinson,6.9,Amari Cooper,9.6,Dwayne Allen,3.5,Texans D/ST,15,Larry Fitzgerald,wr,16.6
+2016,3,Horlacher,Derek Carr,11.9,Lamar Miller,12.7,Isaiah Crowell,7.9,Allen Robinson,21.2,Amari Cooper,8.2,Dwayne Allen,5,Texans D/ST,3,Larry Fitzgerald,wr,9.5
+2016,4,Horlacher,Derek Carr,23.8,Lamar Miller,12.3,Tevin Coleman,4.8,Allen Robinson,14,Amari Cooper,7.3,Jimmy Graham,14.3,Texans D/ST,9,Larry Fitzgerald,wr,8.8
+2016,5,Horlacher,Derek Carr,22,Lamar Miller,2.9,Giovani Bernard,12.6,Larry Fitzgerald,23.1,Marvin Jones,11.7,Dwayne Allen,14,Texans D/ST,0,Antonio Brown,wr,18.3
+2016,6,Horlacher,Derek Carr,9.8,Lamar Miller,31.3,Giovani Bernard,11.4,Larry Fitzgerald,7.9,Antonio Brown,6.5,Jimmy Graham,11.9,Texans D/ST,4,Allen Robinson,wr,6.4
+2016,7,Horlacher,Derek Carr,12.4,Lamar Miller,8.2,Tevin Coleman,13.9,Larry Fitzgerald,11.5,Antonio Brown,15.4,Jimmy Graham,7.8,Buccaneers D/ST,13,Allen Robinson,wr,1.9
+2016,8,Horlacher,Derek Carr,35.8,Lamar Miller,13.3,Giovani Bernard,13.1,Larry Fitzgerald,12.4,Marvin Jones,4.8,Jimmy Graham,4.9,Texans D/ST,6,Allen Robinson,wr,10
+2016,9,Horlacher,Derek Carr,7.7,n/a,0,n/a,0,Marvin Jones,1,Antonio Brown,18,Jimmy Graham,26.3,Saints D/ST,4,Allen Robinson,wr,17.1
+2016,10,Horlacher,Sam Bradford,18.3,Lamar Miller,8.3,Giovani Bernard,5.1,Larry Fitzgerald,19.2,Antonio Brown,27.4,Jimmy Graham,6.8,Texans D/ST,12,Allen Robinson,wr,23.2
+2016,11,Horlacher,Derek Carr,21.6,Lamar Miller,18.3,Giovani Bernard,8.6,Larry Fitzgerald,9.3,Antonio Brown,11.6,Jimmy Graham,12.1,Texans D/ST,2,Allen Robinson,wr,9.3
+2016,12,Horlacher,Derek Carr,17.4,Lamar Miller,7,Jay Ajayi,12.1,Allen Robinson,3.4,Antonio Brown,29.6,Jimmy Graham,7.7,Texans D/ST,3,Tevin Coleman,rb,8.3

@@ -11,9 +11,6 @@ team_IDs = ['Erik Stryshak', 'Charlie Frank', "Brendan Hart",
             'Tommy Stupp', 'Peter Condie', 'James Carman',
             'Chandler Dalton', 'Ozair Ferozuddin']
 
-# for testing changes
-team_ID = ['Erik Stryshak']
-
 # 0 is team_ID, add 1 for url
 # 1 is week, 2013 had 13 weeks, every other season had 12
 # 2 is year 2013-2016 for now
@@ -21,8 +18,8 @@ base_url = 'http://games.espn.com/ffl/boxscorequick?leagueId=416193&teamId={0}&s
 
 # years to iteratre through
 years = [2017]
-# weeks list to iterate through
-weeks = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]
+# weeks list to iterate through, max is 1 to 13
+weeks = [1, 2, 3, 4]
 # id of team to start with
 team_ID = 1
 # list to store team objects
@@ -72,8 +69,16 @@ for team in team_IDs:
                         # position of the player is first td
                         position = line[0].text
                         # if the position is FLEX, determine the actual position
+                        # known bug if injury
                         if position == 'FLEX':
                             position = line[1].text[-2:]
+                            if 'O' in position or 'Q' in position or 'D' in position:
+                                position = line[1].text[-5:-3]
+                            elif position=='IR':
+                                position = line[1].text[-6:-4]
+                            else:
+                                pass
+
                         # boolean to determine if an error is raised or not
                         err_raise = False
                         try:
@@ -99,6 +104,7 @@ for team in team_IDs:
                             points = line[4].text
                         # add the data to the match unless it is a bye week player
                         if not bye_week_player:
+                            print("{}|{}|{}|{}".format(team, position, player_name, points))
                             temp_match.add_data(position, points, player_name)
                 # add the full match to the team match list
                 temp_team.add_match(temp_match)
