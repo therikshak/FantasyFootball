@@ -8,14 +8,14 @@ Classes
 		-contains team name, year, week, and a list of each position
 		-each position list contains a list with the player name and their points scored
 Programs
-	FantasyFootballScraping.py: WEEKLY UPDATE
+	FantasyFootballScraping.py: WEEKLY UPDATE 1
 		-Outputs CSV with total team matchup results (no players)
 		-Change Year and # of Weeks at top of file
 		-Copy Paste CSV to Excel file
-	GetPLayerMatchupData.py: WEEKLY UPDATE
+	GetPLayerMatchupData.py: WEEKLY UPDATE 2
 		-Outputs CSV with matchup results containing each player's score
 		-Change years and weeks lists
-	CombineTeamData.py
+	CombineTeamData.py WEEKLY UPDATE 3
 		-Combines each individual teams data(player scores by week) into one csv file named 'All_Team_Matchups.csv'
 	CalculateRankings.py
 		-NOT COMPLETE

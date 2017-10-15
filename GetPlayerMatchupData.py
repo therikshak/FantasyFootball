@@ -19,7 +19,7 @@ base_url = 'http://games.espn.com/ffl/boxscorequick?leagueId=416193&teamId={0}&s
 # years to iteratre through
 years = [2017]
 # weeks list to iterate through, max is 1 to 13
-weeks = [1, 2, 3, 4]
+weeks = [1, 2, 3, 4, 5]
 # id of team to start with
 team_ID = 1
 # list to store team objects
@@ -104,7 +104,7 @@ for team in team_IDs:
                             points = line[4].text
                         # add the data to the match unless it is a bye week player
                         if not bye_week_player:
-                            print("{}|{}|{}|{}".format(team, position, player_name, points))
+                            # print("{}|{}|{}|{}".format(team, position, player_name, points))
                             temp_match.add_data(position, points, player_name)
                 # add the full match to the team match list
                 temp_team.add_match(temp_match)
