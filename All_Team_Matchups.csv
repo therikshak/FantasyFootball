@@ -1,0 +1,127 @@
+YEAR,WEEK,TEAM_NAME,QB_NAME,QB_SCORE,RB_NAME,RB_SCORE,RB_NAME.1,RB_SCORE.1,WR_NAME,WR_SCORE,WR_NAME.1,WR_SCORE.1,TE_NAME,TE_SCORE,DST_NAME,DST_SCORE,FLEX_NAME,FLEX_POS,FLEX_SCORE
+2017,1,Andrew McDowell,Andy Dalton,-3.0,LeSean McCoy,18.4,Ty Montgomery,17.3,Keenan Allen,12.0,Sterling Shepard,8.5,Jared Cook,8.1,Vikings D/ST,1.1,Rob Kelley,rb,3.0
+2017,2,Andrew McDowell,Jameis Winston,12.5,LeSean McCoy,7.3,Ty Montgomery,26.0,Keenan Allen,14.5,Sterling Shepard,4.0,Jared Cook,4.5,Vikings D/ST,1.1,Rob Kelley,rb,7.8
+2017,3,Andrew McDowell,Jameis Winston,15.5,LeSean McCoy,10.4,Ty Montgomery,9.0,Keenan Allen,8.6,Sterling Shepard,22.8,Jared Cook,12.3,Vikings D/ST,8.4,Brandon Coleman,wr,7.6
+2017,4,Andrew McDowell,Andy Dalton,28.3,LeSean McCoy,12.3,Ty Montgomery,2.8,Keenan Allen,16.3,Sterling Shepard,7.9,Jared Cook,6.1,Vikings D/ST,8.7,Willie Snead,wr,0.0
+2017,5,Andrew McDowell,Jameis Winston,18.5,LeSean McCoy,11.9,Jamaal Williams,0.1,Keenan Allen,8.7,Sterling Shepard,1.4,Jared Cook,2.0,Vikings D/ST,7.1,Tavon Austin,wr,9.6
+2017,6,Andrew McDowell,Jameis Winston,2.4,Ty Montgomery,3.6,Rob Kelley,0.0,Keenan Allen,7.0,Tavon Austin,0.0,Jared Cook,2.4,Vikings D/ST,13.9,Willie Snead,wr,1.6
+2017,7,Andrew McDowell,Jameis Winston,23.4,LeSean McCoy,24.7,Ty Montgomery,2.0,Keenan Allen,5.6,Sterling Shepard,0.0,Jared Cook,13.7,Vikings D/ST,8.3,Rob Kelley,rb,4.0
+2017,8,Andrew McDowell,Andy Dalton,18.7,LeSean McCoy,26.3,DeAndre Washington,16.8,Keenan Allen,8.1,Willie Snead,0.0,Jared Cook,7.7,Vikings D/ST,8.9,Rob Kelley,rb,7.9
+2017,9,Andrew McDowell,Jameis Winston,3.5,LeSean McCoy,2.5,Ty Montgomery,5.6,Sterling Shepard,9.5,Marquise Goodwin,7.8,Jared Cook,16.6,Raiders D/ST,1.3,Rob Kelley,rb,13.8
+2017,1,Brendan Hart,Russell Wilson,8.3,Todd Gurley II,18.1,David Johnson,10.0,Dez Bryant,5.3,Allen Robinson,2.2,Travis Kelce,6.9,Panthers D/ST,13.2,Terrance West,rb,14.0
+2017,2,Brendan Hart,Russell Wilson,15.3,Todd Gurley II,25.1,Terrance West,11.5,Dez Bryant,15.4,Pierre Garcon,4.1,Travis Kelce,20.3,Panthers D/ST,9.0,Corey Davis,wr,0.9
+2017,3,Brendan Hart,Russell Wilson,33.5,Todd Gurley II,35.4,Jalen Richard,1.3,Dez Bryant,8.2,Pierre Garcon,17.7,Travis Kelce,0.6,Packers D/ST,6.1,Jordan Matthews,wr,7.6
+2017,4,Brendan Hart,Russell Wilson,27.6,Todd Gurley II,31.0,Terrance West,-0.7,Dez Bryant,12.3,Pierre Garcon,5.6,Travis Kelce,20.9,Packers D/ST,10.6,Jordan Matthews,wr,8.0
+2017,5,Brendan Hart,Russell Wilson,11.5,Todd Gurley II,4.0,Latavius Murray,5.3,Dez Bryant,13.7,Pierre Garcon,13.4,Travis Kelce,13.8,Steelers D/ST,4.9,Devin Funchess,wr,14.8
+2017,6,Brendan Hart,Philip Rivers,14.3,Todd Gurley II,12.5,Andre Ellington,0.0,Pierre Garcon,8.0,Devin Funchess,5.1,Travis Kelce,5.7,Redskins D/ST,4.5,Matt Breida,rb,4.6
+2017,7,Brendan Hart,Russell Wilson,26.4,Todd Gurley II,23.4,Latavius Murray,17.3,Dez Bryant,15.8,Pierre Garcon,7.4,Travis Kelce,11.3,Eagles D/ST,5.3,Devin Funchess,wr,6.1
+2017,8,Brendan Hart,Russell Wilson,35.1,Latavius Murray,5.2,Jalen Richard,6.1,Dez Bryant,5.9,Devin Funchess,2.1,Travis Kelce,22.8,Eagles D/ST,19.6,Pierre Garcon,wr,2.7
+2017,9,Brendan Hart,Russell Wilson,23.6,Todd Gurley II,23.4,Eddie Lacy,3.9,Dez Bryant,10.3,Devin Funchess,11.1,Travis Kelce,16.8,Eagles D/ST,9.8,Corey Davis,wr,3.8
+2017,1,Chandler Dalton,Cam Newton,13.1,DeMarco Murray,7.0,Kareem Hunt,43.1,Demaryius Thomas,9.2,Jeremy Maclin,12.6,Jason Witten,15.4,Jaguars D/ST,28.8,Leonard Fournette,rb,19.9
+2017,2,Chandler Dalton,Cam Newton,11.8,Leonard Fournette,13.1,Kareem Hunt,24.4,Demaryius Thomas,10.1,Jeremy Maclin,11.1,Coby Fleener,10.8,Jaguars D/ST,-0.7,DeMarco Murray,rb,3.3
+2017,3,Chandler Dalton,Cam Newton,8.3,Leonard Fournette,15.5,Kareem Hunt,24.8,Demaryius Thomas,12.8,Jeremy Maclin,1.3,Jason Witten,0.8,Jaguars D/ST,13.2,DeVante Parker,wr,17.6
+2017,4,Chandler Dalton,Alex Smith,27.3,Leonard Fournette,22.5,Kareem Hunt,14.1,Demaryius Thomas,1.6,DeVante Parker,9.9,Jason Witten,1.4,Jaguars D/ST,11.9,Mark Ingram,rb,8.2
+2017,5,Chandler Dalton,Cam Newton,26.2,Leonard Fournette,30.9,Kareem Hunt,13.1,Jeremy Maclin,7.3,DeVante Parker,1.1,Jason Witten,8.1,Jaguars D/ST,25.1,DeMarco Murray,rb,6.9
+2017,6,Chandler Dalton,Alex Smith,15.1,Leonard Fournette,20.8,Kareem Hunt,13.5,Demaryius Thomas,16.3,Mike Evans,17.0,Coby Fleener,0.0,Jaguars D/ST,5.7,DeMarco Murray,rb,16.7
+2017,7,Chandler Dalton,Alex Smith,25.7,Kareem Hunt,13.7,Chris Ivory,8.7,Demaryius Thomas,1.9,Mike Evans,18.3,Jason Witten,13.4,Jaguars D/ST,15.4,DeMarco Murray,rb,9.1
+2017,8,Chandler Dalton,Alex Smith,13.4,Kareem Hunt,8.3,Tarik Cohen,7.3,Demaryius Thomas,9.1,Mike Evans,8.5,Jason Witten,4.6,Falcons D/ST,6.2,Ted Ginn Jr.,wr,7.8
+2017,9,Chandler Dalton,Alex Smith,18.4,DeMarco Murray,5.1,Chris Ivory,11.9,Demaryius Thomas,17.0,Mike Evans,1.8,Jason Witten,1.0,Jaguars D/ST,13.9,Kareem Hunt,rb,8.1
+2017,1,Charlie Frank,Derek Carr,18.7,Isaiah Crowell,9.6,Bilal Powell,6.4,Doug Baldwin,8.0,Mike Wallace,1.3,Greg Olsen,2.8,Eagles D/ST,21.0,Tyrell Williams,wr,7.9
+2017,2,Charlie Frank,Derek Carr,21.2,Isaiah Crowell,3.7,Bilal Powell,1.3,Doug Baldwin,7.4,Mike Wallace,1.2,Greg Olsen,1.5,Eagles D/ST,2.8,Tyrell Williams,wr,7.4
+2017,3,Charlie Frank,Derek Carr,5.2,Isaiah Crowell,6.4,Jonathan Stewart,6.6,Doug Baldwin,21.5,Jermaine Kearse,5.7,Zach Miller,2.2,Eagles D/ST,1.9,Tyrell Williams,wr,2.5
+2017,4,Charlie Frank,Derek Carr,9.7,Isaiah Crowell,3.2,Jonathan Stewart,4.8,Doug Baldwin,7.0,Jermaine Kearse,3.7,Zach Miller,5.5,Eagles D/ST,2.2,Tyrell Williams,wr,20.0
+2017,5,Charlie Frank,Matthew Stafford,15.2,Bilal Powell,5.3,Jonathan Stewart,5.9,Doug Baldwin,5.7,Jermaine Kearse,11.8,Zach Miller,11.4,Lions D/ST,1.4,Tyrell Williams,wr,2.7
+2017,6,Charlie Frank,Matthew Stafford,14.9,Isaiah Crowell,8.3,Jonathan Stewart,-0.4,Mike Wallace,4.5,Jermaine Kearse,9.9,Zach Miller,9.5,Lions D/ST,15.0,Tyrell Williams,wr,2.2
+2017,7,Charlie Frank,Derek Carr,30.2,Isaiah Crowell,9.1,Jonathan Stewart,4.8,Mike Wallace,1.4,Jermaine Kearse,9.4,Zach Miller,3.9,Giants D/ST,0.7,Tyrell Williams,wr,1.6
+2017,8,Charlie Frank,Derek Carr,12.5,Isaiah Crowell,17.8,Jonathan Stewart,9.4,Jermaine Kearse,2.4,Paul Richardson,25.5,Zach Miller,0.0,Lions D/ST,3.0,Doug Baldwin,wr,8.4
+2017,9,Charlie Frank,Derek Carr,13.7,Bilal Powell,7.4,Jonathan Stewart,-1.9,Jermaine Kearse,4.8,Paul Richardson,5.6,Marcedes Lewis,6.4,Lions D/ST,6.1,Doug Baldwin,wr,20.3
+2017,1,Erik Stryshak,Marcus Mariota,18.8,Christian McCaffrey,9.0,Mike Gillislee,22.5,Stefon Diggs,24.2,Kendall Wright,4.9,Jimmy Graham,2.3,Bills D/ST,8.8,Ezekiel Elliott,rb,16.5
+2017,2,Erik Stryshak,Marcus Mariota,13.0,Christian McCaffrey,6.4,Mike Gillislee,12.9,Stefon Diggs,4.1,Chris Hogan,16.3,Jimmy Graham,0.6,Ravens D/ST,13.7,Ezekiel Elliott,rb,4.2
+2017,3,Erik Stryshak,Jay Cutler,11.7,Christian McCaffrey,16.2,Mike Gillislee,3.1,Odell Beckham Jr.,24.4,Stefon Diggs,33.3,Hunter Henry,0.0,Ravens D/ST,-5.2,Ezekiel Elliott,rb,16.9
+2017,4,Erik Stryshak,Marcus Mariota,15.7,Christian McCaffrey,6.9,Ezekiel Elliott,27.9,Stefon Diggs,12.3,Chris Hogan,14.5,Jimmy Graham,8.1,Ravens D/ST,1.2,Odell Beckham Jr.,wr,12.5
+2017,5,Erik Stryshak,Jacoby Brissett,18.0,Christian McCaffrey,12.3,Ezekiel Elliott,13.7,Odell Beckham Jr.,19.0,Chris Hogan,17.4,Jimmy Graham,12.7,n/a,0.0,Stefon Diggs,wr,0.9
+2017,6,Erik Stryshak,Marcus Mariota,14.2,Christian McCaffrey,17.4,Mike Gillislee,2.4,Chris Hogan,2.4,Cooper Kupp,4.5,Jack Doyle,12.5,Falcons D/ST,3.0,Doug Martin,rb,14.9
+2017,7,Erik Stryshak,Marcus Mariota,8.9,Christian McCaffrey,8.1,Doug Martin,9.0,Chris Hogan,9.1,Mike Williams,0.0,Jimmy Graham,12.6,Saints D/ST,5.1,Ezekiel Elliott,rb,40.4
+2017,8,Erik Stryshak,Josh McCown,18.3,Christian McCaffrey,7.7,Dion Lewis,6.4,Stefon Diggs,4.6,Chris Hogan,8.5,Jimmy Graham,17.9,Saints D/ST,5.9,Ezekiel Elliott,rb,25.9
+2017,9,Erik Stryshak,Marcus Mariota,15.3,Christian McCaffrey,17.9,Doug Martin,0.7,Josh Doctson,7.4,Cooper Kupp,6.9,Jimmy Graham,8.4,Saints D/ST,18.4,Ezekiel Elliott,rb,15.3
+2017,1,Geoffrey Raclin,Drew Brees,15.6,Paul Perkins,3.5,Devonta Freeman,10.9,A.J. Green,9.9,Golden Tate,16.4,Martellus Bennett,5.8,Giants D/ST,0.1,Theo Riddick,rb,11.6
+2017,2,Geoffrey Raclin,Drew Brees,22.2,Paul Perkins,3.2,Devonta Freeman,23.0,A.J. Green,9.2,Golden Tate,4.5,Martellus Bennett,7.2,Giants D/ST,6.0,DeSean Jackson,wr,5.4
+2017,3,Geoffrey Raclin,Drew Brees,20.8,Paul Perkins,4.0,Devonta Freeman,21.3,A.J. Green,22.1,Golden Tate,15.3,Martellus Bennett,2.7,Giants D/ST,3.6,Marvin Jones Jr.,wr,3.9
+2017,4,Geoffrey Raclin,Drew Brees,19.0,Devonta Freeman,14.8,LeGarrette Blount,16.1,A.J. Green,14.8,Golden Tate,4.6,Martellus Bennett,6.9,Giants D/ST,-1.7,Marvin Jones Jr.,wr,5.2
+2017,5,Geoffrey Raclin,Eli Manning,13.0,Theo Riddick,7.3,LeGarrette Blount,7.4,A.J. Green,26.4,Golden Tate,7.3,Martellus Bennett,6.8,Giants D/ST,2.0,Marvin Jones Jr.,wr,8.4
+2017,6,Geoffrey Raclin,Drew Brees,11.5,Devonta Freeman,8.9,LeGarrette Blount,8.7,Golden Tate,19.1,DeSean Jackson,11.3,Martellus Bennett,3.2,Steelers D/ST,7.9,Marvin Jones Jr.,wr,18.6
+2017,7,Geoffrey Raclin,Drew Brees,19.1,Devonta Freeman,10.5,LeGarrette Blount,2.9,A.J. Green,5.6,DeSean Jackson,9.8,Martellus Bennett,2.7,Steelers D/ST,12.2,Mohamed Sanu,wr,9.5
+2017,8,Geoffrey Raclin,Drew Brees,11.8,Devonta Freeman,6.6,LeGarrette Blount,11.7,A.J. Green,10.2,DeSean Jackson,5.2,Tyler Kroft,7.1,Steelers D/ST,2.0,Marvin Jones Jr.,wr,15.8
+2017,9,Geoffrey Raclin,Drew Brees,18.7,Devonta Freeman,8.4,Aaron Jones,2.1,A.J. Green,1.1,Golden Tate,14.8,Tyler Kroft,8.9,n/a,0.0,Marvin Jones Jr.,wr,26.2
+2017,1,Horlacher,Ben Roethlisberger,15.7,Tevin Coleman,7.8,LeGarrette Blount,11.2,Antonio Brown,23.7,Brandin Cooks,10.3,Antonio Gates,2.7,Steelers D/ST,19.4,Kelvin Benjamin,wr,3.0
+2017,2,Horlacher,Ben Roethlisberger,17.5,Tevin Coleman,11.5,LeGarrette Blount,0.5,Antonio Brown,8.7,Brandin Cooks,5.3,Julius Thomas,4.1,Raiders D/ST,9.4,Jarvis Landry,wr,13.6
+2017,3,Horlacher,Tyrod Taylor,17.8,Tevin Coleman,10.4,Chris Carson,12.2,Antonio Brown,22.0,Kelvin Benjamin,1.8,Benjamin Watson,8.7,Dolphins D/ST,4.1,Jarvis Landry,wr,7.8
+2017,4,Horlacher,Tyrod Taylor,12.5,Tevin Coleman,16.2,Chris Carson,8.1,Antonio Brown,5.4,Brandin Cooks,5.7,Benjamin Watson,6.8,Titans D/ST,-3.1,Jarvis Landry,wr,7.0
+2017,5,Horlacher,Tyrod Taylor,8.9,Giovani Bernard,4.2,Corey Clement,4.4,Antonio Brown,20.7,Brandin Cooks,11.0,Benjamin Watson,1.2,Titans D/ST,9.8,Jarvis Landry,wr,12.9
+2017,6,Horlacher,Ben Roethlisberger,11.9,Tevin Coleman,10.1,Corey Clement,0.2,Antonio Brown,25.5,Brandin Cooks,12.3,Benjamin Watson,5.8,Titans D/ST,4.5,Jarvis Landry,wr,16.2
+2017,7,Horlacher,Tyrod Taylor,20.0,Tevin Coleman,1.6,Giovani Bernard,1.2,Antonio Brown,14.5,Brandin Cooks,14.5,Benjamin Watson,6.3,Titans D/ST,10.9,Jarvis Landry,wr,18.8
+2017,8,Horlacher,Tyrod Taylor,16.7,Tevin Coleman,10.9,Giovani Bernard,0.5,Antonio Brown,9.5,Brandin Cooks,5.1,Benjamin Watson,7.6,Buccaneers D/ST,4.2,Jarvis Landry,wr,5.8
+2017,9,Horlacher,Tyrod Taylor,26.9,Tevin Coleman,8.9,Giovani Bernard,-0.1,Jarvis Landry,12.2,Terrelle Pryor Sr.,2.7,Benjamin Watson,7.6,Titans D/ST,6.0,Julius Thomas,te,17.4
+2017,1,James Carman,Aaron Rodgers,16.5,Marshawn Lynch,9.7,Alfred Morris,0.1,Larry Fitzgerald,10.4,Terrelle Pryor Sr.,9.6,Hunter Henry,0.0,Chiefs D/ST,1.3,James White,rb,8.3
+2017,2,James Carman,Aaron Rodgers,18.5,Marshawn Lynch,11.4,James White,13.6,Larry Fitzgerald,3.6,Terrelle Pryor Sr.,4.1,Jesse James,4.7,Chiefs D/ST,8.7,Eric Decker,wr,4.7
+2017,3,James Carman,Aaron Rodgers,24.8,Marshawn Lynch,3.1,James White,3.3,Larry Fitzgerald,27.4,Terrelle Pryor Sr.,2.9,Jesse James,2.9,Chiefs D/ST,9.8,Eric Decker,wr,6.9
+2017,4,James Carman,Aaron Rodgers,23.1,Marshawn Lynch,1.2,Chris Johnson,7.8,Larry Fitzgerald,11.2,Terrelle Pryor Sr.,14.5,Marcedes Lewis,0.0,Chiefs D/ST,8.2,Robert Woods,wr,2.7
+2017,5,James Carman,Aaron Rodgers,24.0,James White,9.5,Aaron Jones,19.9,Larry Fitzgerald,8.1,Danny Amendola,11.7,Marcedes Lewis,1.9,Chiefs D/ST,7.7,Tyler Lockett,wr,4.8
+2017,6,James Carman,Aaron Rodgers,0.7,Marshawn Lynch,6.3,Aaron Jones,4.7,Larry Fitzgerald,22.8,Danny Amendola,5.5,Ed Dickson,5.6,Chiefs D/ST,1.5,James White,rb,6.5
+2017,7,James Carman,Brett Hundley,11.9,Marshawn Lynch,0.9,Aaron Jones,21.3,Larry Fitzgerald,4.4,Danny Amendola,3.2,Ed Dickson,3.3,Chiefs D/ST,-3.1,Eric Decker,wr,0.0
+2017,8,James Carman,Mitchell Trubisky,9.9,James White,11.2,Austin Ekeler,2.6,Tyler Lockett,14.9,Danny Amendola,2.4,Ed Dickson,4.4,Chiefs D/ST,18.7,Terrelle Pryor Sr.,wr,0.0
+2017,9,James Carman,Josh McCown,16.9,Marshawn Lynch,19.3,Rod Smith,0.0,Larry Fitzgerald,9.5,Mohamed Sanu,9.8,Ed Dickson,0.0,49ers D/ST,3.4,Kenny Stills,wr,4.3
+2017,1,Ozair Ferozuddin,Dak Prescott,17.1,Jordan Howard,14.1,Lamar Miller,10.6,Tyreek Hill,23.3,Randall Cobb,13.0,Zach Ertz,13.3,Cardinals D/ST,7.0,Brandon Marshall,wr,1.5
+2017,2,Ozair Ferozuddin,Dak Prescott,15.9,Jordan Howard,0.7,Lamar Miller,10.2,Tyreek Hill,6.9,Randall Cobb,10.0,Zach Ertz,12.2,Cardinals D/ST,8.6,Brandon Marshall,wr,2.2
+2017,3,Ozair Ferozuddin,Dak Prescott,22.9,Lamar Miller,6.8,Chris Thompson,27.8,Tyreek Hill,17.5,J.J. Nelson,0.0,Zach Ertz,13.5,Cardinals D/ST,1.1,Darren Sproles,rb,1.1
+2017,4,Ozair Ferozuddin,Dak Prescott,22.6,Lamar Miller,27.1,Chris Thompson,1.2,Tyreek Hill,6.0,Randall Cobb,12.4,Zach Ertz,10.6,Cardinals D/ST,6.5,Jordan Howard,rb,13.3
+2017,5,Ozair Ferozuddin,Dak Prescott,29.7,Jordan Howard,7.6,Lamar Miller,9.9,Tyreek Hill,14.8,Randall Cobb,4.9,Zach Ertz,15.1,Raiders D/ST,-1.1,Kendall Wright,wr,6.6
+2017,6,Ozair Ferozuddin,Jared Goff,9.9,Jordan Howard,18.1,Lamar Miller,9.6,Tyreek Hill,5.0,Randall Cobb,4.3,Zach Ertz,14.8,Cardinals D/ST,3.4,Chris Thompson,rb,15.8
+2017,7,Ozair Ferozuddin,Dak Prescott,30.0,Jordan Howard,6.5,Jerick McKinnon,7.2,Tyreek Hill,22.2,Robert Woods,8.8,Zach Ertz,17.4,Dolphins D/ST,7.1,Chris Thompson,rb,14.9
+2017,8,Ozair Ferozuddin,Dak Prescott,7.3,Jordan Howard,13.6,Jerick McKinnon,23.2,Tyreek Hill,2.8,Kendall Wright,3.3,Zach Ertz,11.4,Dolphins D/ST,1.6,Chris Thompson,rb,11.4
+2017,9,Ozair Ferozuddin,Dak Prescott,26.7,Lamar Miller,10.6,Chris Thompson,5.1,Tyreek Hill,14.3,Robert Woods,21.0,Cameron Brate,1.4,Cardinals D/ST,10.8,Randall Cobb,wr,8.4
+2017,1,Peter Condie,Matt Ryan,17.9,Carlos Hyde,10.7,Dion Lewis,0.9,DeAndre Hopkins,15.0,Davante Adams,6.2,Kyle Rudolph,10.1,Broncos D/ST,6.7,Emmanuel Sanders,wr,4.1
+2017,2,Peter Condie,Matt Ryan,14.9,Jay Ajayi,13.6,Carlos Hyde,15.8,DeAndre Hopkins,10.8,Davante Adams,19.9,Kyle Rudolph,6.5,Broncos D/ST,13.9,Emmanuel Sanders,wr,21.2
+2017,3,Peter Condie,Matt Ryan,13.7,Jay Ajayi,3.5,Carlos Hyde,22.9,DeAndre Hopkins,11.1,Davante Adams,7.5,Kyle Rudolph,0.9,Broncos D/ST,4.4,Emmanuel Sanders,wr,11.0
+2017,4,Peter Condie,Matt Ryan,8.5,Jay Ajayi,5.9,Carlos Hyde,12.0,DeAndre Hopkins,21.7,Davante Adams,8.3,Charles Clay,13.7,Broncos D/ST,8.3,Emmanuel Sanders,wr,4.7
+2017,5,Peter Condie,Carson Palmer,15.6,Jay Ajayi,6.9,Carlos Hyde,2.3,DeAndre Hopkins,25.2,Davante Adams,22.1,Charles Clay,4.1,Ravens D/ST,13.4,Adam Thielen,wr,7.0
+2017,6,Peter Condie,Matt Ryan,11.9,Jay Ajayi,13.0,Carlos Hyde,22.0,DeAndre Hopkins,8.9,Davante Adams,13.9,Kyle Rudolph,7.2,Ravens D/ST,19.8,Adam Thielen,wr,14.1
+2017,7,Peter Condie,Carson Palmer,2.9,Jay Ajayi,9.2,Carlos Hyde,10.8,Davante Adams,2.2,Adam Thielen,6.6,Kyle Rudolph,6.8,Broncos D/ST,4.8,Austin Hooper,te,1.1
+2017,8,Peter Condie,Matt Ryan,15.9,Jay Ajayi,6.1,Carlos Hyde,6.7,DeAndre Hopkins,32.4,Adam Thielen,18.3,Kyle Rudolph,11.7,Ravens D/ST,25.1,Austin Hooper,te,12.7
+2017,9,Peter Condie,Jacoby Brissett,19.5,Jay Ajayi,13.7,C.J. Anderson,1.3,DeAndre Hopkins,17.6,Davante Adams,8.8,Austin Hooper,5.1,Ravens D/ST,6.2,Emmanuel Sanders,wr,3.5
+2017,1,Richard Graney,Sam Bradford,25.5,Dalvin Cook,15.2,Frank Gore,5.7,Michael Thomas,7.0,Cole Beasley,4.7,Jordan Reed,6.1,Bengals D/ST,4.4,Rishard Matthews,wr,9.6
+2017,2,Richard Graney,Trevor Siemian,22.6,Dalvin Cook,7.4,Frank Gore,10.6,Mike Evans,18.8,Michael Thomas,11.4,Jordan Reed,7.8,Bengals D/ST,5.6,Cooper Kupp,wr,4.8
+2017,3,Richard Graney,Trevor Siemian,7.6,Dalvin Cook,25.4,Frank Gore,12.2,Mike Evans,10.2,Michael Thomas,18.2,Eric Ebron,1.9,Patriots D/ST,3.3,Cooper Kupp,wr,2.7
+2017,4,Richard Graney,Trevor Siemian,11.3,Dalvin Cook,11.9,Frank Gore,9.5,Mike Evans,15.2,Michael Thomas,18.9,Jordan Reed,3.6,Bengals D/ST,8.6,Rishard Matthews,wr,6.4
+2017,5,Richard Graney,Sam Bradford,1.4,Frank Gore,10.1,Wayne Gallman,10.7,Mike Evans,7.4,Rishard Matthews,4.6,Eric Ebron,1.1,Bengals D/ST,11.0,Cooper Kupp,wr,5.9
+2017,6,Richard Graney,Cam Newton,20.7,Frank Gore,7.7,Mark Ingram,27.5,Rishard Matthews,8.9,Michael Thomas,2.6,Jordan Reed,5.7,Rams D/ST,20.5,Wayne Gallman,rb,4.2
+2017,7,Richard Graney,Cam Newton,7.4,Frank Gore,3.4,Mark Ingram,19.0,Rishard Matthews,5.5,Michael Thomas,11.7,Jordan Reed,22.4,Rams D/ST,13.1,Orleans Darkwa,rb,6.3
+2017,8,Richard Graney,Cam Newton,12.6,Frank Gore,12.1,Mark Ingram,14.9,Michael Thomas,11.2,Robby Anderson,19.5,Jordan Reed,1.0,Bengals D/ST,13.7,Matt Forte,rb,8.2
+2017,9,Richard Graney,Cam Newton,20.1,Frank Gore,9.2,Mark Ingram,8.4,Michael Thomas,10.5,Robby Anderson,12.8,Vernon Davis,10.2,Rams D/ST,10.9,Matt Forte,rb,23.6
+2017,1,Stefan Hanish,Kirk Cousins,10.6,Le'Veon Bell,6.2,Melvin Gordon,16.4,Alshon Jeffery,7.3,Michael Crabtree,11.3,Jack Doyle,5.1,Patriots D/ST,-2.5,Martavis Bryant,wr,2.4
+2017,2,Stefan Hanish,Kirk Cousins,11.9,Le'Veon Bell,11.1,Melvin Gordon,17.3,Alshon Jeffery,18.7,Michael Crabtree,29.0,Cameron Brate,3.4,Buccaneers D/ST,17.7,Martavis Bryant,wr,17.3
+2017,3,Stefan Hanish,Kirk Cousins,26.8,Le'Veon Bell,18.8,Melvin Gordon,13.9,Alshon Jeffery,7.6,Michael Crabtree,1.2,Jack Doyle,0.6,Buccaneers D/ST,-5.3,Martavis Bryant,wr,4.0
+2017,4,Stefan Hanish,Kirk Cousins,20.6,Le'Veon Bell,32.6,Melvin Gordon,3.4,Alshon Jeffery,10.4,Martavis Bryant,6.3,Jack Doyle,5.2,Buccaneers D/ST,-1.3,Wendell Smallwood,rb,15.9
+2017,5,Stefan Hanish,Josh McCown,13.5,Le'Veon Bell,14.3,Melvin Gordon,31.3,Alshon Jeffery,4.6,Michael Crabtree,17.2,Tyler Kroft,5.8,Bills D/ST,6.0,Ameer Abdullah,rb,3.9
+2017,6,Stefan Hanish,Kirk Cousins,27.8,Le'Veon Bell,26.6,Melvin Gordon,31.5,Alshon Jeffery,9.1,Michael Crabtree,14.2,Hunter Henry,11.5,Packers D/ST,3.3,Ameer Abdullah,rb,5.4
+2017,7,Stefan Hanish,Kirk Cousins,23.9,Le'Veon Bell,20.7,Melvin Gordon,4.9,Alshon Jeffery,4.7,Michael Crabtree,9.9,Hunter Henry,9.3,Bills D/ST,3.7,Wendell Smallwood,rb,4.9
+2017,8,Stefan Hanish,Kirk Cousins,10.5,Le'Veon Bell,13.1,Melvin Gordon,20.4,Alshon Jeffery,15.2,Michael Crabtree,10.8,Hunter Henry,2.1,Bills D/ST,14.4,Ameer Abdullah,rb,5.3
+2017,9,Stefan Hanish,Kirk Cousins,8.3,Ameer Abdullah,10.2,Andre Ellington,2.4,Michael Crabtree,5.5,Nelson Agholor,4.6,Ryan Griffin,0.0,Bills D/ST,-1.1,Alshon Jeffery,wr,23.4
+2017,1,Tommy Stupp,Tom Brady,10.7,Adrian Peterson,1.8,C.J. Anderson,9.3,Julio Jones,8.6,T.Y. Hilton,5.2,Delanie Walker,11.1,Seahawks D/ST,5.9,Eddie Lacy,rb,0.3
+2017,2,Tommy Stupp,Tom Brady,30.8,C.J. Anderson,28.9,Jacquizz Rodgers,12.7,Julio Jones,13.3,T.Y. Hilton,6.9,Delanie Walker,14.2,Seahawks D/ST,7.6,Javorius Allen,rb,18.6
+2017,3,Tommy Stupp,Tom Brady,35.7,C.J. Anderson,5.3,Jacquizz Rodgers,1.5,Julio Jones,12.6,T.Y. Hilton,24.8,Delanie Walker,5.1,Steelers D/ST,6.2,Javorius Allen,rb,5.3
+2017,4,Tommy Stupp,Tom Brady,20.5,C.J. Anderson,13.2,Jacquizz Rodgers,11.8,Julio Jones,4.5,T.Y. Hilton,4.5,Delanie Walker,6.6,Seahawks D/ST,21.7,Javorius Allen,rb,7.4
+2017,5,Tommy Stupp,Tom Brady,12.6,Jacquizz Rodgers,2.0,Javorius Allen,16.5,T.Y. Hilton,21.2,Will Fuller V,19.2,Delanie Walker,4.0,Seahawks D/ST,10.9,Evan Engram,te,0.0
+2017,6,Tommy Stupp,Tom Brady,16.2,C.J. Anderson,1.7,Alvin Kamara,10.2,Julio Jones,10.2,T.Y. Hilton,2.4,Delanie Walker,3.4,Panthers D/ST,4.3,Javorius Allen,rb,8.1
+2017,7,Tommy Stupp,Tom Brady,18.5,C.J. Anderson,6.6,Alvin Kamara,13.2,Julio Jones,20.4,T.Y. Hilton,3.7,Delanie Walker,7.8,Seahawks D/ST,8.3,Adrian Peterson,rb,3.8
+2017,8,Tommy Stupp,Tom Brady,17.5,C.J. Anderson,9.0,Alvin Kamara,15.1,Julio Jones,8.9,T.Y. Hilton,2.5,Vernon Davis,3.0,Seahawks D/ST,10.7,Javorius Allen,rb,6.2
+2017,9,Tommy Stupp,Matt Ryan,18.4,Alvin Kamara,28.2,Carlos Hyde,17.0,Julio Jones,14.8,Will Fuller V,4.2,Evan Engram,15.0,Seahawks D/ST,12.4,Adrian Peterson,rb,15.7
+2017,1,Trey Shmo,Carson Wentz,18.9,Danny Woodhead,5.2,Duke Johnson Jr.,3.0,Amari Cooper,14.7,Jordy Nelson,17.4,Rob Gronkowski,4.3,Texans D/ST,0.7,Sammy Watkins,wr,8.3
+2017,2,Trey Shmo,Carson Wentz,24.8,Joe Mixon,4.6,Kerwynn Williams,2.2,Amari Cooper,5.3,Jordy Nelson,0.0,Rob Gronkowski,20.6,Texans D/ST,7.7,Sammy Watkins,wr,4.0
+2017,3,Trey Shmo,Carson Wentz,13.2,Joe Mixon,11.6,Duke Johnson Jr.,19.4,Amari Cooper,1.1,Jordy Nelson,20.2,Rob Gronkowski,18.9,Colts D/ST,5.6,Sammy Watkins,wr,25.6
+2017,4,Trey Shmo,Carson Wentz,15.1,Joe Mixon,6.8,Duke Johnson Jr.,16.5,Amari Cooper,1.9,Jordy Nelson,21.5,Rob Gronkowski,10.0,Texans D/ST,21.9,Sammy Watkins,wr,2.2
+2017,5,Trey Shmo,Carson Wentz,27.3,Joe Mixon,11.1,Duke Johnson Jr.,15.8,Amari Cooper,1.3,Jordy Nelson,9.4,Austin Seferian-Jenkins,11.9,Texans D/ST,-4.7,Sammy Watkins,wr,0.0
+2017,6,Trey Shmo,Carson Wentz,21.4,Duke Johnson Jr.,5.4,Samaje Perine,12.2,Amari Cooper,5.3,Jordy Nelson,9.0,Rob Gronkowski,23.3,Texans D/ST,21.3,Sammy Watkins,wr,1.6
+2017,7,Trey Shmo,Carson Wentz,31.0,Joe Mixon,8.3,Duke Johnson Jr.,10.1,Amari Cooper,38.5,Jordy Nelson,1.8,Rob Gronkowski,6.6,Cowboys D/ST,13.6,Sammy Watkins,wr,5.7
+2017,8,Trey Shmo,Carson Wentz,17.1,Joe Mixon,10.4,Duke Johnson Jr.,6.3,Amari Cooper,7.7,Jamison Crowder,18.0,Rob Gronkowski,14.2,Texans D/ST,-1.2,Austin Seferian-Jenkins,te,5.3
+2017,9,Trey Shmo,Carson Wentz,24.8,Joe Mixon,12.1,Kenyan Drake,13.4,Amari Cooper,7.8,Jordy Nelson,5.5,Austin Seferian-Jenkins,3.0,Texans D/ST,10.4,Sammy Watkins,wr,13.2

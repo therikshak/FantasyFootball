@@ -5,7 +5,7 @@ import requests
 # start year
 year = 2017
 # how many weeks
-week_cap = 5
+week_cap = 9
 # base_url just has to fill in the year
 base_url = 'http://games.espn.com/ffl/schedule?leagueId=416193&seasonId={0}'
 
